@@ -1,0 +1,322 @@
+{
+  "resources": [
+    {
+      "name": "gini-index",
+      "path": "data/gini-index.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 38167,
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Indicator Name",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Indicator Code",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "1960",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1961",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1962",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1963",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1964",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1965",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1966",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1967",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1968",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1969",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1970",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1971",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1972",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1973",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1974",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1975",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1976",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1977",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1978",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1979",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1980",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1981",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1982",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1983",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1984",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1985",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1986",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1987",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1988",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1989",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1990",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1991",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1992",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1993",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1994",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1995",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1996",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1997",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1998",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "1999",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2000",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2001",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2002",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2003",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2004",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2005",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2006",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2007",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2008",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2009",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2010",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2011",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2012",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2013",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2014",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "2015",
+            "type": "number",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ],
+  "name": "gini-index",
+  "title": "Historic values of the GINI Index",
+  "description": "The repository of the data package of the GINI Index",
+  "homepage": "https://github.com/gsilvapt/gini-index",
+  "version": "0.1.0",
+  "license": "ODC-PDDL-1.0",
+  "repository": "git://github.com/gsilvapt/gini-index.git"
+}
