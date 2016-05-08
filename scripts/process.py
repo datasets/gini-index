@@ -9,8 +9,9 @@ os.chdir('/gini-index/data/')    # no need to leave yours here
 
 def main():
     df = pd.read_csv("gini-index.csv")      # Reading the source csv
-    df = pd.melt(df, id_vars=['Country Name', 'Country Code'], var_name="Year", value_name="Vaue")     # Unpivoting
-    df = df.sort_values(['Country Name']) # Sorting by country
+    df = pd.melt(df, id_vars=['Country Name', 'Country Code'], var_name="Year",
+            value_name="Value")     # Unpivoting
+    df = df.sort_values(by=['Country Name', 'Year'], ascending=[False, True]) # Sorting by country
 
     df.dropna().to_csv('gini-index.csv', sep=",", index=False)   # Saving CSV
 
