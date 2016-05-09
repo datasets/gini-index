@@ -1,3503 +1,1256 @@
-Country Name,Country Code,Year,Vaue
-Zimbabwe,ZWE,Vaue,SI.POV.GINI
-Zimbabwe,ZWE,Vaue,GINI index (World Bank estimate)
-Zimbabwe,ZWE,Year,Indicator Code
-Zimbabwe,ZWE,Year,Indicator Name
-Zambia,ZMB,Vaue,"60,51"
-Zambia,ZMB,Vaue,"52,61"
-Zambia,ZMB,Vaue,"48,33"
-Zambia,ZMB,Vaue,"49,13"
-Zambia,ZMB,Vaue,"42,06"
-Zambia,ZMB,Vaue,"54,29"
-Zambia,ZMB,Vaue,"54,62"
-Zambia,ZMB,Vaue,"55,62"
-Zambia,ZMB,Vaue,SI.POV.GINI
-Zambia,ZMB,Vaue,GINI index (World Bank estimate)
-Zambia,ZMB,Year,1991
-Zambia,ZMB,Year,1993
-Zambia,ZMB,Year,1996
-Zambia,ZMB,Year,1998
-Zambia,ZMB,Year,2002
-Zambia,ZMB,Year,2004
-Zambia,ZMB,Year,2006
-Zambia,ZMB,Year,2010
-Zambia,ZMB,Year,Indicator Code
-Zambia,ZMB,Year,Indicator Name
-"Yemen, Rep.",YEM,Vaue,"35,89"
-"Yemen, Rep.",YEM,Vaue,SI.POV.GINI
-"Yemen, Rep.",YEM,Vaue,GINI index (World Bank estimate)
-"Yemen, Rep.",YEM,Year,2005
-"Yemen, Rep.",YEM,Year,Indicator Code
-"Yemen, Rep.",YEM,Year,Indicator Name
-World,WLD,Vaue,SI.POV.GINI
-World,WLD,Vaue,GINI index (World Bank estimate)
-World,WLD,Year,Indicator Code
-World,WLD,Year,Indicator Name
-West Bank and Gaza,PSE,Vaue,"33,97"
-West Bank and Gaza,PSE,Vaue,"34,72"
-West Bank and Gaza,PSE,Vaue,"33,96"
-West Bank and Gaza,PSE,Vaue,"35,61"
-West Bank and Gaza,PSE,Vaue,"34,46"
-West Bank and Gaza,PSE,Vaue,SI.POV.GINI
-West Bank and Gaza,PSE,Vaue,GINI index (World Bank estimate)
-West Bank and Gaza,PSE,Year,2004
-West Bank and Gaza,PSE,Year,2005
-West Bank and Gaza,PSE,Year,2006
-West Bank and Gaza,PSE,Year,2007
-West Bank and Gaza,PSE,Year,2009
-West Bank and Gaza,PSE,Year,Indicator Code
-West Bank and Gaza,PSE,Year,Indicator Name
-Virgin Islands (U.S.),VIR,Vaue,SI.POV.GINI
-Virgin Islands (U.S.),VIR,Vaue,GINI index (World Bank estimate)
-Virgin Islands (U.S.),VIR,Year,Indicator Code
-Virgin Islands (U.S.),VIR,Year,Indicator Name
-Vietnam,VNM,Vaue,"35,65"
-Vietnam,VNM,Vaue,"35,44"
-Vietnam,VNM,Vaue,"37,32"
-Vietnam,VNM,Vaue,"37,17"
-Vietnam,VNM,Vaue,"37,44"
-Vietnam,VNM,Vaue,"38,15"
-Vietnam,VNM,Vaue,"42,68"
-Vietnam,VNM,Vaue,"38,7"
-Vietnam,VNM,Vaue,SI.POV.GINI
-Vietnam,VNM,Vaue,GINI index (World Bank estimate)
-Vietnam,VNM,Year,1992
-Vietnam,VNM,Year,1998
-Vietnam,VNM,Year,2002
-Vietnam,VNM,Year,2004
-Vietnam,VNM,Year,2006
-Vietnam,VNM,Year,2008
-Vietnam,VNM,Year,2010
-Vietnam,VNM,Year,2012
-Vietnam,VNM,Year,Indicator Code
-Vietnam,VNM,Year,Indicator Name
-"Venezuela, RB",VEN,Vaue,"55,61"
-"Venezuela, RB",VEN,Vaue,"53,45"
-"Venezuela, RB",VEN,Vaue,"45,3"
-"Venezuela, RB",VEN,Vaue,"42,51"
-"Venezuela, RB",VEN,Vaue,"47,82"
-"Venezuela, RB",VEN,Vaue,"49,8"
-"Venezuela, RB",VEN,Vaue,"48,32"
-"Venezuela, RB",VEN,Vaue,"48,22"
-"Venezuela, RB",VEN,Vaue,"50,56"
-"Venezuela, RB",VEN,Vaue,"50,37"
-"Venezuela, RB",VEN,Vaue,"49,82"
-"Venezuela, RB",VEN,Vaue,"52,36"
-"Venezuela, RB",VEN,Vaue,"46,94"
-"Venezuela, RB",VEN,Vaue,SI.POV.GINI
-"Venezuela, RB",VEN,Vaue,GINI index (World Bank estimate)
-"Venezuela, RB",VEN,Year,1981
-"Venezuela, RB",VEN,Year,1987
-"Venezuela, RB",VEN,Year,1989
-"Venezuela, RB",VEN,Year,1992
-"Venezuela, RB",VEN,Year,1995
-"Venezuela, RB",VEN,Year,1998
-"Venezuela, RB",VEN,Year,1999
-"Venezuela, RB",VEN,Year,2001
-"Venezuela, RB",VEN,Year,2002
-"Venezuela, RB",VEN,Year,2003
-"Venezuela, RB",VEN,Year,2004
-"Venezuela, RB",VEN,Year,2005
-"Venezuela, RB",VEN,Year,2006
-"Venezuela, RB",VEN,Year,Indicator Code
-"Venezuela, RB",VEN,Year,Indicator Name
-Vanuatu,VUT,Vaue,"37,18"
-Vanuatu,VUT,Vaue,SI.POV.GINI
-Vanuatu,VUT,Vaue,GINI index (World Bank estimate)
-Vanuatu,VUT,Year,2010
-Vanuatu,VUT,Year,Indicator Code
-Vanuatu,VUT,Year,Indicator Name
-Uzbekistan,UZB,Vaue,"24,95"
-Uzbekistan,UZB,Vaue,"44,67"
-Uzbekistan,UZB,Vaue,"36,1"
-Uzbekistan,UZB,Vaue,"33,04"
-Uzbekistan,UZB,Vaue,"35,27"
-Uzbekistan,UZB,Vaue,SI.POV.GINI
-Uzbekistan,UZB,Vaue,GINI index (World Bank estimate)
-Uzbekistan,UZB,Year,1988
-Uzbekistan,UZB,Year,1998
-Uzbekistan,UZB,Year,2000
-Uzbekistan,UZB,Year,2002
-Uzbekistan,UZB,Year,2003
-Uzbekistan,UZB,Year,Indicator Code
-Uzbekistan,UZB,Year,Indicator Name
-Uruguay,URY,Vaue,"43,65"
-Uruguay,URY,Vaue,"42,37"
-Uruguay,URY,Vaue,"40,2"
-Uruguay,URY,Vaue,"42,11"
-Uruguay,URY,Vaue,"42,66"
-Uruguay,URY,Vaue,"42,73"
-Uruguay,URY,Vaue,"43,81"
-Uruguay,URY,Vaue,"44,39"
-Uruguay,URY,Vaue,"46,17"
-Uruguay,URY,Vaue,"46,65"
-Uruguay,URY,Vaue,"46,22"
-Uruguay,URY,Vaue,"47,14"
-Uruguay,URY,Vaue,"45,87"
-Uruguay,URY,Vaue,"47,2"
-Uruguay,URY,Vaue,"47,63"
-Uruguay,URY,Vaue,"46,27"
-Uruguay,URY,Vaue,"46,28"
-Uruguay,URY,Vaue,"45,32"
-Uruguay,URY,Vaue,"43,37"
-Uruguay,URY,Vaue,"41,32"
-Uruguay,URY,Vaue,"41,87"
-Uruguay,URY,Vaue,SI.POV.GINI
-Uruguay,URY,Vaue,GINI index (World Bank estimate)
-Uruguay,URY,Year,1981
-Uruguay,URY,Year,1989
-Uruguay,URY,Year,1992
-Uruguay,URY,Year,1995
-Uruguay,URY,Year,1996
-Uruguay,URY,Year,1997
-Uruguay,URY,Year,1998
-Uruguay,URY,Year,2000
-Uruguay,URY,Year,2001
-Uruguay,URY,Year,2002
-Uruguay,URY,Year,2003
-Uruguay,URY,Year,2004
-Uruguay,URY,Year,2005
-Uruguay,URY,Year,2006
-Uruguay,URY,Year,2007
-Uruguay,URY,Year,2008
-Uruguay,URY,Year,2009
-Uruguay,URY,Year,2010
-Uruguay,URY,Year,2011
-Uruguay,URY,Year,2012
-Uruguay,URY,Year,2013
-Uruguay,URY,Year,Indicator Code
-Uruguay,URY,Year,Indicator Name
-Upper middle income,UMC,Vaue,SI.POV.GINI
-Upper middle income,UMC,Vaue,GINI index (World Bank estimate)
-Upper middle income,UMC,Year,Indicator Code
-Upper middle income,UMC,Year,Indicator Name
-United States,USA,Vaue,"37,73"
-United States,USA,Vaue,"38,36"
-United States,USA,Vaue,"40,35"
-United States,USA,Vaue,"40,86"
-United States,USA,Vaue,"40,46"
-United States,USA,Vaue,"40,62"
-United States,USA,Vaue,"41,75"
-United States,USA,Vaue,"40,46"
-United States,USA,Vaue,"41,06"
-United States,USA,Vaue,SI.POV.GINI
-United States,USA,Vaue,GINI index (World Bank estimate)
-United States,USA,Year,1986
-United States,USA,Year,1991
-United States,USA,Year,1994
-United States,USA,Year,1997
-United States,USA,Year,2000
-United States,USA,Year,2004
-United States,USA,Year,2007
-United States,USA,Year,2010
-United States,USA,Year,2013
-United States,USA,Year,Indicator Code
-United States,USA,Year,Indicator Name
-United Kingdom,GBR,Vaue,"36,22"
-United Kingdom,GBR,Vaue,"34,56"
-United Kingdom,GBR,Vaue,"34,84"
-United Kingdom,GBR,Vaue,"35,93"
-United Kingdom,GBR,Vaue,"34,37"
-United Kingdom,GBR,Vaue,"34,67"
-United Kingdom,GBR,Vaue,"34,81"
-United Kingdom,GBR,Vaue,"33,71"
-United Kingdom,GBR,Vaue,"32,57"
-United Kingdom,GBR,Vaue,SI.POV.GINI
-United Kingdom,GBR,Vaue,GINI index (World Bank estimate)
-United Kingdom,GBR,Year,2004
-United Kingdom,GBR,Year,2005
-United Kingdom,GBR,Year,2006
-United Kingdom,GBR,Year,2007
-United Kingdom,GBR,Year,2008
-United Kingdom,GBR,Year,2009
-United Kingdom,GBR,Year,2010
-United Kingdom,GBR,Year,2011
-United Kingdom,GBR,Year,2012
-United Kingdom,GBR,Year,Indicator Code
-United Kingdom,GBR,Year,Indicator Name
-United Arab Emirates,ARE,Vaue,SI.POV.GINI
-United Arab Emirates,ARE,Vaue,GINI index (World Bank estimate)
-United Arab Emirates,ARE,Year,Indicator Code
-United Arab Emirates,ARE,Year,Indicator Name
-Ukraine,UKR,Vaue,"23,31"
-Ukraine,UKR,Vaue,"29,71"
-Ukraine,UKR,Vaue,"39,29"
-Ukraine,UKR,Vaue,"35,16"
-Ukraine,UKR,Vaue,"28,96"
-Ukraine,UKR,Vaue,"29,05"
-Ukraine,UKR,Vaue,"28,66"
-Ukraine,UKR,Vaue,"28,93"
-Ukraine,UKR,Vaue,"29,02"
-Ukraine,UKR,Vaue,"29,79"
-Ukraine,UKR,Vaue,"28,57"
-Ukraine,UKR,Vaue,"26,64"
-Ukraine,UKR,Vaue,"25,32"
-Ukraine,UKR,Vaue,"24,82"
-Ukraine,UKR,Vaue,"24,55"
-Ukraine,UKR,Vaue,"24,74"
-Ukraine,UKR,Vaue,"24,55"
-Ukraine,UKR,Vaue,SI.POV.GINI
-Ukraine,UKR,Vaue,GINI index (World Bank estimate)
-Ukraine,UKR,Year,1988
-Ukraine,UKR,Year,1992
-Ukraine,UKR,Year,1995
-Ukraine,UKR,Year,1996
-Ukraine,UKR,Year,1999
-Ukraine,UKR,Year,2002
-Ukraine,UKR,Year,2003
-Ukraine,UKR,Year,2004
-Ukraine,UKR,Year,2005
-Ukraine,UKR,Year,2006
-Ukraine,UKR,Year,2007
-Ukraine,UKR,Year,2008
-Ukraine,UKR,Year,2009
-Ukraine,UKR,Year,2010
-Ukraine,UKR,Year,2011
-Ukraine,UKR,Year,2012
-Ukraine,UKR,Year,2013
-Ukraine,UKR,Year,Indicator Code
-Ukraine,UKR,Year,Indicator Name
-Uganda,UGA,Vaue,"44,36"
-Uganda,UGA,Vaue,"41,43"
-Uganda,UGA,Vaue,"39,04"
-Uganda,UGA,Vaue,43
-Uganda,UGA,Vaue,"45,17"
-Uganda,UGA,Vaue,"42,94"
-Uganda,UGA,Vaue,"44,2"
-Uganda,UGA,Vaue,"42,37"
-Uganda,UGA,Vaue,SI.POV.GINI
-Uganda,UGA,Vaue,GINI index (World Bank estimate)
-Uganda,UGA,Year,1989
-Uganda,UGA,Year,1992
-Uganda,UGA,Year,1996
-Uganda,UGA,Year,1999
-Uganda,UGA,Year,2002
-Uganda,UGA,Year,2005
-Uganda,UGA,Year,2009
-Uganda,UGA,Year,2012
-Uganda,UGA,Year,Indicator Code
-Uganda,UGA,Year,Indicator Name
-Tuvalu,TUV,Vaue,SI.POV.GINI
-Tuvalu,TUV,Vaue,GINI index (World Bank estimate)
-Tuvalu,TUV,Year,Indicator Code
-Tuvalu,TUV,Year,Indicator Name
-Turks and Caicos Islands,TCA,Vaue,SI.POV.GINI
-Turks and Caicos Islands,TCA,Vaue,GINI index (World Bank estimate)
-Turks and Caicos Islands,TCA,Year,Indicator Code
-Turks and Caicos Islands,TCA,Year,Indicator Name
-Turkmenistan,TKM,Vaue,"26,39"
-Turkmenistan,TKM,Vaue,"35,38"
-Turkmenistan,TKM,Vaue,"40,77"
-Turkmenistan,TKM,Vaue,SI.POV.GINI
-Turkmenistan,TKM,Vaue,GINI index (World Bank estimate)
-Turkmenistan,TKM,Year,1988
-Turkmenistan,TKM,Year,1993
-Turkmenistan,TKM,Year,1998
-Turkmenistan,TKM,Year,Indicator Code
-Turkmenistan,TKM,Year,Indicator Name
-Turkey,TUR,Vaue,"43,48"
-Turkey,TUR,Vaue,"41,32"
-Turkey,TUR,Vaue,"41,4"
-Turkey,TUR,Vaue,"42,18"
-Turkey,TUR,Vaue,"41,29"
-Turkey,TUR,Vaue,"41,72"
-Turkey,TUR,Vaue,"39,65"
-Turkey,TUR,Vaue,"38,44"
-Turkey,TUR,Vaue,"38,28"
-Turkey,TUR,Vaue,"38,97"
-Turkey,TUR,Vaue,"38,78"
-Turkey,TUR,Vaue,"40,04"
-Turkey,TUR,Vaue,"40,17"
-Turkey,TUR,Vaue,SI.POV.GINI
-Turkey,TUR,Vaue,GINI index (World Bank estimate)
-Turkey,TUR,Year,1987
-Turkey,TUR,Year,1994
-Turkey,TUR,Year,2002
-Turkey,TUR,Year,2003
-Turkey,TUR,Year,2004
-Turkey,TUR,Year,2005
-Turkey,TUR,Year,2006
-Turkey,TUR,Year,2007
-Turkey,TUR,Year,2008
-Turkey,TUR,Year,2009
-Turkey,TUR,Year,2010
-Turkey,TUR,Year,2011
-Turkey,TUR,Year,2012
-Turkey,TUR,Year,Indicator Code
-Turkey,TUR,Year,Indicator Name
-Tunisia,TUN,Vaue,"43,43"
-Tunisia,TUN,Vaue,"40,24"
-Tunisia,TUN,Vaue,"41,66"
-Tunisia,TUN,Vaue,"40,81"
-Tunisia,TUN,Vaue,"37,73"
-Tunisia,TUN,Vaue,"35,81"
-Tunisia,TUN,Vaue,SI.POV.GINI
-Tunisia,TUN,Vaue,GINI index (World Bank estimate)
-Tunisia,TUN,Year,1985
-Tunisia,TUN,Year,1990
-Tunisia,TUN,Year,1995
-Tunisia,TUN,Year,2000
-Tunisia,TUN,Year,2005
-Tunisia,TUN,Year,2010
-Tunisia,TUN,Year,Indicator Code
-Tunisia,TUN,Year,Indicator Name
-Trinidad and Tobago,TTO,Vaue,"42,6"
-Trinidad and Tobago,TTO,Vaue,"40,27"
-Trinidad and Tobago,TTO,Vaue,SI.POV.GINI
-Trinidad and Tobago,TTO,Vaue,GINI index (World Bank estimate)
-Trinidad and Tobago,TTO,Year,1988
-Trinidad and Tobago,TTO,Year,1992
-Trinidad and Tobago,TTO,Year,Indicator Code
-Trinidad and Tobago,TTO,Year,Indicator Name
-Tonga,TON,Vaue,"38,1"
-Tonga,TON,Vaue,SI.POV.GINI
-Tonga,TON,Vaue,GINI index (World Bank estimate)
-Tonga,TON,Year,2009
-Tonga,TON,Year,Indicator Code
-Tonga,TON,Year,Indicator Name
-Togo,TGO,Vaue,"42,21"
-Togo,TGO,Vaue,"46,02"
-Togo,TGO,Vaue,SI.POV.GINI
-Togo,TGO,Vaue,GINI index (World Bank estimate)
-Togo,TGO,Year,2006
-Togo,TGO,Year,2011
-Togo,TGO,Year,Indicator Code
-Togo,TGO,Year,Indicator Name
-Timor-Leste,TLS,Vaue,"37,56"
-Timor-Leste,TLS,Vaue,"31,56"
-Timor-Leste,TLS,Vaue,SI.POV.GINI
-Timor-Leste,TLS,Vaue,GINI index (World Bank estimate)
-Timor-Leste,TLS,Year,2001
-Timor-Leste,TLS,Year,2007
-Timor-Leste,TLS,Year,Indicator Code
-Timor-Leste,TLS,Year,Indicator Name
-Thailand,THA,Vaue,"45,22"
-Thailand,THA,Vaue,"43,84"
-Thailand,THA,Vaue,"45,26"
-Thailand,THA,Vaue,"47,86"
-Thailand,THA,Vaue,"43,47"
-Thailand,THA,Vaue,"42,9"
-Thailand,THA,Vaue,"41,46"
-Thailand,THA,Vaue,"43,09"
-Thailand,THA,Vaue,"42,83"
-Thailand,THA,Vaue,"41,94"
-Thailand,THA,Vaue,"42,54"
-Thailand,THA,Vaue,"41,82"
-Thailand,THA,Vaue,"39,76"
-Thailand,THA,Vaue,"40,29"
-Thailand,THA,Vaue,"39,75"
-Thailand,THA,Vaue,"39,4"
-Thailand,THA,Vaue,"37,46"
-Thailand,THA,Vaue,"39,26"
-Thailand,THA,Vaue,SI.POV.GINI
-Thailand,THA,Vaue,GINI index (World Bank estimate)
-Thailand,THA,Year,1981
-Thailand,THA,Year,1988
-Thailand,THA,Year,1990
-Thailand,THA,Year,1992
-Thailand,THA,Year,1994
-Thailand,THA,Year,1996
-Thailand,THA,Year,1998
-Thailand,THA,Year,1999
-Thailand,THA,Year,2000
-Thailand,THA,Year,2002
-Thailand,THA,Year,2004
-Thailand,THA,Year,2006
-Thailand,THA,Year,2007
-Thailand,THA,Year,2008
-Thailand,THA,Year,2009
-Thailand,THA,Year,2010
-Thailand,THA,Year,2011
-Thailand,THA,Year,2012
-Thailand,THA,Year,Indicator Code
-Thailand,THA,Year,Indicator Name
-Tanzania,TZA,Vaue,"35,29"
-Tanzania,TZA,Vaue,"37,3"
-Tanzania,TZA,Vaue,"40,28"
-Tanzania,TZA,Vaue,"37,78"
-Tanzania,TZA,Vaue,SI.POV.GINI
-Tanzania,TZA,Vaue,GINI index (World Bank estimate)
-Tanzania,TZA,Year,1991
-Tanzania,TZA,Year,2000
-Tanzania,TZA,Year,2007
-Tanzania,TZA,Year,2011
-Tanzania,TZA,Year,Indicator Code
-Tanzania,TZA,Year,Indicator Name
-Tajikistan,TJK,Vaue,"29,54"
-Tajikistan,TJK,Vaue,"32,72"
-Tajikistan,TJK,Vaue,"33,6"
-Tajikistan,TJK,Vaue,"32,19"
-Tajikistan,TJK,Vaue,"30,77"
-Tajikistan,TJK,Vaue,SI.POV.GINI
-Tajikistan,TJK,Vaue,GINI index (World Bank estimate)
-Tajikistan,TJK,Year,1999
-Tajikistan,TJK,Year,2003
-Tajikistan,TJK,Year,2004
-Tajikistan,TJK,Year,2007
-Tajikistan,TJK,Year,2009
-Tajikistan,TJK,Year,Indicator Code
-Tajikistan,TJK,Year,Indicator Name
-Syrian Arab Republic,SYR,Vaue,"35,77"
-Syrian Arab Republic,SYR,Vaue,SI.POV.GINI
-Syrian Arab Republic,SYR,Vaue,GINI index (World Bank estimate)
-Syrian Arab Republic,SYR,Year,2004
-Syrian Arab Republic,SYR,Year,Indicator Code
-Syrian Arab Republic,SYR,Year,Indicator Name
-Switzerland,CHE,Vaue,"34,47"
-Switzerland,CHE,Vaue,"33,96"
-Switzerland,CHE,Vaue,"32,96"
-Switzerland,CHE,Vaue,"32,72"
-Switzerland,CHE,Vaue,"31,83"
-Switzerland,CHE,Vaue,"31,64"
-Switzerland,CHE,Vaue,SI.POV.GINI
-Switzerland,CHE,Vaue,GINI index (World Bank estimate)
-Switzerland,CHE,Year,2007
-Switzerland,CHE,Year,2008
-Switzerland,CHE,Year,2009
-Switzerland,CHE,Year,2010
-Switzerland,CHE,Year,2011
-Switzerland,CHE,Year,2012
-Switzerland,CHE,Year,Indicator Code
-Switzerland,CHE,Year,Indicator Name
-Sweden,SWE,Vaue,"26,43"
-Sweden,SWE,Vaue,"27,1"
-Sweden,SWE,Vaue,"26,47"
-Sweden,SWE,Vaue,"26,92"
-Sweden,SWE,Vaue,"27,13"
-Sweden,SWE,Vaue,"26,61"
-Sweden,SWE,Vaue,"26,81"
-Sweden,SWE,Vaue,"27,24"
-Sweden,SWE,Vaue,"27,32"
-Sweden,SWE,Vaue,SI.POV.GINI
-Sweden,SWE,Vaue,GINI index (World Bank estimate)
-Sweden,SWE,Year,2004
-Sweden,SWE,Year,2005
-Sweden,SWE,Year,2006
-Sweden,SWE,Year,2007
-Sweden,SWE,Year,2008
-Sweden,SWE,Year,2009
-Sweden,SWE,Year,2010
-Sweden,SWE,Year,2011
-Sweden,SWE,Year,2012
-Sweden,SWE,Year,Indicator Code
-Sweden,SWE,Year,Indicator Name
-Swaziland,SWZ,Vaue,"60,45"
-Swaziland,SWZ,Vaue,"53,11"
-Swaziland,SWZ,Vaue,"51,45"
-Swaziland,SWZ,Vaue,SI.POV.GINI
-Swaziland,SWZ,Vaue,GINI index (World Bank estimate)
-Swaziland,SWZ,Year,1994
-Swaziland,SWZ,Year,2000
-Swaziland,SWZ,Year,2009
-Swaziland,SWZ,Year,Indicator Code
-Swaziland,SWZ,Year,Indicator Name
-Suriname,SUR,Vaue,"57,61"
-Suriname,SUR,Vaue,SI.POV.GINI
-Suriname,SUR,Vaue,GINI index (World Bank estimate)
-Suriname,SUR,Year,1999
-Suriname,SUR,Year,Indicator Code
-Suriname,SUR,Year,Indicator Name
-Sudan,SDN,Vaue,"35,39"
-Sudan,SDN,Vaue,SI.POV.GINI
-Sudan,SDN,Vaue,GINI index (World Bank estimate)
-Sudan,SDN,Year,2009
-Sudan,SDN,Year,Indicator Code
-Sudan,SDN,Year,Indicator Name
-Sub-Saharan Africa (developing only),SSA,Vaue,SI.POV.GINI
-Sub-Saharan Africa (developing only),SSA,Vaue,GINI index (World Bank estimate)
-Sub-Saharan Africa (developing only),SSA,Year,Indicator Code
-Sub-Saharan Africa (developing only),SSA,Year,Indicator Name
-Sub-Saharan Africa (all income levels),SSF,Vaue,SI.POV.GINI
-Sub-Saharan Africa (all income levels),SSF,Vaue,GINI index (World Bank estimate)
-Sub-Saharan Africa (all income levels),SSF,Year,Indicator Code
-Sub-Saharan Africa (all income levels),SSF,Year,Indicator Name
-St. Vincent and the Grenadines,VCT,Vaue,SI.POV.GINI
-St. Vincent and the Grenadines,VCT,Vaue,GINI index (World Bank estimate)
-St. Vincent and the Grenadines,VCT,Year,Indicator Code
-St. Vincent and the Grenadines,VCT,Year,Indicator Name
-St. Martin (French part),MAF,Vaue,SI.POV.GINI
-St. Martin (French part),MAF,Vaue,GINI index (World Bank estimate)
-St. Martin (French part),MAF,Year,Indicator Code
-St. Martin (French part),MAF,Year,Indicator Name
-St. Lucia,LCA,Vaue,"42,58"
-St. Lucia,LCA,Vaue,SI.POV.GINI
-St. Lucia,LCA,Vaue,GINI index (World Bank estimate)
-St. Lucia,LCA,Year,1995
-St. Lucia,LCA,Year,Indicator Code
-St. Lucia,LCA,Year,Indicator Name
-St. Kitts and Nevis,KNA,Vaue,SI.POV.GINI
-St. Kitts and Nevis,KNA,Vaue,GINI index (World Bank estimate)
-St. Kitts and Nevis,KNA,Year,Indicator Code
-St. Kitts and Nevis,KNA,Year,Indicator Name
-Sri Lanka,LKA,Vaue,"32,47"
-Sri Lanka,LKA,Vaue,"32,45"
-Sri Lanka,LKA,Vaue,"35,4"
-Sri Lanka,LKA,Vaue,"40,72"
-Sri Lanka,LKA,Vaue,"39,97"
-Sri Lanka,LKA,Vaue,"36,2"
-Sri Lanka,LKA,Vaue,"38,58"
-Sri Lanka,LKA,Vaue,SI.POV.GINI
-Sri Lanka,LKA,Vaue,GINI index (World Bank estimate)
-Sri Lanka,LKA,Year,1985
-Sri Lanka,LKA,Year,1990
-Sri Lanka,LKA,Year,1995
-Sri Lanka,LKA,Year,2002
-Sri Lanka,LKA,Year,2006
-Sri Lanka,LKA,Year,2009
-Sri Lanka,LKA,Year,2012
-Sri Lanka,LKA,Year,Indicator Code
-Sri Lanka,LKA,Year,Indicator Name
-Spain,ESP,Vaue,"33,38"
-Spain,ESP,Vaue,"32,5"
-Spain,ESP,Vaue,"32,67"
-Spain,ESP,Vaue,"33,86"
-Spain,ESP,Vaue,"34,8"
-Spain,ESP,Vaue,"35,39"
-Spain,ESP,Vaue,"35,79"
-Spain,ESP,Vaue,"36,1"
-Spain,ESP,Vaue,"35,89"
-Spain,ESP,Vaue,SI.POV.GINI
-Spain,ESP,Vaue,GINI index (World Bank estimate)
-Spain,ESP,Year,2004
-Spain,ESP,Year,2005
-Spain,ESP,Year,2006
-Spain,ESP,Year,2007
-Spain,ESP,Year,2008
-Spain,ESP,Year,2009
-Spain,ESP,Year,2010
-Spain,ESP,Year,2011
-Spain,ESP,Year,2012
-Spain,ESP,Year,Indicator Code
-Spain,ESP,Year,Indicator Name
-South Sudan,SSD,Vaue,SI.POV.GINI
-South Sudan,SSD,Vaue,GINI index (World Bank estimate)
-South Sudan,SSD,Year,Indicator Code
-South Sudan,SSD,Year,Indicator Name
-South Asia,SAS,Vaue,SI.POV.GINI
-South Asia,SAS,Vaue,GINI index (World Bank estimate)
-South Asia,SAS,Year,Indicator Code
-South Asia,SAS,Year,Indicator Name
-South Africa,ZAF,Vaue,"59,33"
-South Africa,ZAF,Vaue,"62,97"
-South Africa,ZAF,Vaue,"57,77"
-South Africa,ZAF,Vaue,"64,79"
-South Africa,ZAF,Vaue,"63,01"
-South Africa,ZAF,Vaue,"63,38"
-South Africa,ZAF,Vaue,SI.POV.GINI
-South Africa,ZAF,Vaue,GINI index (World Bank estimate)
-South Africa,ZAF,Year,1993
-South Africa,ZAF,Year,1995
-South Africa,ZAF,Year,2000
-South Africa,ZAF,Year,2006
-South Africa,ZAF,Year,2008
-South Africa,ZAF,Year,2011
-South Africa,ZAF,Year,Indicator Code
-South Africa,ZAF,Year,Indicator Name
-Somalia,SOM,Vaue,SI.POV.GINI
-Somalia,SOM,Vaue,GINI index (World Bank estimate)
-Somalia,SOM,Year,Indicator Code
-Somalia,SOM,Year,Indicator Name
-Solomon Islands,SLB,Vaue,"46,1"
-Solomon Islands,SLB,Vaue,SI.POV.GINI
-Solomon Islands,SLB,Vaue,GINI index (World Bank estimate)
-Solomon Islands,SLB,Year,2005
-Solomon Islands,SLB,Year,Indicator Code
-Solomon Islands,SLB,Year,Indicator Name
-Small states,SST,Vaue,SI.POV.GINI
-Small states,SST,Vaue,GINI index (World Bank estimate)
-Small states,SST,Year,Indicator Code
-Small states,SST,Year,Indicator Name
-Slovenia,SVN,Vaue,"23,6"
-Slovenia,SVN,Vaue,"29,18"
-Slovenia,SVN,Vaue,"28,41"
-Slovenia,SVN,Vaue,"29,12"
-Slovenia,SVN,Vaue,"30,87"
-Slovenia,SVN,Vaue,"31,15"
-Slovenia,SVN,Vaue,"24,63"
-Slovenia,SVN,Vaue,"24,48"
-Slovenia,SVN,Vaue,"24,37"
-Slovenia,SVN,Vaue,"23,72"
-Slovenia,SVN,Vaue,"24,83"
-Slovenia,SVN,Vaue,"24,94"
-Slovenia,SVN,Vaue,"24,87"
-Slovenia,SVN,Vaue,"25,59"
-Slovenia,SVN,Vaue,SI.POV.GINI
-Slovenia,SVN,Vaue,GINI index (World Bank estimate)
-Slovenia,SVN,Year,1987
-Slovenia,SVN,Year,1993
-Slovenia,SVN,Year,1998
-Slovenia,SVN,Year,2002
-Slovenia,SVN,Year,2003
-Slovenia,SVN,Year,2004
-Slovenia,SVN,Year,2005
-Slovenia,SVN,Year,2006
-Slovenia,SVN,Year,2007
-Slovenia,SVN,Year,2008
-Slovenia,SVN,Year,2009
-Slovenia,SVN,Year,2010
-Slovenia,SVN,Year,2011
-Slovenia,SVN,Year,2012
-Slovenia,SVN,Year,Indicator Code
-Slovenia,SVN,Year,Indicator Name
-Slovak Republic,SVK,Vaue,"19,54"
-Slovak Republic,SVK,Vaue,"19,49"
-Slovak Republic,SVK,Vaue,"25,81"
-Slovak Republic,SVK,Vaue,"28,94"
-Slovak Republic,SVK,Vaue,"29,83"
-Slovak Republic,SVK,Vaue,"27,71"
-Slovak Republic,SVK,Vaue,28
-Slovak Republic,SVK,Vaue,"26,87"
-Slovak Republic,SVK,Vaue,"26,02"
-Slovak Republic,SVK,Vaue,"27,32"
-Slovak Republic,SVK,Vaue,"26,58"
-Slovak Republic,SVK,Vaue,"26,12"
-Slovak Republic,SVK,Vaue,SI.POV.GINI
-Slovak Republic,SVK,Vaue,GINI index (World Bank estimate)
-Slovak Republic,SVK,Year,1988
-Slovak Republic,SVK,Year,1992
-Slovak Republic,SVK,Year,1996
-Slovak Republic,SVK,Year,2004
-Slovak Republic,SVK,Year,2005
-Slovak Republic,SVK,Year,2006
-Slovak Republic,SVK,Year,2007
-Slovak Republic,SVK,Year,2008
-Slovak Republic,SVK,Year,2009
-Slovak Republic,SVK,Year,2010
-Slovak Republic,SVK,Year,2011
-Slovak Republic,SVK,Year,2012
-Slovak Republic,SVK,Year,Indicator Code
-Slovak Republic,SVK,Year,Indicator Name
-Sint Maarten (Dutch part),SXM,Vaue,SI.POV.GINI
-Sint Maarten (Dutch part),SXM,Vaue,GINI index (World Bank estimate)
-Sint Maarten (Dutch part),SXM,Year,Indicator Code
-Sint Maarten (Dutch part),SXM,Year,Indicator Name
-Singapore,SGP,Vaue,SI.POV.GINI
-Singapore,SGP,Vaue,GINI index (World Bank estimate)
-Singapore,SGP,Year,Indicator Code
-Singapore,SGP,Year,Indicator Name
-Sierra Leone,SLE,Vaue,"40,17"
-Sierra Leone,SLE,Vaue,"33,99"
-Sierra Leone,SLE,Vaue,SI.POV.GINI
-Sierra Leone,SLE,Vaue,GINI index (World Bank estimate)
-Sierra Leone,SLE,Year,2003
-Sierra Leone,SLE,Year,2011
-Sierra Leone,SLE,Year,Indicator Code
-Sierra Leone,SLE,Year,Indicator Name
-Seychelles,SYC,Vaue,"42,78"
-Seychelles,SYC,Vaue,"42,77"
-Seychelles,SYC,Vaue,SI.POV.GINI
-Seychelles,SYC,Vaue,GINI index (World Bank estimate)
-Seychelles,SYC,Year,1999
-Seychelles,SYC,Year,2006
-Seychelles,SYC,Year,Indicator Code
-Seychelles,SYC,Year,Indicator Name
-Serbia,SRB,Vaue,"32,74"
-Serbia,SRB,Vaue,"32,83"
-Serbia,SRB,Vaue,"32,98"
-Serbia,SRB,Vaue,"33,43"
-Serbia,SRB,Vaue,"29,67"
-Serbia,SRB,Vaue,"29,43"
-Serbia,SRB,Vaue,"28,18"
-Serbia,SRB,Vaue,"28,67"
-Serbia,SRB,Vaue,"29,65"
-Serbia,SRB,Vaue,SI.POV.GINI
-Serbia,SRB,Vaue,GINI index (World Bank estimate)
-Serbia,SRB,Year,2002
-Serbia,SRB,Year,2003
-Serbia,SRB,Year,2004
-Serbia,SRB,Year,2005
-Serbia,SRB,Year,2006
-Serbia,SRB,Year,2007
-Serbia,SRB,Year,2008
-Serbia,SRB,Year,2009
-Serbia,SRB,Year,2010
-Serbia,SRB,Year,Indicator Code
-Serbia,SRB,Year,Indicator Name
-Senegal,SEN,Vaue,"54,14"
-Senegal,SEN,Vaue,"41,44"
-Senegal,SEN,Vaue,"41,23"
-Senegal,SEN,Vaue,"39,22"
-Senegal,SEN,Vaue,"40,28"
-Senegal,SEN,Vaue,SI.POV.GINI
-Senegal,SEN,Vaue,GINI index (World Bank estimate)
-Senegal,SEN,Year,1991
-Senegal,SEN,Year,1994
-Senegal,SEN,Year,2001
-Senegal,SEN,Year,2005
-Senegal,SEN,Year,2011
-Senegal,SEN,Year,Indicator Code
-Senegal,SEN,Year,Indicator Name
-Saudi Arabia,SAU,Vaue,SI.POV.GINI
-Saudi Arabia,SAU,Vaue,GINI index (World Bank estimate)
-Saudi Arabia,SAU,Year,Indicator Code
-Saudi Arabia,SAU,Year,Indicator Name
-Sao Tome and Principe,STP,Vaue,"32,13"
-Sao Tome and Principe,STP,Vaue,"30,82"
-Sao Tome and Principe,STP,Vaue,SI.POV.GINI
-Sao Tome and Principe,STP,Vaue,GINI index (World Bank estimate)
-Sao Tome and Principe,STP,Year,2000
-Sao Tome and Principe,STP,Year,2010
-Sao Tome and Principe,STP,Year,Indicator Code
-Sao Tome and Principe,STP,Year,Indicator Name
-San Marino,SMR,Vaue,SI.POV.GINI
-San Marino,SMR,Vaue,GINI index (World Bank estimate)
-San Marino,SMR,Year,Indicator Code
-San Marino,SMR,Year,Indicator Name
-Samoa,WSM,Vaue,"42,69"
-Samoa,WSM,Vaue,SI.POV.GINI
-Samoa,WSM,Vaue,GINI index (World Bank estimate)
-Samoa,WSM,Year,2008
-Samoa,WSM,Year,Indicator Code
-Samoa,WSM,Year,Indicator Name
-Rwanda,RWA,Vaue,"28,9"
-Rwanda,RWA,Vaue,"48,55"
-Rwanda,RWA,Vaue,"52,04"
-Rwanda,RWA,Vaue,"51,34"
-Rwanda,RWA,Vaue,SI.POV.GINI
-Rwanda,RWA,Vaue,GINI index (World Bank estimate)
-Rwanda,RWA,Year,1984
-Rwanda,RWA,Year,2000
-Rwanda,RWA,Year,2005
-Rwanda,RWA,Year,2010
-Rwanda,RWA,Year,Indicator Code
-Rwanda,RWA,Year,Indicator Name
-Russian Federation,RUS,Vaue,"23,8"
-Russian Federation,RUS,Vaue,"48,38"
-Russian Federation,RUS,Vaue,"46,1"
-Russian Federation,RUS,Vaue,"38,41"
-Russian Federation,RUS,Vaue,"38,14"
-Russian Federation,RUS,Vaue,"37,44"
-Russian Federation,RUS,Vaue,"37,09"
-Russian Federation,RUS,Vaue,"39,6"
-Russian Federation,RUS,Vaue,"37,28"
-Russian Federation,RUS,Vaue,"40,8"
-Russian Federation,RUS,Vaue,"40,92"
-Russian Federation,RUS,Vaue,"41,37"
-Russian Federation,RUS,Vaue,"41,54"
-Russian Federation,RUS,Vaue,"42,33"
-Russian Federation,RUS,Vaue,"41,42"
-Russian Federation,RUS,Vaue,"39,69"
-Russian Federation,RUS,Vaue,"40,94"
-Russian Federation,RUS,Vaue,"41,04"
-Russian Federation,RUS,Vaue,"41,59"
-Russian Federation,RUS,Vaue,SI.POV.GINI
-Russian Federation,RUS,Vaue,GINI index (World Bank estimate)
-Russian Federation,RUS,Year,1988
-Russian Federation,RUS,Year,1993
-Russian Federation,RUS,Year,1996
-Russian Federation,RUS,Year,1997
-Russian Federation,RUS,Year,1998
-Russian Federation,RUS,Year,1999
-Russian Federation,RUS,Year,2000
-Russian Federation,RUS,Year,2001
-Russian Federation,RUS,Year,2002
-Russian Federation,RUS,Year,2003
-Russian Federation,RUS,Year,2004
-Russian Federation,RUS,Year,2005
-Russian Federation,RUS,Year,2006
-Russian Federation,RUS,Year,2007
-Russian Federation,RUS,Year,2008
-Russian Federation,RUS,Year,2009
-Russian Federation,RUS,Year,2010
-Russian Federation,RUS,Year,2011
-Russian Federation,RUS,Year,2012
-Russian Federation,RUS,Year,Indicator Code
-Russian Federation,RUS,Year,Indicator Name
-Romania,ROU,Vaue,"23,31"
-Romania,ROU,Vaue,"25,46"
-Romania,ROU,Vaue,"28,2"
-Romania,ROU,Vaue,"31,08"
-Romania,ROU,Vaue,"29,42"
-Romania,ROU,Vaue,"29,32"
-Romania,ROU,Vaue,"29,43"
-Romania,ROU,Vaue,"30,23"
-Romania,ROU,Vaue,"29,91"
-Romania,ROU,Vaue,"30,04"
-Romania,ROU,Vaue,"29,82"
-Romania,ROU,Vaue,"39,18"
-Romania,ROU,Vaue,"37,61"
-Romania,ROU,Vaue,"29,4"
-Romania,ROU,Vaue,"28,19"
-Romania,ROU,Vaue,"28,16"
-Romania,ROU,Vaue,"27,21"
-Romania,ROU,Vaue,"27,33"
-Romania,ROU,Vaue,SI.POV.GINI
-Romania,ROU,Vaue,GINI index (World Bank estimate)
-Romania,ROU,Year,1989
-Romania,ROU,Year,1992
-Romania,ROU,Year,1994
-Romania,ROU,Year,1998
-Romania,ROU,Year,1999
-Romania,ROU,Year,2000
-Romania,ROU,Year,2001
-Romania,ROU,Year,2002
-Romania,ROU,Year,2003
-Romania,ROU,Year,2004
-Romania,ROU,Year,2005
-Romania,ROU,Year,2006
-Romania,ROU,Year,2007
-Romania,ROU,Year,2008
-Romania,ROU,Year,2009
-Romania,ROU,Year,2010
-Romania,ROU,Year,2011
-Romania,ROU,Year,2012
-Romania,ROU,Year,Indicator Code
-Romania,ROU,Year,Indicator Name
-Qatar,QAT,Vaue,SI.POV.GINI
-Qatar,QAT,Vaue,GINI index (World Bank estimate)
-Qatar,QAT,Year,Indicator Code
-Qatar,QAT,Year,Indicator Name
-Puerto Rico,PRI,Vaue,SI.POV.GINI
-Puerto Rico,PRI,Vaue,GINI index (World Bank estimate)
-Puerto Rico,PRI,Year,Indicator Code
-Puerto Rico,PRI,Year,Indicator Name
-Portugal,PRT,Vaue,"38,9"
-Portugal,PRT,Vaue,"38,47"
-Portugal,PRT,Vaue,"38,06"
-Portugal,PRT,Vaue,"36,75"
-Portugal,PRT,Vaue,"36,63"
-Portugal,PRT,Vaue,"34,91"
-Portugal,PRT,Vaue,"35,84"
-Portugal,PRT,Vaue,"36,34"
-Portugal,PRT,Vaue,"36,04"
-Portugal,PRT,Vaue,SI.POV.GINI
-Portugal,PRT,Vaue,GINI index (World Bank estimate)
-Portugal,PRT,Year,2004
-Portugal,PRT,Year,2005
-Portugal,PRT,Year,2006
-Portugal,PRT,Year,2007
-Portugal,PRT,Year,2008
-Portugal,PRT,Year,2009
-Portugal,PRT,Year,2010
-Portugal,PRT,Year,2011
-Portugal,PRT,Year,2012
-Portugal,PRT,Year,Indicator Code
-Portugal,PRT,Year,Indicator Name
-Poland,POL,Vaue,"25,16"
-Poland,POL,Vaue,"25,53"
-Poland,POL,Vaue,"26,89"
-Poland,POL,Vaue,"26,7"
-Poland,POL,Vaue,"32,66"
-Poland,POL,Vaue,"32,32"
-Poland,POL,Vaue,"32,59"
-Poland,POL,Vaue,33
-Poland,POL,Vaue,"32,85"
-Poland,POL,Vaue,"34,05"
-Poland,POL,Vaue,"34,91"
-Poland,POL,Vaue,"35,43"
-Poland,POL,Vaue,"35,86"
-Poland,POL,Vaue,"33,71"
-Poland,POL,Vaue,"33,51"
-Poland,POL,Vaue,"33,72"
-Poland,POL,Vaue,"33,58"
-Poland,POL,Vaue,"33,22"
-Poland,POL,Vaue,"32,78"
-Poland,POL,Vaue,"32,39"
-Poland,POL,Vaue,SI.POV.GINI
-Poland,POL,Vaue,GINI index (World Bank estimate)
-Poland,POL,Year,1985
-Poland,POL,Year,1987
-Poland,POL,Year,1989
-Poland,POL,Year,1992
-Poland,POL,Year,1996
-Poland,POL,Year,1998
-Poland,POL,Year,1999
-Poland,POL,Year,2000
-Poland,POL,Year,2001
-Poland,POL,Year,2002
-Poland,POL,Year,2003
-Poland,POL,Year,2004
-Poland,POL,Year,2005
-Poland,POL,Year,2006
-Poland,POL,Year,2007
-Poland,POL,Year,2008
-Poland,POL,Year,2009
-Poland,POL,Year,2010
-Poland,POL,Year,2011
-Poland,POL,Year,2012
-Poland,POL,Year,Indicator Code
-Poland,POL,Year,Indicator Name
-Philippines,PHL,Vaue,"41,04"
-Philippines,PHL,Vaue,"40,75"
-Philippines,PHL,Vaue,"43,82"
-Philippines,PHL,Vaue,"38,52"
-Philippines,PHL,Vaue,"45,96"
-Philippines,PHL,Vaue,"46,17"
-Philippines,PHL,Vaue,"44,04"
-Philippines,PHL,Vaue,"44,2"
-Philippines,PHL,Vaue,"42,91"
-Philippines,PHL,Vaue,"43,04"
-Philippines,PHL,Vaue,SI.POV.GINI
-Philippines,PHL,Vaue,GINI index (World Bank estimate)
-Philippines,PHL,Year,1985
-Philippines,PHL,Year,1988
-Philippines,PHL,Year,1991
-Philippines,PHL,Year,1994
-Philippines,PHL,Year,1997
-Philippines,PHL,Year,2000
-Philippines,PHL,Year,2003
-Philippines,PHL,Year,2006
-Philippines,PHL,Year,2009
-Philippines,PHL,Year,2012
-Philippines,PHL,Year,Indicator Code
-Philippines,PHL,Year,Indicator Name
-Peru,PER,Vaue,"99,91"
-Peru,PER,Vaue,"44,02"
-Peru,PER,Vaue,"53,72"
-Peru,PER,Vaue,"56,14"
-Peru,PER,Vaue,"56,34"
-Peru,PER,Vaue,"50,77"
-Peru,PER,Vaue,"51,83"
-Peru,PER,Vaue,"54,04"
-Peru,PER,Vaue,"53,71"
-Peru,PER,Vaue,"51,2"
-Peru,PER,Vaue,"51,84"
-Peru,PER,Vaue,"51,67"
-Peru,PER,Vaue,"51,35"
-Peru,PER,Vaue,"48,55"
-Peru,PER,Vaue,"47,96"
-Peru,PER,Vaue,"46,21"
-Peru,PER,Vaue,"45,48"
-Peru,PER,Vaue,"45,11"
-Peru,PER,Vaue,"44,73"
-Peru,PER,Vaue,SI.POV.GINI
-Peru,PER,Vaue,GINI index (World Bank estimate)
-Peru,PER,Year,1985
-Peru,PER,Year,1994
-Peru,PER,Year,1997
-Peru,PER,Year,1998
-Peru,PER,Year,1999
-Peru,PER,Year,2000
-Peru,PER,Year,2001
-Peru,PER,Year,2002
-Peru,PER,Year,2003
-Peru,PER,Year,2004
-Peru,PER,Year,2005
-Peru,PER,Year,2006
-Peru,PER,Year,2007
-Peru,PER,Year,2008
-Peru,PER,Year,2009
-Peru,PER,Year,2010
-Peru,PER,Year,2011
-Peru,PER,Year,2012
-Peru,PER,Year,2013
-Peru,PER,Year,Indicator Code
-Peru,PER,Year,Indicator Name
-Paraguay,PRY,Vaue,"40,84"
-Paraguay,PRY,Vaue,"58,16"
-Paraguay,PRY,Vaue,"54,89"
-Paraguay,PRY,Vaue,"54,58"
-Paraguay,PRY,Vaue,"54,83"
-Paraguay,PRY,Vaue,"57,34"
-Paraguay,PRY,Vaue,"55,55"
-Paraguay,PRY,Vaue,"52,59"
-Paraguay,PRY,Vaue,"51,37"
-Paraguay,PRY,Vaue,"53,63"
-Paraguay,PRY,Vaue,"52,09"
-Paraguay,PRY,Vaue,"51,04"
-Paraguay,PRY,Vaue,"49,67"
-Paraguay,PRY,Vaue,"51,83"
-Paraguay,PRY,Vaue,"52,6"
-Paraguay,PRY,Vaue,"48,17"
-Paraguay,PRY,Vaue,"48,3"
-Paraguay,PRY,Vaue,SI.POV.GINI
-Paraguay,PRY,Vaue,GINI index (World Bank estimate)
-Paraguay,PRY,Year,1990
-Paraguay,PRY,Year,1995
-Paraguay,PRY,Year,1997
-Paraguay,PRY,Year,1999
-Paraguay,PRY,Year,2001
-Paraguay,PRY,Year,2002
-Paraguay,PRY,Year,2003
-Paraguay,PRY,Year,2004
-Paraguay,PRY,Year,2005
-Paraguay,PRY,Year,2006
-Paraguay,PRY,Year,2007
-Paraguay,PRY,Year,2008
-Paraguay,PRY,Year,2009
-Paraguay,PRY,Year,2010
-Paraguay,PRY,Year,2011
-Paraguay,PRY,Year,2012
-Paraguay,PRY,Year,2013
-Paraguay,PRY,Year,Indicator Code
-Paraguay,PRY,Year,Indicator Name
-Papua New Guinea,PNG,Vaue,"55,43"
-Papua New Guinea,PNG,Vaue,"43,88"
-Papua New Guinea,PNG,Vaue,SI.POV.GINI
-Papua New Guinea,PNG,Vaue,GINI index (World Bank estimate)
-Papua New Guinea,PNG,Year,1996
-Papua New Guinea,PNG,Year,2009
-Papua New Guinea,PNG,Year,Indicator Code
-Papua New Guinea,PNG,Year,Indicator Name
-Panama,PAN,Vaue,"58,91"
-Panama,PAN,Vaue,"58,19"
-Panama,PAN,Vaue,"57,81"
-Panama,PAN,Vaue,"58,23"
-Panama,PAN,Vaue,"57,48"
-Panama,PAN,Vaue,"56,46"
-Panama,PAN,Vaue,"57,66"
-Panama,PAN,Vaue,"57,3"
-Panama,PAN,Vaue,"56,59"
-Panama,PAN,Vaue,"56,37"
-Panama,PAN,Vaue,"55,06"
-Panama,PAN,Vaue,"53,99"
-Panama,PAN,Vaue,"55,06"
-Panama,PAN,Vaue,"52,97"
-Panama,PAN,Vaue,"52,63"
-Panama,PAN,Vaue,"52,03"
-Panama,PAN,Vaue,"51,91"
-Panama,PAN,Vaue,"51,83"
-Panama,PAN,Vaue,"51,9"
-Panama,PAN,Vaue,"51,67"
-Panama,PAN,Vaue,SI.POV.GINI
-Panama,PAN,Vaue,GINI index (World Bank estimate)
-Panama,PAN,Year,1989
-Panama,PAN,Year,1991
-Panama,PAN,Year,1995
-Panama,PAN,Year,1997
-Panama,PAN,Year,1998
-Panama,PAN,Year,1999
-Panama,PAN,Year,2000
-Panama,PAN,Year,2001
-Panama,PAN,Year,2002
-Panama,PAN,Year,2003
-Panama,PAN,Year,2004
-Panama,PAN,Year,2005
-Panama,PAN,Year,2006
-Panama,PAN,Year,2007
-Panama,PAN,Year,2008
-Panama,PAN,Year,2009
-Panama,PAN,Year,2010
-Panama,PAN,Year,2011
-Panama,PAN,Year,2012
-Panama,PAN,Year,2013
-Panama,PAN,Year,Indicator Code
-Panama,PAN,Year,Indicator Name
-Palau,PLW,Vaue,SI.POV.GINI
-Palau,PLW,Vaue,GINI index (World Bank estimate)
-Palau,PLW,Year,Indicator Code
-Palau,PLW,Year,Indicator Name
-Pakistan,PAK,Vaue,"33,32"
-Pakistan,PAK,Vaue,"33,25"
-Pakistan,PAK,Vaue,"28,67"
-Pakistan,PAK,Vaue,"33,12"
-Pakistan,PAK,Vaue,"30,5"
-Pakistan,PAK,Vaue,"32,33"
-Pakistan,PAK,Vaue,"32,69"
-Pakistan,PAK,Vaue,"31,42"
-Pakistan,PAK,Vaue,"29,59"
-Pakistan,PAK,Vaue,SI.POV.GINI
-Pakistan,PAK,Vaue,GINI index (World Bank estimate)
-Pakistan,PAK,Year,1987
-Pakistan,PAK,Year,1990
-Pakistan,PAK,Year,1996
-Pakistan,PAK,Year,1998
-Pakistan,PAK,Year,2001
-Pakistan,PAK,Year,2004
-Pakistan,PAK,Year,2005
-Pakistan,PAK,Year,2007
-Pakistan,PAK,Year,2010
-Pakistan,PAK,Year,Indicator Code
-Pakistan,PAK,Year,Indicator Name
-Pacific island small states,PSS,Vaue,SI.POV.GINI
-Pacific island small states,PSS,Vaue,GINI index (World Bank estimate)
-Pacific island small states,PSS,Year,Indicator Code
-Pacific island small states,PSS,Year,Indicator Name
-Other small states,OSS,Vaue,SI.POV.GINI
-Other small states,OSS,Vaue,GINI index (World Bank estimate)
-Other small states,OSS,Year,Indicator Code
-Other small states,OSS,Year,Indicator Name
-Oman,OMN,Vaue,SI.POV.GINI
-Oman,OMN,Vaue,GINI index (World Bank estimate)
-Oman,OMN,Year,Indicator Code
-Oman,OMN,Year,Indicator Name
-OECD members,OED,Vaue,SI.POV.GINI
-OECD members,OED,Vaue,GINI index (World Bank estimate)
-OECD members,OED,Year,Indicator Code
-OECD members,OED,Year,Indicator Name
-Not classified,INX,Vaue,SI.POV.GINI
-Not classified,INX,Vaue,GINI index (World Bank estimate)
-Not classified,INX,Year,Indicator Code
-Not classified,INX,Year,Indicator Name
-Norway,NOR,Vaue,"31,72"
-Norway,NOR,Vaue,"32,27"
-Norway,NOR,Vaue,"27,29"
-Norway,NOR,Vaue,"28,07"
-Norway,NOR,Vaue,"27,14"
-Norway,NOR,Vaue,"26,39"
-Norway,NOR,Vaue,"25,86"
-Norway,NOR,Vaue,"25,54"
-Norway,NOR,Vaue,"25,9"
-Norway,NOR,Vaue,SI.POV.GINI
-Norway,NOR,Vaue,GINI index (World Bank estimate)
-Norway,NOR,Year,2004
-Norway,NOR,Year,2005
-Norway,NOR,Year,2006
-Norway,NOR,Year,2007
-Norway,NOR,Year,2008
-Norway,NOR,Year,2009
-Norway,NOR,Year,2010
-Norway,NOR,Year,2011
-Norway,NOR,Year,2012
-Norway,NOR,Year,Indicator Code
-Norway,NOR,Year,Indicator Name
-Northern Mariana Islands,MNP,Vaue,SI.POV.GINI
-Northern Mariana Islands,MNP,Vaue,GINI index (World Bank estimate)
-Northern Mariana Islands,MNP,Year,Indicator Code
-Northern Mariana Islands,MNP,Year,Indicator Name
-North America,NAC,Vaue,SI.POV.GINI
-North America,NAC,Vaue,GINI index (World Bank estimate)
-North America,NAC,Year,Indicator Code
-North America,NAC,Year,Indicator Name
-Nigeria,NGA,Vaue,"38,68"
-Nigeria,NGA,Vaue,"44,98"
-Nigeria,NGA,Vaue,"51,92"
-Nigeria,NGA,Vaue,"40,06"
-Nigeria,NGA,Vaue,"42,97"
-Nigeria,NGA,Vaue,SI.POV.GINI
-Nigeria,NGA,Vaue,GINI index (World Bank estimate)
-Nigeria,NGA,Year,1985
-Nigeria,NGA,Year,1992
-Nigeria,NGA,Year,1996
-Nigeria,NGA,Year,2003
-Nigeria,NGA,Year,2009
-Nigeria,NGA,Year,Indicator Code
-Nigeria,NGA,Year,Indicator Name
-Niger,NER,Vaue,"36,1"
-Niger,NER,Vaue,"41,53"
-Niger,NER,Vaue,"44,43"
-Niger,NER,Vaue,"37,3"
-Niger,NER,Vaue,"31,45"
-Niger,NER,Vaue,SI.POV.GINI
-Niger,NER,Vaue,GINI index (World Bank estimate)
-Niger,NER,Year,1992
-Niger,NER,Year,1994
-Niger,NER,Year,2005
-Niger,NER,Year,2007
-Niger,NER,Year,2011
-Niger,NER,Year,Indicator Code
-Niger,NER,Year,Indicator Name
-Nicaragua,NIC,Vaue,"50,36"
-Nicaragua,NIC,Vaue,"45,16"
-Nicaragua,NIC,Vaue,"43,08"
-Nicaragua,NIC,Vaue,"40,49"
-Nicaragua,NIC,Vaue,"45,73"
-Nicaragua,NIC,Vaue,SI.POV.GINI
-Nicaragua,NIC,Vaue,GINI index (World Bank estimate)
-Nicaragua,NIC,Year,1993
-Nicaragua,NIC,Year,1998
-Nicaragua,NIC,Year,2001
-Nicaragua,NIC,Year,2005
-Nicaragua,NIC,Year,2009
-Nicaragua,NIC,Year,Indicator Code
-Nicaragua,NIC,Year,Indicator Name
-New Zealand,NZL,Vaue,SI.POV.GINI
-New Zealand,NZL,Vaue,GINI index (World Bank estimate)
-New Zealand,NZL,Year,Indicator Code
-New Zealand,NZL,Year,Indicator Name
-New Caledonia,NCL,Vaue,SI.POV.GINI
-New Caledonia,NCL,Vaue,GINI index (World Bank estimate)
-New Caledonia,NCL,Year,Indicator Code
-New Caledonia,NCL,Year,Indicator Name
-Netherlands,NLD,Vaue,"30,74"
-Netherlands,NLD,Vaue,"29,86"
-Netherlands,NLD,Vaue,"30,76"
-Netherlands,NLD,Vaue,"30,35"
-Netherlands,NLD,Vaue,"29,93"
-Netherlands,NLD,Vaue,"28,38"
-Netherlands,NLD,Vaue,"28,73"
-Netherlands,NLD,Vaue,"28,17"
-Netherlands,NLD,Vaue,"27,99"
-Netherlands,NLD,Vaue,SI.POV.GINI
-Netherlands,NLD,Vaue,GINI index (World Bank estimate)
-Netherlands,NLD,Year,2004
-Netherlands,NLD,Year,2005
-Netherlands,NLD,Year,2006
-Netherlands,NLD,Year,2007
-Netherlands,NLD,Year,2008
-Netherlands,NLD,Year,2009
-Netherlands,NLD,Year,2010
-Netherlands,NLD,Year,2011
-Netherlands,NLD,Year,2012
-Netherlands,NLD,Year,Indicator Code
-Netherlands,NLD,Year,Indicator Name
-Nepal,NPL,Vaue,"30,06"
-Nepal,NPL,Vaue,"35,21"
-Nepal,NPL,Vaue,"43,26"
-Nepal,NPL,Vaue,"32,75"
-Nepal,NPL,Vaue,SI.POV.GINI
-Nepal,NPL,Vaue,GINI index (World Bank estimate)
-Nepal,NPL,Year,1984
-Nepal,NPL,Year,1995
-Nepal,NPL,Year,2003
-Nepal,NPL,Year,2010
-Nepal,NPL,Year,Indicator Code
-Nepal,NPL,Year,Indicator Name
-Namibia,NAM,Vaue,"63,32"
-Namibia,NAM,Vaue,"60,97"
-Namibia,NAM,Vaue,SI.POV.GINI
-Namibia,NAM,Vaue,GINI index (World Bank estimate)
-Namibia,NAM,Year,2003
-Namibia,NAM,Year,2009
-Namibia,NAM,Year,Indicator Code
-Namibia,NAM,Year,Indicator Name
-Myanmar,MMR,Vaue,SI.POV.GINI
-Myanmar,MMR,Vaue,GINI index (World Bank estimate)
-Myanmar,MMR,Year,Indicator Code
-Myanmar,MMR,Year,Indicator Name
-Mozambique,MOZ,Vaue,"44,41"
-Mozambique,MOZ,Vaue,"47,04"
-Mozambique,MOZ,Vaue,"45,58"
-Mozambique,MOZ,Vaue,SI.POV.GINI
-Mozambique,MOZ,Vaue,GINI index (World Bank estimate)
-Mozambique,MOZ,Year,1996
-Mozambique,MOZ,Year,2002
-Mozambique,MOZ,Year,2008
-Mozambique,MOZ,Year,Indicator Code
-Mozambique,MOZ,Year,Indicator Name
-Morocco,MAR,Vaue,"39,19"
-Morocco,MAR,Vaue,"39,2"
-Morocco,MAR,Vaue,"39,46"
-Morocco,MAR,Vaue,"40,64"
-Morocco,MAR,Vaue,"40,72"
-Morocco,MAR,Vaue,SI.POV.GINI
-Morocco,MAR,Vaue,GINI index (World Bank estimate)
-Morocco,MAR,Year,1984
-Morocco,MAR,Year,1990
-Morocco,MAR,Year,1998
-Morocco,MAR,Year,2000
-Morocco,MAR,Year,2007
-Morocco,MAR,Year,Indicator Code
-Morocco,MAR,Year,Indicator Name
-Montenegro,MNE,Vaue,"30,14"
-Montenegro,MNE,Vaue,"29,39"
-Montenegro,MNE,Vaue,"30,82"
-Montenegro,MNE,Vaue,"30,01"
-Montenegro,MNE,Vaue,"30,27"
-Montenegro,MNE,Vaue,"28,6"
-Montenegro,MNE,Vaue,"30,63"
-Montenegro,MNE,Vaue,"32,16"
-Montenegro,MNE,Vaue,"33,19"
-Montenegro,MNE,Vaue,SI.POV.GINI
-Montenegro,MNE,Vaue,GINI index (World Bank estimate)
-Montenegro,MNE,Year,2005
-Montenegro,MNE,Year,2006
-Montenegro,MNE,Year,2007
-Montenegro,MNE,Year,2008
-Montenegro,MNE,Year,2009
-Montenegro,MNE,Year,2010
-Montenegro,MNE,Year,2011
-Montenegro,MNE,Year,2012
-Montenegro,MNE,Year,2013
-Montenegro,MNE,Year,Indicator Code
-Montenegro,MNE,Year,Indicator Name
-Mongolia,MNG,Vaue,"33,2"
-Mongolia,MNG,Vaue,"30,27"
-Mongolia,MNG,Vaue,"32,89"
-Mongolia,MNG,Vaue,"35,82"
-Mongolia,MNG,Vaue,"33,08"
-Mongolia,MNG,Vaue,"33,88"
-Mongolia,MNG,Vaue,"33,75"
-Mongolia,MNG,Vaue,SI.POV.GINI
-Mongolia,MNG,Vaue,GINI index (World Bank estimate)
-Mongolia,MNG,Year,1995
-Mongolia,MNG,Year,1998
-Mongolia,MNG,Year,2002
-Mongolia,MNG,Year,2007
-Mongolia,MNG,Year,2010
-Mongolia,MNG,Year,2011
-Mongolia,MNG,Year,2012
-Mongolia,MNG,Year,Indicator Code
-Mongolia,MNG,Year,Indicator Name
-Monaco,MCO,Vaue,SI.POV.GINI
-Monaco,MCO,Vaue,GINI index (World Bank estimate)
-Monaco,MCO,Year,Indicator Code
-Monaco,MCO,Year,Indicator Name
-Moldova,MDA,Vaue,"24,14"
-Moldova,MDA,Vaue,"34,32"
-Moldova,MDA,Vaue,"36,94"
-Moldova,MDA,Vaue,"39,52"
-Moldova,MDA,Vaue,"42,62"
-Moldova,MDA,Vaue,"36,43"
-Moldova,MDA,Vaue,"38,16"
-Moldova,MDA,Vaue,"35,76"
-Moldova,MDA,Vaue,"35,26"
-Moldova,MDA,Vaue,"35,35"
-Moldova,MDA,Vaue,"36,28"
-Moldova,MDA,Vaue,"35,4"
-Moldova,MDA,Vaue,"34,42"
-Moldova,MDA,Vaue,"34,69"
-Moldova,MDA,Vaue,"32,91"
-Moldova,MDA,Vaue,"32,05"
-Moldova,MDA,Vaue,"30,63"
-Moldova,MDA,Vaue,"29,16"
-Moldova,MDA,Vaue,"28,53"
-Moldova,MDA,Vaue,SI.POV.GINI
-Moldova,MDA,Vaue,GINI index (World Bank estimate)
-Moldova,MDA,Year,1988
-Moldova,MDA,Year,1992
-Moldova,MDA,Year,1997
-Moldova,MDA,Year,1998
-Moldova,MDA,Year,1999
-Moldova,MDA,Year,2000
-Moldova,MDA,Year,2001
-Moldova,MDA,Year,2002
-Moldova,MDA,Year,2003
-Moldova,MDA,Year,2004
-Moldova,MDA,Year,2005
-Moldova,MDA,Year,2006
-Moldova,MDA,Year,2007
-Moldova,MDA,Year,2008
-Moldova,MDA,Year,2009
-Moldova,MDA,Year,2010
-Moldova,MDA,Year,2011
-Moldova,MDA,Year,2012
-Moldova,MDA,Year,2013
-Moldova,MDA,Year,Indicator Code
-Moldova,MDA,Year,Indicator Name
-Middle income,MIC,Vaue,SI.POV.GINI
-Middle income,MIC,Vaue,GINI index (World Bank estimate)
-Middle income,MIC,Year,Indicator Code
-Middle income,MIC,Year,Indicator Name
-Middle East & North Africa (developing only),MNA,Vaue,SI.POV.GINI
-Middle East & North Africa (developing only),MNA,Vaue,GINI index (World Bank estimate)
-Middle East & North Africa (developing only),MNA,Year,Indicator Code
-Middle East & North Africa (developing only),MNA,Year,Indicator Name
-Middle East & North Africa (all income levels),MEA,Vaue,SI.POV.GINI
-Middle East & North Africa (all income levels),MEA,Vaue,GINI index (World Bank estimate)
-Middle East & North Africa (all income levels),MEA,Year,Indicator Code
-Middle East & North Africa (all income levels),MEA,Year,Indicator Name
-"Micronesia, Fed. Sts.",FSM,Vaue,"61,18"
-"Micronesia, Fed. Sts.",FSM,Vaue,SI.POV.GINI
-"Micronesia, Fed. Sts.",FSM,Vaue,GINI index (World Bank estimate)
-"Micronesia, Fed. Sts.",FSM,Year,2000
-"Micronesia, Fed. Sts.",FSM,Year,Indicator Code
-"Micronesia, Fed. Sts.",FSM,Year,Indicator Name
-Mexico,MEX,Vaue,"48,95"
-Mexico,MEX,Vaue,"54,34"
-Mexico,MEX,Vaue,"50,95"
-Mexico,MEX,Vaue,"51,7"
-Mexico,MEX,Vaue,"48,47"
-Mexico,MEX,Vaue,"48,97"
-Mexico,MEX,Vaue,"51,67"
-Mexico,MEX,Vaue,"49,54"
-Mexico,MEX,Vaue,"46,03"
-Mexico,MEX,Vaue,"51,11"
-Mexico,MEX,Vaue,"48,01"
-Mexico,MEX,Vaue,"48,23"
-Mexico,MEX,Vaue,"48,13"
-Mexico,MEX,Vaue,"48,07"
-Mexico,MEX,Vaue,SI.POV.GINI
-Mexico,MEX,Vaue,GINI index (World Bank estimate)
-Mexico,MEX,Year,1984
-Mexico,MEX,Year,1989
-Mexico,MEX,Year,1992
-Mexico,MEX,Year,1994
-Mexico,MEX,Year,1996
-Mexico,MEX,Year,1998
-Mexico,MEX,Year,2000
-Mexico,MEX,Year,2002
-Mexico,MEX,Year,2004
-Mexico,MEX,Year,2005
-Mexico,MEX,Year,2006
-Mexico,MEX,Year,2008
-Mexico,MEX,Year,2010
-Mexico,MEX,Year,2012
-Mexico,MEX,Year,Indicator Code
-Mexico,MEX,Year,Indicator Name
-Mauritius,MUS,Vaue,"35,65"
-Mauritius,MUS,Vaue,"35,84"
-Mauritius,MUS,Vaue,SI.POV.GINI
-Mauritius,MUS,Vaue,GINI index (World Bank estimate)
-Mauritius,MUS,Year,2006
-Mauritius,MUS,Year,2012
-Mauritius,MUS,Year,Indicator Code
-Mauritius,MUS,Year,Indicator Name
-Mauritania,MRT,Vaue,"43,94"
-Mauritania,MRT,Vaue,"50,05"
-Mauritania,MRT,Vaue,"37,75"
-Mauritania,MRT,Vaue,"39,03"
-Mauritania,MRT,Vaue,"40,17"
-Mauritania,MRT,Vaue,"37,48"
-Mauritania,MRT,Vaue,SI.POV.GINI
-Mauritania,MRT,Vaue,GINI index (World Bank estimate)
-Mauritania,MRT,Year,1987
-Mauritania,MRT,Year,1993
-Mauritania,MRT,Year,1995
-Mauritania,MRT,Year,2000
-Mauritania,MRT,Year,2004
-Mauritania,MRT,Year,2008
-Mauritania,MRT,Year,Indicator Code
-Mauritania,MRT,Year,Indicator Name
-Marshall Islands,MHL,Vaue,SI.POV.GINI
-Marshall Islands,MHL,Vaue,GINI index (World Bank estimate)
-Marshall Islands,MHL,Year,Indicator Code
-Marshall Islands,MHL,Year,Indicator Name
-Malta,MLT,Vaue,SI.POV.GINI
-Malta,MLT,Vaue,GINI index (World Bank estimate)
-Malta,MLT,Year,Indicator Code
-Malta,MLT,Year,Indicator Name
-Mali,MLI,Vaue,"50,44"
-Mali,MLI,Vaue,"39,87"
-Mali,MLI,Vaue,"38,93"
-Mali,MLI,Vaue,"33,04"
-Mali,MLI,Vaue,SI.POV.GINI
-Mali,MLI,Vaue,GINI index (World Bank estimate)
-Mali,MLI,Year,1994
-Mali,MLI,Year,2001
-Mali,MLI,Year,2006
-Mali,MLI,Year,2009
-Mali,MLI,Year,Indicator Code
-Mali,MLI,Year,Indicator Name
-Maldives,MDV,Vaue,"62,68"
-Maldives,MDV,Vaue,"37,37"
-Maldives,MDV,Vaue,"36,78"
-Maldives,MDV,Vaue,SI.POV.GINI
-Maldives,MDV,Vaue,GINI index (World Bank estimate)
-Maldives,MDV,Year,1998
-Maldives,MDV,Year,2004
-Maldives,MDV,Year,2009
-Maldives,MDV,Year,Indicator Code
-Maldives,MDV,Year,Indicator Name
-Malaysia,MYS,Vaue,"48,62"
-Malaysia,MYS,Vaue,"47,04"
-Malaysia,MYS,Vaue,"46,17"
-Malaysia,MYS,Vaue,"47,65"
-Malaysia,MYS,Vaue,"48,52"
-Malaysia,MYS,Vaue,"49,15"
-Malaysia,MYS,Vaue,"46,05"
-Malaysia,MYS,Vaue,46
-Malaysia,MYS,Vaue,"46,26"
-Malaysia,MYS,Vaue,SI.POV.GINI
-Malaysia,MYS,Vaue,GINI index (World Bank estimate)
-Malaysia,MYS,Year,1984
-Malaysia,MYS,Year,1987
-Malaysia,MYS,Year,1989
-Malaysia,MYS,Year,1992
-Malaysia,MYS,Year,1995
-Malaysia,MYS,Year,1997
-Malaysia,MYS,Year,2004
-Malaysia,MYS,Year,2007
-Malaysia,MYS,Year,2009
-Malaysia,MYS,Year,Indicator Code
-Malaysia,MYS,Year,Indicator Name
-Malawi,MWI,Vaue,"65,76"
-Malawi,MWI,Vaue,"39,87"
-Malawi,MWI,Vaue,"46,12"
-Malawi,MWI,Vaue,SI.POV.GINI
-Malawi,MWI,Vaue,GINI index (World Bank estimate)
-Malawi,MWI,Year,1997
-Malawi,MWI,Year,2004
-Malawi,MWI,Year,2010
-Malawi,MWI,Year,Indicator Code
-Malawi,MWI,Year,Indicator Name
-Madagascar,MDG,Vaue,"45,26"
-Madagascar,MDG,Vaue,"39,47"
-Madagascar,MDG,Vaue,"38,61"
-Madagascar,MDG,Vaue,"47,44"
-Madagascar,MDG,Vaue,"38,88"
-Madagascar,MDG,Vaue,"40,63"
-Madagascar,MDG,Vaue,SI.POV.GINI
-Madagascar,MDG,Vaue,GINI index (World Bank estimate)
-Madagascar,MDG,Year,1993
-Madagascar,MDG,Year,1997
-Madagascar,MDG,Year,1999
-Madagascar,MDG,Year,2001
-Madagascar,MDG,Year,2005
-Madagascar,MDG,Year,2010
-Madagascar,MDG,Year,Indicator Code
-Madagascar,MDG,Year,Indicator Name
-"Macedonia, FYR",MKD,Vaue,"28,13"
-"Macedonia, FYR",MKD,Vaue,"34,26"
-"Macedonia, FYR",MKD,Vaue,"38,51"
-"Macedonia, FYR",MKD,Vaue,"38,72"
-"Macedonia, FYR",MKD,Vaue,"38,77"
-"Macedonia, FYR",MKD,Vaue,"39,31"
-"Macedonia, FYR",MKD,Vaue,"42,64"
-"Macedonia, FYR",MKD,Vaue,"44,05"
-"Macedonia, FYR",MKD,Vaue,SI.POV.GINI
-"Macedonia, FYR",MKD,Vaue,GINI index (World Bank estimate)
-"Macedonia, FYR",MKD,Year,1998
-"Macedonia, FYR",MKD,Year,2000
-"Macedonia, FYR",MKD,Year,2002
-"Macedonia, FYR",MKD,Year,2003
-"Macedonia, FYR",MKD,Year,2004
-"Macedonia, FYR",MKD,Year,2005
-"Macedonia, FYR",MKD,Year,2006
-"Macedonia, FYR",MKD,Year,2008
-"Macedonia, FYR",MKD,Year,Indicator Code
-"Macedonia, FYR",MKD,Year,Indicator Name
-"Macao SAR, China",MAC,Vaue,SI.POV.GINI
-"Macao SAR, China",MAC,Vaue,GINI index (World Bank estimate)
-"Macao SAR, China",MAC,Year,Indicator Code
-"Macao SAR, China",MAC,Year,Indicator Name
-Luxembourg,LUX,Vaue,"30,25"
-Luxembourg,LUX,Vaue,"31,11"
-Luxembourg,LUX,Vaue,"30,96"
-Luxembourg,LUX,Vaue,"31,28"
-Luxembourg,LUX,Vaue,"32,61"
-Luxembourg,LUX,Vaue,"31,53"
-Luxembourg,LUX,Vaue,"30,9"
-Luxembourg,LUX,Vaue,"32,42"
-Luxembourg,LUX,Vaue,"34,79"
-Luxembourg,LUX,Vaue,SI.POV.GINI
-Luxembourg,LUX,Vaue,GINI index (World Bank estimate)
-Luxembourg,LUX,Year,2004
-Luxembourg,LUX,Year,2005
-Luxembourg,LUX,Year,2006
-Luxembourg,LUX,Year,2007
-Luxembourg,LUX,Year,2008
-Luxembourg,LUX,Year,2009
-Luxembourg,LUX,Year,2010
-Luxembourg,LUX,Year,2011
-Luxembourg,LUX,Year,2012
-Luxembourg,LUX,Year,Indicator Code
-Luxembourg,LUX,Year,Indicator Name
-Lower middle income,LMC,Vaue,SI.POV.GINI
-Lower middle income,LMC,Vaue,GINI index (World Bank estimate)
-Lower middle income,LMC,Year,Indicator Code
-Lower middle income,LMC,Year,Indicator Name
-Low income,LIC,Vaue,SI.POV.GINI
-Low income,LIC,Vaue,GINI index (World Bank estimate)
-Low income,LIC,Year,Indicator Code
-Low income,LIC,Year,Indicator Name
-Low & middle income,LMY,Vaue,SI.POV.GINI
-Low & middle income,LMY,Vaue,GINI index (World Bank estimate)
-Low & middle income,LMY,Year,Indicator Code
-Low & middle income,LMY,Year,Indicator Name
-Lithuania,LTU,Vaue,"22,48"
-Lithuania,LTU,Vaue,"33,64"
-Lithuania,LTU,Vaue,"32,26"
-Lithuania,LTU,Vaue,"32,1"
-Lithuania,LTU,Vaue,"32,02"
-Lithuania,LTU,Vaue,"31,67"
-Lithuania,LTU,Vaue,"32,01"
-Lithuania,LTU,Vaue,"31,92"
-Lithuania,LTU,Vaue,"35,46"
-Lithuania,LTU,Vaue,"35,2"
-Lithuania,LTU,Vaue,"35,3"
-Lithuania,LTU,Vaue,"34,44"
-Lithuania,LTU,Vaue,"34,59"
-Lithuania,LTU,Vaue,"37,06"
-Lithuania,LTU,Vaue,"37,33"
-Lithuania,LTU,Vaue,"33,76"
-Lithuania,LTU,Vaue,"32,63"
-Lithuania,LTU,Vaue,"35,15"
-Lithuania,LTU,Vaue,SI.POV.GINI
-Lithuania,LTU,Vaue,GINI index (World Bank estimate)
-Lithuania,LTU,Year,1988
-Lithuania,LTU,Year,1993
-Lithuania,LTU,Year,1996
-Lithuania,LTU,Year,1998
-Lithuania,LTU,Year,1999
-Lithuania,LTU,Year,2000
-Lithuania,LTU,Year,2001
-Lithuania,LTU,Year,2002
-Lithuania,LTU,Year,2003
-Lithuania,LTU,Year,2004
-Lithuania,LTU,Year,2005
-Lithuania,LTU,Year,2006
-Lithuania,LTU,Year,2007
-Lithuania,LTU,Year,2008
-Lithuania,LTU,Year,2009
-Lithuania,LTU,Year,2010
-Lithuania,LTU,Year,2011
-Lithuania,LTU,Year,2012
-Lithuania,LTU,Year,Indicator Code
-Lithuania,LTU,Year,Indicator Name
-Liechtenstein,LIE,Vaue,SI.POV.GINI
-Liechtenstein,LIE,Vaue,GINI index (World Bank estimate)
-Liechtenstein,LIE,Year,Indicator Code
-Liechtenstein,LIE,Year,Indicator Name
-Libya,LBY,Vaue,SI.POV.GINI
-Libya,LBY,Vaue,GINI index (World Bank estimate)
-Libya,LBY,Year,Indicator Code
-Libya,LBY,Year,Indicator Name
-Liberia,LBR,Vaue,"36,48"
-Liberia,LBR,Vaue,SI.POV.GINI
-Liberia,LBR,Vaue,GINI index (World Bank estimate)
-Liberia,LBR,Year,2007
-Liberia,LBR,Year,Indicator Code
-Liberia,LBR,Year,Indicator Name
-Lesotho,LSO,Vaue,"56,02"
-Lesotho,LSO,Vaue,"63,24"
-Lesotho,LSO,Vaue,"51,57"
-Lesotho,LSO,Vaue,"54,18"
-Lesotho,LSO,Vaue,SI.POV.GINI
-Lesotho,LSO,Vaue,GINI index (World Bank estimate)
-Lesotho,LSO,Year,1986
-Lesotho,LSO,Year,1994
-Lesotho,LSO,Year,2002
-Lesotho,LSO,Year,2010
-Lesotho,LSO,Year,Indicator Code
-Lesotho,LSO,Year,Indicator Name
-Lebanon,LBN,Vaue,SI.POV.GINI
-Lebanon,LBN,Vaue,GINI index (World Bank estimate)
-Lebanon,LBN,Year,Indicator Code
-Lebanon,LBN,Year,Indicator Name
-Least developed countries: UN classification,LDC,Vaue,SI.POV.GINI
-Least developed countries: UN classification,LDC,Vaue,GINI index (World Bank estimate)
-Least developed countries: UN classification,LDC,Year,Indicator Code
-Least developed countries: UN classification,LDC,Year,Indicator Name
-Latvia,LVA,Vaue,"22,49"
-Latvia,LVA,Vaue,"26,99"
-Latvia,LVA,Vaue,"30,98"
-Latvia,LVA,Vaue,"31,64"
-Latvia,LVA,Vaue,"32,65"
-Latvia,LVA,Vaue,"33,1"
-Latvia,LVA,Vaue,"35,09"
-Latvia,LVA,Vaue,"36,53"
-Latvia,LVA,Vaue,"34,96"
-Latvia,LVA,Vaue,"39,4"
-Latvia,LVA,Vaue,"35,6"
-Latvia,LVA,Vaue,"36,05"
-Latvia,LVA,Vaue,"35,82"
-Latvia,LVA,Vaue,"34,83"
-Latvia,LVA,Vaue,"35,27"
-Latvia,LVA,Vaue,"36,03"
-Latvia,LVA,Vaue,"35,48"
-Latvia,LVA,Vaue,SI.POV.GINI
-Latvia,LVA,Vaue,GINI index (World Bank estimate)
-Latvia,LVA,Year,1988
-Latvia,LVA,Year,1993
-Latvia,LVA,Year,1995
-Latvia,LVA,Year,1996
-Latvia,LVA,Year,1997
-Latvia,LVA,Year,1998
-Latvia,LVA,Year,2002
-Latvia,LVA,Year,2003
-Latvia,LVA,Year,2004
-Latvia,LVA,Year,2005
-Latvia,LVA,Year,2006
-Latvia,LVA,Year,2007
-Latvia,LVA,Year,2008
-Latvia,LVA,Year,2009
-Latvia,LVA,Year,2010
-Latvia,LVA,Year,2011
-Latvia,LVA,Year,2012
-Latvia,LVA,Year,Indicator Code
-Latvia,LVA,Year,Indicator Name
-Latin America & Caribbean (developing only),LAC,Vaue,SI.POV.GINI
-Latin America & Caribbean (developing only),LAC,Vaue,GINI index (World Bank estimate)
-Latin America & Caribbean (developing only),LAC,Year,Indicator Code
-Latin America & Caribbean (developing only),LAC,Year,Indicator Name
-Latin America & Caribbean (all income levels),LCN,Vaue,SI.POV.GINI
-Latin America & Caribbean (all income levels),LCN,Vaue,GINI index (World Bank estimate)
-Latin America & Caribbean (all income levels),LCN,Year,Indicator Code
-Latin America & Caribbean (all income levels),LCN,Year,Indicator Name
-Lao PDR,LAO,Vaue,"34,31"
-Lao PDR,LAO,Vaue,"34,9"
-Lao PDR,LAO,Vaue,"34,66"
-Lao PDR,LAO,Vaue,"36,64"
-Lao PDR,LAO,Vaue,"37,89"
-Lao PDR,LAO,Vaue,SI.POV.GINI
-Lao PDR,LAO,Vaue,GINI index (World Bank estimate)
-Lao PDR,LAO,Year,1992
-Lao PDR,LAO,Year,1997
-Lao PDR,LAO,Year,2002
-Lao PDR,LAO,Year,2007
-Lao PDR,LAO,Year,2012
-Lao PDR,LAO,Year,Indicator Code
-Lao PDR,LAO,Year,Indicator Name
-Kyrgyz Republic,KGZ,Vaue,"26,01"
-Kyrgyz Republic,KGZ,Vaue,"53,7"
-Kyrgyz Republic,KGZ,Vaue,"46,4"
-Kyrgyz Republic,KGZ,Vaue,"31,03"
-Kyrgyz Republic,KGZ,Vaue,"30,16"
-Kyrgyz Republic,KGZ,Vaue,"30,3"
-Kyrgyz Republic,KGZ,Vaue,"28,71"
-Kyrgyz Republic,KGZ,Vaue,"34,77"
-Kyrgyz Republic,KGZ,Vaue,"38,32"
-Kyrgyz Republic,KGZ,Vaue,"38,4"
-Kyrgyz Republic,KGZ,Vaue,"33,43"
-Kyrgyz Republic,KGZ,Vaue,"32,06"
-Kyrgyz Republic,KGZ,Vaue,"29,83"
-Kyrgyz Republic,KGZ,Vaue,"29,89"
-Kyrgyz Republic,KGZ,Vaue,"27,77"
-Kyrgyz Republic,KGZ,Vaue,"27,37"
-Kyrgyz Republic,KGZ,Vaue,SI.POV.GINI
-Kyrgyz Republic,KGZ,Vaue,GINI index (World Bank estimate)
-Kyrgyz Republic,KGZ,Year,1988
-Kyrgyz Republic,KGZ,Year,1993
-Kyrgyz Republic,KGZ,Year,1998
-Kyrgyz Republic,KGZ,Year,2000
-Kyrgyz Republic,KGZ,Year,2001
-Kyrgyz Republic,KGZ,Year,2002
-Kyrgyz Republic,KGZ,Year,2003
-Kyrgyz Republic,KGZ,Year,2004
-Kyrgyz Republic,KGZ,Year,2005
-Kyrgyz Republic,KGZ,Year,2006
-Kyrgyz Republic,KGZ,Year,2007
-Kyrgyz Republic,KGZ,Year,2008
-Kyrgyz Republic,KGZ,Year,2009
-Kyrgyz Republic,KGZ,Year,2010
-Kyrgyz Republic,KGZ,Year,2011
-Kyrgyz Republic,KGZ,Year,2012
-Kyrgyz Republic,KGZ,Year,Indicator Code
-Kyrgyz Republic,KGZ,Year,Indicator Name
-Kuwait,KWT,Vaue,SI.POV.GINI
-Kuwait,KWT,Vaue,GINI index (World Bank estimate)
-Kuwait,KWT,Year,Indicator Code
-Kuwait,KWT,Year,Indicator Name
-Kosovo,KSV,Vaue,"28,95"
-Kosovo,KSV,Vaue,"31,24"
-Kosovo,KSV,Vaue,"30,32"
-Kosovo,KSV,Vaue,"31,78"
-Kosovo,KSV,Vaue,"33,25"
-Kosovo,KSV,Vaue,"27,83"
-Kosovo,KSV,Vaue,"29,4"
-Kosovo,KSV,Vaue,"26,71"
-Kosovo,KSV,Vaue,SI.POV.GINI
-Kosovo,KSV,Vaue,GINI index (World Bank estimate)
-Kosovo,KSV,Year,2003
-Kosovo,KSV,Year,2005
-Kosovo,KSV,Year,2006
-Kosovo,KSV,Year,2009
-Kosovo,KSV,Year,2010
-Kosovo,KSV,Year,2011
-Kosovo,KSV,Year,2012
-Kosovo,KSV,Year,2013
-Kosovo,KSV,Year,Indicator Code
-Kosovo,KSV,Year,Indicator Name
-"Korea, Rep.",KOR,Vaue,SI.POV.GINI
-"Korea, Rep.",KOR,Vaue,GINI index (World Bank estimate)
-"Korea, Rep.",KOR,Year,Indicator Code
-"Korea, Rep.",KOR,Year,Indicator Name
-"Korea, Dem. People’s Rep.",PRK,Vaue,SI.POV.GINI
-"Korea, Dem. People’s Rep.",PRK,Vaue,GINI index (World Bank estimate)
-"Korea, Dem. People’s Rep.",PRK,Year,Indicator Code
-"Korea, Dem. People’s Rep.",PRK,Year,Indicator Name
-Kiribati,KIR,Vaue,"37,61"
-Kiribati,KIR,Vaue,SI.POV.GINI
-Kiribati,KIR,Vaue,GINI index (World Bank estimate)
-Kiribati,KIR,Year,2006
-Kiribati,KIR,Year,Indicator Code
-Kiribati,KIR,Year,Indicator Name
-Kenya,KEN,Vaue,"57,46"
-Kenya,KEN,Vaue,"43,86"
-Kenya,KEN,Vaue,"46,3"
-Kenya,KEN,Vaue,"48,51"
-Kenya,KEN,Vaue,SI.POV.GINI
-Kenya,KEN,Vaue,GINI index (World Bank estimate)
-Kenya,KEN,Year,1992
-Kenya,KEN,Year,1994
-Kenya,KEN,Year,1997
-Kenya,KEN,Year,2005
-Kenya,KEN,Year,Indicator Code
-Kenya,KEN,Year,Indicator Name
-Kazakhstan,KAZ,Vaue,"25,74"
-Kazakhstan,KAZ,Vaue,"32,67"
-Kazakhstan,KAZ,Vaue,"35,38"
-Kazakhstan,KAZ,Vaue,"35,29"
-Kazakhstan,KAZ,Vaue,"34,05"
-Kazakhstan,KAZ,Vaue,"33,15"
-Kazakhstan,KAZ,Vaue,"31,47"
-Kazakhstan,KAZ,Vaue,"29,65"
-Kazakhstan,KAZ,Vaue,"29,99"
-Kazakhstan,KAZ,Vaue,"28,54"
-Kazakhstan,KAZ,Vaue,"29,07"
-Kazakhstan,KAZ,Vaue,"28,79"
-Kazakhstan,KAZ,Vaue,"28,56"
-Kazakhstan,KAZ,Vaue,"27,42"
-Kazakhstan,KAZ,Vaue,"27,43"
-Kazakhstan,KAZ,Vaue,"26,35"
-Kazakhstan,KAZ,Vaue,SI.POV.GINI
-Kazakhstan,KAZ,Vaue,GINI index (World Bank estimate)
-Kazakhstan,KAZ,Year,1988
-Kazakhstan,KAZ,Year,1993
-Kazakhstan,KAZ,Year,1996
-Kazakhstan,KAZ,Year,2001
-Kazakhstan,KAZ,Year,2002
-Kazakhstan,KAZ,Year,2003
-Kazakhstan,KAZ,Year,2004
-Kazakhstan,KAZ,Year,2005
-Kazakhstan,KAZ,Year,2006
-Kazakhstan,KAZ,Year,2007
-Kazakhstan,KAZ,Year,2008
-Kazakhstan,KAZ,Year,2009
-Kazakhstan,KAZ,Year,2010
-Kazakhstan,KAZ,Year,2011
-Kazakhstan,KAZ,Year,2012
-Kazakhstan,KAZ,Year,2013
-Kazakhstan,KAZ,Year,Indicator Code
-Kazakhstan,KAZ,Year,Indicator Name
-Jordan,JOR,Vaue,"36,06"
-Jordan,JOR,Vaue,"43,36"
-Jordan,JOR,Vaue,"36,42"
-Jordan,JOR,Vaue,"36,95"
-Jordan,JOR,Vaue,"33,86"
-Jordan,JOR,Vaue,"32,57"
-Jordan,JOR,Vaue,"33,66"
-Jordan,JOR,Vaue,SI.POV.GINI
-Jordan,JOR,Vaue,GINI index (World Bank estimate)
-Jordan,JOR,Year,1986
-Jordan,JOR,Year,1992
-Jordan,JOR,Year,1997
-Jordan,JOR,Year,2002
-Jordan,JOR,Year,2006
-Jordan,JOR,Year,2008
-Jordan,JOR,Year,2010
-Jordan,JOR,Year,Indicator Code
-Jordan,JOR,Year,Indicator Name
-Japan,JPN,Vaue,"32,11"
-Japan,JPN,Vaue,SI.POV.GINI
-Japan,JPN,Vaue,GINI index (World Bank estimate)
-Japan,JPN,Year,2008
-Japan,JPN,Year,Indicator Code
-Japan,JPN,Year,Indicator Name
-Jamaica,JAM,Vaue,"43,16"
-Jamaica,JAM,Vaue,"41,11"
-Jamaica,JAM,Vaue,"35,67"
-Jamaica,JAM,Vaue,"40,39"
-Jamaica,JAM,Vaue,"44,08"
-Jamaica,JAM,Vaue,"48,32"
-Jamaica,JAM,Vaue,"45,46"
-Jamaica,JAM,Vaue,SI.POV.GINI
-Jamaica,JAM,Vaue,GINI index (World Bank estimate)
-Jamaica,JAM,Year,1988
-Jamaica,JAM,Year,1990
-Jamaica,JAM,Year,1993
-Jamaica,JAM,Year,1996
-Jamaica,JAM,Year,1999
-Jamaica,JAM,Year,2002
-Jamaica,JAM,Year,2004
-Jamaica,JAM,Year,Indicator Code
-Jamaica,JAM,Year,Indicator Name
-Italy,ITA,Vaue,"34,53"
-Italy,ITA,Vaue,"34,07"
-Italy,ITA,Vaue,"34,26"
-Italy,ITA,Vaue,"33,19"
-Italy,ITA,Vaue,"33,74"
-Italy,ITA,Vaue,"33,66"
-Italy,ITA,Vaue,"34,41"
-Italy,ITA,Vaue,"34,52"
-Italy,ITA,Vaue,"35,16"
-Italy,ITA,Vaue,SI.POV.GINI
-Italy,ITA,Vaue,GINI index (World Bank estimate)
-Italy,ITA,Year,2004
-Italy,ITA,Year,2005
-Italy,ITA,Year,2006
-Italy,ITA,Year,2007
-Italy,ITA,Year,2008
-Italy,ITA,Year,2009
-Italy,ITA,Year,2010
-Italy,ITA,Year,2011
-Italy,ITA,Year,2012
-Italy,ITA,Year,Indicator Code
-Italy,ITA,Year,Indicator Name
-Israel,ISR,Vaue,"36,49"
-Israel,ISR,Vaue,"35,5"
-Israel,ISR,Vaue,"38,1"
-Israel,ISR,Vaue,"39,2"
-Israel,ISR,Vaue,"41,86"
-Israel,ISR,Vaue,"41,18"
-Israel,ISR,Vaue,"42,78"
-Israel,ISR,Vaue,SI.POV.GINI
-Israel,ISR,Vaue,GINI index (World Bank estimate)
-Israel,ISR,Year,1986
-Israel,ISR,Year,1992
-Israel,ISR,Year,1997
-Israel,ISR,Year,2001
-Israel,ISR,Year,2005
-Israel,ISR,Year,2007
-Israel,ISR,Year,2010
-Israel,ISR,Year,Indicator Code
-Israel,ISR,Year,Indicator Name
-Isle of Man,IMN,Vaue,SI.POV.GINI
-Isle of Man,IMN,Vaue,GINI index (World Bank estimate)
-Isle of Man,IMN,Year,Indicator Code
-Isle of Man,IMN,Year,Indicator Name
-Ireland,IRL,Vaue,"33,72"
-Ireland,IRL,Vaue,"33,76"
-Ireland,IRL,Vaue,"32,73"
-Ireland,IRL,Vaue,"31,96"
-Ireland,IRL,Vaue,"30,91"
-Ireland,IRL,Vaue,"32,84"
-Ireland,IRL,Vaue,"32,3"
-Ireland,IRL,Vaue,"32,33"
-Ireland,IRL,Vaue,"32,52"
-Ireland,IRL,Vaue,SI.POV.GINI
-Ireland,IRL,Vaue,GINI index (World Bank estimate)
-Ireland,IRL,Year,2004
-Ireland,IRL,Year,2005
-Ireland,IRL,Year,2006
-Ireland,IRL,Year,2007
-Ireland,IRL,Year,2008
-Ireland,IRL,Year,2009
-Ireland,IRL,Year,2010
-Ireland,IRL,Year,2011
-Ireland,IRL,Year,2012
-Ireland,IRL,Year,Indicator Code
-Ireland,IRL,Year,Indicator Name
-Iraq,IRQ,Vaue,"29,54"
-Iraq,IRQ,Vaue,SI.POV.GINI
-Iraq,IRQ,Vaue,GINI index (World Bank estimate)
-Iraq,IRQ,Year,2012
-Iraq,IRQ,Year,Indicator Code
-Iraq,IRQ,Year,Indicator Name
-"Iran, Islamic Rep.",IRN,Vaue,"47,42"
-"Iran, Islamic Rep.",IRN,Vaue,"43,6"
-"Iran, Islamic Rep.",IRN,Vaue,43
-"Iran, Islamic Rep.",IRN,Vaue,"44,1"
-"Iran, Islamic Rep.",IRN,Vaue,"38,34"
-"Iran, Islamic Rep.",IRN,Vaue,"42,02"
-"Iran, Islamic Rep.",IRN,Vaue,"37,35"
-"Iran, Islamic Rep.",IRN,Vaue,SI.POV.GINI
-"Iran, Islamic Rep.",IRN,Vaue,GINI index (World Bank estimate)
-"Iran, Islamic Rep.",IRN,Year,1986
-"Iran, Islamic Rep.",IRN,Year,1990
-"Iran, Islamic Rep.",IRN,Year,1994
-"Iran, Islamic Rep.",IRN,Year,1998
-"Iran, Islamic Rep.",IRN,Year,2005
-"Iran, Islamic Rep.",IRN,Year,2009
-"Iran, Islamic Rep.",IRN,Year,2013
-"Iran, Islamic Rep.",IRN,Year,Indicator Code
-"Iran, Islamic Rep.",IRN,Year,Indicator Name
-Indonesia,IDN,Vaue,"30,47"
-Indonesia,IDN,Vaue,"29,27"
-Indonesia,IDN,Vaue,"29,19"
-Indonesia,IDN,Vaue,"29,31"
-Indonesia,IDN,Vaue,"31,33"
-Indonesia,IDN,Vaue,"28,99"
-Indonesia,IDN,Vaue,"29,74"
-Indonesia,IDN,Vaue,"34,01"
-Indonesia,IDN,Vaue,"34,11"
-Indonesia,IDN,Vaue,"35,57"
-Indonesia,IDN,Vaue,SI.POV.GINI
-Indonesia,IDN,Vaue,GINI index (World Bank estimate)
-Indonesia,IDN,Year,1984
-Indonesia,IDN,Year,1987
-Indonesia,IDN,Year,1990
-Indonesia,IDN,Year,1993
-Indonesia,IDN,Year,1996
-Indonesia,IDN,Year,1999
-Indonesia,IDN,Year,2002
-Indonesia,IDN,Year,2005
-Indonesia,IDN,Year,2008
-Indonesia,IDN,Year,2010
-Indonesia,IDN,Year,Indicator Code
-Indonesia,IDN,Year,Indicator Name
-India,IND,Vaue,"31,11"
-India,IND,Vaue,"31,88"
-India,IND,Vaue,"30,82"
-India,IND,Vaue,"33,38"
-India,IND,Vaue,"33,9"
-India,IND,Vaue,SI.POV.GINI
-India,IND,Vaue,GINI index (World Bank estimate)
-India,IND,Year,1983
-India,IND,Year,1987
-India,IND,Year,1993
-India,IND,Year,2004
-India,IND,Year,2009
-India,IND,Year,Indicator Code
-India,IND,Year,Indicator Name
-Iceland,ISL,Vaue,"28,11"
-Iceland,ISL,Vaue,"29,38"
-Iceland,ISL,Vaue,"30,25"
-Iceland,ISL,Vaue,"29,58"
-Iceland,ISL,Vaue,"31,89"
-Iceland,ISL,Vaue,"28,74"
-Iceland,ISL,Vaue,"26,43"
-Iceland,ISL,Vaue,"27,03"
-Iceland,ISL,Vaue,"26,94"
-Iceland,ISL,Vaue,SI.POV.GINI
-Iceland,ISL,Vaue,GINI index (World Bank estimate)
-Iceland,ISL,Year,2004
-Iceland,ISL,Year,2005
-Iceland,ISL,Year,2006
-Iceland,ISL,Year,2007
-Iceland,ISL,Year,2008
-Iceland,ISL,Year,2009
-Iceland,ISL,Year,2010
-Iceland,ISL,Year,2011
-Iceland,ISL,Year,2012
-Iceland,ISL,Year,Indicator Code
-Iceland,ISL,Year,Indicator Name
-Hungary,HUN,Vaue,"20,96"
-Hungary,HUN,Vaue,"25,05"
-Hungary,HUN,Vaue,"27,94"
-Hungary,HUN,Vaue,"26,38"
-Hungary,HUN,Vaue,"27,64"
-Hungary,HUN,Vaue,"27,22"
-Hungary,HUN,Vaue,"26,92"
-Hungary,HUN,Vaue,"26,84"
-Hungary,HUN,Vaue,"30,93"
-Hungary,HUN,Vaue,"30,02"
-Hungary,HUN,Vaue,"30,19"
-Hungary,HUN,Vaue,"28,3"
-Hungary,HUN,Vaue,"31,16"
-Hungary,HUN,Vaue,"27,53"
-Hungary,HUN,Vaue,"26,97"
-Hungary,HUN,Vaue,"29,37"
-Hungary,HUN,Vaue,"28,94"
-Hungary,HUN,Vaue,"30,55"
-Hungary,HUN,Vaue,SI.POV.GINI
-Hungary,HUN,Vaue,GINI index (World Bank estimate)
-Hungary,HUN,Year,1987
-Hungary,HUN,Year,1989
-Hungary,HUN,Year,1993
-Hungary,HUN,Year,1998
-Hungary,HUN,Year,1999
-Hungary,HUN,Year,2000
-Hungary,HUN,Year,2001
-Hungary,HUN,Year,2002
-Hungary,HUN,Year,2003
-Hungary,HUN,Year,2004
-Hungary,HUN,Year,2005
-Hungary,HUN,Year,2006
-Hungary,HUN,Year,2007
-Hungary,HUN,Year,2008
-Hungary,HUN,Year,2009
-Hungary,HUN,Year,2010
-Hungary,HUN,Year,2011
-Hungary,HUN,Year,2012
-Hungary,HUN,Year,Indicator Code
-Hungary,HUN,Year,Indicator Name
-"Hong Kong SAR, China",HKG,Vaue,SI.POV.GINI
-"Hong Kong SAR, China",HKG,Vaue,GINI index (World Bank estimate)
-"Hong Kong SAR, China",HKG,Year,Indicator Code
-"Hong Kong SAR, China",HKG,Year,Indicator Name
-Honduras,HND,Vaue,"55,09"
-Honduras,HND,Vaue,"59,49"
-Honduras,HND,Vaue,"57,36"
-Honduras,HND,Vaue,"51,85"
-Honduras,HND,Vaue,"51,83"
-Honduras,HND,Vaue,"53,47"
-Honduras,HND,Vaue,"55,01"
-Honduras,HND,Vaue,"55,49"
-Honduras,HND,Vaue,"55,72"
-Honduras,HND,Vaue,"52,73"
-Honduras,HND,Vaue,"57,43"
-Honduras,HND,Vaue,"55,35"
-Honduras,HND,Vaue,"54,08"
-Honduras,HND,Vaue,"58,78"
-Honduras,HND,Vaue,"58,66"
-Honduras,HND,Vaue,"58,41"
-Honduras,HND,Vaue,"59,51"
-Honduras,HND,Vaue,"57,42"
-Honduras,HND,Vaue,"56,16"
-Honduras,HND,Vaue,"55,74"
-Honduras,HND,Vaue,"51,56"
-Honduras,HND,Vaue,"53,39"
-Honduras,HND,Vaue,"57,4"
-Honduras,HND,Vaue,"57,4"
-Honduras,HND,Vaue,"53,67"
-Honduras,HND,Vaue,SI.POV.GINI
-Honduras,HND,Vaue,GINI index (World Bank estimate)
-Honduras,HND,Year,1986
-Honduras,HND,Year,1989
-Honduras,HND,Year,1990
-Honduras,HND,Year,1991
-Honduras,HND,Year,1992
-Honduras,HND,Year,1993
-Honduras,HND,Year,1994
-Honduras,HND,Year,1995
-Honduras,HND,Year,1996
-Honduras,HND,Year,1997
-Honduras,HND,Year,1998
-Honduras,HND,Year,1999
-Honduras,HND,Year,2001
-Honduras,HND,Year,2002
-Honduras,HND,Year,2003
-Honduras,HND,Year,2004
-Honduras,HND,Year,2005
-Honduras,HND,Year,2006
-Honduras,HND,Year,2007
-Honduras,HND,Year,2008
-Honduras,HND,Year,2009
-Honduras,HND,Year,2010
-Honduras,HND,Year,2011
-Honduras,HND,Year,2012
-Honduras,HND,Year,2013
-Honduras,HND,Year,Indicator Code
-Honduras,HND,Year,Indicator Name
-High income: nonOECD,NOC,Vaue,SI.POV.GINI
-High income: nonOECD,NOC,Vaue,GINI index (World Bank estimate)
-High income: nonOECD,NOC,Year,Indicator Code
-High income: nonOECD,NOC,Year,Indicator Name
-High income: OECD,OEC,Vaue,SI.POV.GINI
-High income: OECD,OEC,Vaue,GINI index (World Bank estimate)
-High income: OECD,OEC,Year,Indicator Code
-High income: OECD,OEC,Year,Indicator Name
-High income,HIC,Vaue,SI.POV.GINI
-High income,HIC,Vaue,GINI index (World Bank estimate)
-High income,HIC,Year,Indicator Code
-High income,HIC,Year,Indicator Name
-Heavily indebted poor countries (HIPC),HPC,Vaue,SI.POV.GINI
-Heavily indebted poor countries (HIPC),HPC,Vaue,GINI index (World Bank estimate)
-Heavily indebted poor countries (HIPC),HPC,Year,Indicator Code
-Heavily indebted poor countries (HIPC),HPC,Year,Indicator Name
-Haiti,HTI,Vaue,"59,48"
-Haiti,HTI,Vaue,"60,79"
-Haiti,HTI,Vaue,SI.POV.GINI
-Haiti,HTI,Vaue,GINI index (World Bank estimate)
-Haiti,HTI,Year,2001
-Haiti,HTI,Year,2012
-Haiti,HTI,Year,Indicator Code
-Haiti,HTI,Year,Indicator Name
-Guyana,GUY,Vaue,"44,55"
-Guyana,GUY,Vaue,SI.POV.GINI
-Guyana,GUY,Vaue,GINI index (World Bank estimate)
-Guyana,GUY,Year,1998
-Guyana,GUY,Year,Indicator Code
-Guyana,GUY,Year,Indicator Name
-Guinea-Bissau,GNB,Vaue,"43,61"
-Guinea-Bissau,GNB,Vaue,"35,57"
-Guinea-Bissau,GNB,Vaue,"50,66"
-Guinea-Bissau,GNB,Vaue,SI.POV.GINI
-Guinea-Bissau,GNB,Vaue,GINI index (World Bank estimate)
-Guinea-Bissau,GNB,Year,1993
-Guinea-Bissau,GNB,Year,2002
-Guinea-Bissau,GNB,Year,2010
-Guinea-Bissau,GNB,Year,Indicator Code
-Guinea-Bissau,GNB,Year,Indicator Name
-Guinea,GIN,Vaue,"46,84"
-Guinea,GIN,Vaue,"46,08"
-Guinea,GIN,Vaue,43
-Guinea,GIN,Vaue,"39,36"
-Guinea,GIN,Vaue,"33,73"
-Guinea,GIN,Vaue,SI.POV.GINI
-Guinea,GIN,Vaue,GINI index (World Bank estimate)
-Guinea,GIN,Year,1991
-Guinea,GIN,Year,1994
-Guinea,GIN,Year,2002
-Guinea,GIN,Year,2007
-Guinea,GIN,Year,2012
-Guinea,GIN,Year,Indicator Code
-Guinea,GIN,Year,Indicator Name
-Guatemala,GTM,Vaue,"58,26"
-Guatemala,GTM,Vaue,"59,6"
-Guatemala,GTM,Vaue,"54,84"
-Guatemala,GTM,Vaue,"56,94"
-Guatemala,GTM,Vaue,"54,1"
-Guatemala,GTM,Vaue,"50,73"
-Guatemala,GTM,Vaue,"54,89"
-Guatemala,GTM,Vaue,"52,35"
-Guatemala,GTM,Vaue,SI.POV.GINI
-Guatemala,GTM,Vaue,GINI index (World Bank estimate)
-Guatemala,GTM,Year,1986
-Guatemala,GTM,Year,1989
-Guatemala,GTM,Year,2000
-Guatemala,GTM,Year,2002
-Guatemala,GTM,Year,2003
-Guatemala,GTM,Year,2004
-Guatemala,GTM,Year,2006
-Guatemala,GTM,Year,2011
-Guatemala,GTM,Year,Indicator Code
-Guatemala,GTM,Year,Indicator Name
-Guam,GUM,Vaue,SI.POV.GINI
-Guam,GUM,Vaue,GINI index (World Bank estimate)
-Guam,GUM,Year,Indicator Code
-Guam,GUM,Year,Indicator Name
-Grenada,GRD,Vaue,SI.POV.GINI
-Grenada,GRD,Vaue,GINI index (World Bank estimate)
-Grenada,GRD,Year,Indicator Code
-Grenada,GRD,Year,Indicator Name
-Greenland,GRL,Vaue,SI.POV.GINI
-Greenland,GRL,Vaue,GINI index (World Bank estimate)
-Greenland,GRL,Year,Indicator Code
-Greenland,GRL,Year,Indicator Name
-Greece,GRC,Vaue,"33,97"
-Greece,GRC,Vaue,"35,1"
-Greece,GRC,Vaue,"35,41"
-Greece,GRC,Vaue,"34,61"
-Greece,GRC,Vaue,"34,22"
-Greece,GRC,Vaue,"33,82"
-Greece,GRC,Vaue,"34,48"
-Greece,GRC,Vaue,"35,69"
-Greece,GRC,Vaue,"36,68"
-Greece,GRC,Vaue,SI.POV.GINI
-Greece,GRC,Vaue,GINI index (World Bank estimate)
-Greece,GRC,Year,2004
-Greece,GRC,Year,2005
-Greece,GRC,Year,2006
-Greece,GRC,Year,2007
-Greece,GRC,Year,2008
-Greece,GRC,Year,2009
-Greece,GRC,Year,2010
-Greece,GRC,Year,2011
-Greece,GRC,Year,2012
-Greece,GRC,Year,Indicator Code
-Greece,GRC,Year,Indicator Name
-Ghana,GHA,Vaue,"35,35"
-Ghana,GHA,Vaue,"35,99"
-Ghana,GHA,Vaue,"38,44"
-Ghana,GHA,Vaue,"40,07"
-Ghana,GHA,Vaue,"42,77"
-Ghana,GHA,Vaue,SI.POV.GINI
-Ghana,GHA,Vaue,GINI index (World Bank estimate)
-Ghana,GHA,Year,1987
-Ghana,GHA,Year,1988
-Ghana,GHA,Year,1991
-Ghana,GHA,Year,1998
-Ghana,GHA,Year,2005
-Ghana,GHA,Year,Indicator Code
-Ghana,GHA,Year,Indicator Name
-Germany,DEU,Vaue,"32,78"
-Germany,DEU,Vaue,"32,4"
-Germany,DEU,Vaue,"31,29"
-Germany,DEU,Vaue,"31,51"
-Germany,DEU,Vaue,"31,14"
-Germany,DEU,Vaue,"30,13"
-Germany,DEU,Vaue,SI.POV.GINI
-Germany,DEU,Vaue,GINI index (World Bank estimate)
-Germany,DEU,Year,2006
-Germany,DEU,Year,2007
-Germany,DEU,Year,2008
-Germany,DEU,Year,2009
-Germany,DEU,Year,2010
-Germany,DEU,Year,2011
-Germany,DEU,Year,Indicator Code
-Germany,DEU,Year,Indicator Name
-Georgia,GEO,Vaue,"37,13"
-Georgia,GEO,Vaue,"41,95"
-Georgia,GEO,Vaue,"41,25"
-Georgia,GEO,Vaue,"40,15"
-Georgia,GEO,Vaue,"40,48"
-Georgia,GEO,Vaue,"39,57"
-Georgia,GEO,Vaue,"39,63"
-Georgia,GEO,Vaue,"39,53"
-Georgia,GEO,Vaue,"39,78"
-Georgia,GEO,Vaue,"40,34"
-Georgia,GEO,Vaue,"40,09"
-Georgia,GEO,Vaue,"40,6"
-Georgia,GEO,Vaue,"40,57"
-Georgia,GEO,Vaue,"41,74"
-Georgia,GEO,Vaue,"42,13"
-Georgia,GEO,Vaue,"41,58"
-Georgia,GEO,Vaue,"41,35"
-Georgia,GEO,Vaue,"40,03"
-Georgia,GEO,Vaue,SI.POV.GINI
-Georgia,GEO,Vaue,GINI index (World Bank estimate)
-Georgia,GEO,Year,1996
-Georgia,GEO,Year,1997
-Georgia,GEO,Year,1998
-Georgia,GEO,Year,1999
-Georgia,GEO,Year,2000
-Georgia,GEO,Year,2001
-Georgia,GEO,Year,2002
-Georgia,GEO,Year,2003
-Georgia,GEO,Year,2004
-Georgia,GEO,Year,2005
-Georgia,GEO,Year,2006
-Georgia,GEO,Year,2007
-Georgia,GEO,Year,2008
-Georgia,GEO,Year,2009
-Georgia,GEO,Year,2010
-Georgia,GEO,Year,2011
-Georgia,GEO,Year,2012
-Georgia,GEO,Year,2013
-Georgia,GEO,Year,Indicator Code
-Georgia,GEO,Year,Indicator Name
-"Gambia, The",GMB,Vaue,"47,56"
-"Gambia, The",GMB,Vaue,"47,33"
-"Gambia, The",GMB,Vaue,SI.POV.GINI
-"Gambia, The",GMB,Vaue,GINI index (World Bank estimate)
-"Gambia, The",GMB,Year,1998
-"Gambia, The",GMB,Year,2003
-"Gambia, The",GMB,Year,Indicator Code
-"Gambia, The",GMB,Year,Indicator Name
-Gabon,GAB,Vaue,"42,18"
-Gabon,GAB,Vaue,SI.POV.GINI
-Gabon,GAB,Vaue,GINI index (World Bank estimate)
-Gabon,GAB,Year,2005
-Gabon,GAB,Year,Indicator Code
-Gabon,GAB,Year,Indicator Name
-French Polynesia,PYF,Vaue,SI.POV.GINI
-French Polynesia,PYF,Vaue,GINI index (World Bank estimate)
-French Polynesia,PYF,Year,Indicator Code
-French Polynesia,PYF,Year,Indicator Name
-France,FRA,Vaue,"30,8"
-France,FRA,Vaue,"29,93"
-France,FRA,Vaue,"29,92"
-France,FRA,Vaue,"32,63"
-France,FRA,Vaue,"33,08"
-France,FRA,Vaue,"33,78"
-France,FRA,Vaue,"33,35"
-France,FRA,Vaue,"33,1"
-France,FRA,Vaue,SI.POV.GINI
-France,FRA,Vaue,GINI index (World Bank estimate)
-France,FRA,Year,2004
-France,FRA,Year,2005
-France,FRA,Year,2006
-France,FRA,Year,2007
-France,FRA,Year,2008
-France,FRA,Year,2010
-France,FRA,Year,2011
-France,FRA,Year,2012
-France,FRA,Year,Indicator Code
-France,FRA,Year,Indicator Name
-Fragile and conflict affected situations,FCS,Vaue,SI.POV.GINI
-Fragile and conflict affected situations,FCS,Vaue,GINI index (World Bank estimate)
-Fragile and conflict affected situations,FCS,Year,Indicator Code
-Fragile and conflict affected situations,FCS,Year,Indicator Name
-Finland,FIN,Vaue,"27,92"
-Finland,FIN,Vaue,"27,64"
-Finland,FIN,Vaue,"28,02"
-Finland,FIN,Vaue,"28,29"
-Finland,FIN,Vaue,"27,85"
-Finland,FIN,Vaue,"27,47"
-Finland,FIN,Vaue,"27,74"
-Finland,FIN,Vaue,"27,66"
-Finland,FIN,Vaue,"27,12"
-Finland,FIN,Vaue,SI.POV.GINI
-Finland,FIN,Vaue,GINI index (World Bank estimate)
-Finland,FIN,Year,2004
-Finland,FIN,Year,2005
-Finland,FIN,Year,2006
-Finland,FIN,Year,2007
-Finland,FIN,Year,2008
-Finland,FIN,Year,2009
-Finland,FIN,Year,2010
-Finland,FIN,Year,2011
-Finland,FIN,Year,2012
-Finland,FIN,Year,Indicator Code
-Finland,FIN,Year,Indicator Name
-Fiji,FJI,Vaue,"39,62"
-Fiji,FJI,Vaue,"42,78"
-Fiji,FJI,Vaue,SI.POV.GINI
-Fiji,FJI,Vaue,GINI index (World Bank estimate)
-Fiji,FJI,Year,2002
-Fiji,FJI,Year,2008
-Fiji,FJI,Year,Indicator Code
-Fiji,FJI,Year,Indicator Name
-Faroe Islands,FRO,Vaue,SI.POV.GINI
-Faroe Islands,FRO,Vaue,GINI index (World Bank estimate)
-Faroe Islands,FRO,Year,Indicator Code
-Faroe Islands,FRO,Year,Indicator Name
-European Union,EUU,Vaue,SI.POV.GINI
-European Union,EUU,Vaue,GINI index (World Bank estimate)
-European Union,EUU,Year,Indicator Code
-European Union,EUU,Year,Indicator Name
-Europe & Central Asia (developing only),ECA,Vaue,SI.POV.GINI
-Europe & Central Asia (developing only),ECA,Vaue,GINI index (World Bank estimate)
-Europe & Central Asia (developing only),ECA,Year,Indicator Code
-Europe & Central Asia (developing only),ECA,Year,Indicator Name
-Europe & Central Asia (all income levels),ECS,Vaue,SI.POV.GINI
-Europe & Central Asia (all income levels),ECS,Vaue,GINI index (World Bank estimate)
-Europe & Central Asia (all income levels),ECS,Year,Indicator Code
-Europe & Central Asia (all income levels),ECS,Year,Indicator Name
-Euro area,EMU,Vaue,SI.POV.GINI
-Euro area,EMU,Vaue,GINI index (World Bank estimate)
-Euro area,EMU,Year,Indicator Code
-Euro area,EMU,Year,Indicator Name
-Ethiopia,ETH,Vaue,"32,42"
-Ethiopia,ETH,Vaue,"44,56"
-Ethiopia,ETH,Vaue,"29,98"
-Ethiopia,ETH,Vaue,"29,81"
-Ethiopia,ETH,Vaue,"33,17"
-Ethiopia,ETH,Vaue,SI.POV.GINI
-Ethiopia,ETH,Vaue,GINI index (World Bank estimate)
-Ethiopia,ETH,Year,1981
-Ethiopia,ETH,Year,1995
-Ethiopia,ETH,Year,1999
-Ethiopia,ETH,Year,2004
-Ethiopia,ETH,Year,2010
-Ethiopia,ETH,Year,Indicator Code
-Ethiopia,ETH,Year,Indicator Name
-Estonia,EST,Vaue,"22,97"
-Estonia,EST,Vaue,"39,5"
-Estonia,EST,Vaue,"30,06"
-Estonia,EST,Vaue,"37,64"
-Estonia,EST,Vaue,"35,78"
-Estonia,EST,Vaue,"36,01"
-Estonia,EST,Vaue,"35,79"
-Estonia,EST,Vaue,"34,91"
-Estonia,EST,Vaue,"35,38"
-Estonia,EST,Vaue,"33,63"
-Estonia,EST,Vaue,"33,75"
-Estonia,EST,Vaue,"31,25"
-Estonia,EST,Vaue,32
-Estonia,EST,Vaue,"31,59"
-Estonia,EST,Vaue,"32,16"
-Estonia,EST,Vaue,"32,69"
-Estonia,EST,Vaue,"33,15"
-Estonia,EST,Vaue,SI.POV.GINI
-Estonia,EST,Vaue,GINI index (World Bank estimate)
-Estonia,EST,Year,1988
-Estonia,EST,Year,1993
-Estonia,EST,Year,1995
-Estonia,EST,Year,1998
-Estonia,EST,Year,2000
-Estonia,EST,Year,2001
-Estonia,EST,Year,2002
-Estonia,EST,Year,2003
-Estonia,EST,Year,2004
-Estonia,EST,Year,2005
-Estonia,EST,Year,2006
-Estonia,EST,Year,2007
-Estonia,EST,Year,2008
-Estonia,EST,Year,2009
-Estonia,EST,Year,2010
-Estonia,EST,Year,2011
-Estonia,EST,Year,2012
-Estonia,EST,Year,Indicator Code
-Estonia,EST,Year,Indicator Name
-Eritrea,ERI,Vaue,SI.POV.GINI
-Eritrea,ERI,Vaue,GINI index (World Bank estimate)
-Eritrea,ERI,Year,Indicator Code
-Eritrea,ERI,Year,Indicator Name
-Equatorial Guinea,GNQ,Vaue,SI.POV.GINI
-Equatorial Guinea,GNQ,Vaue,GINI index (World Bank estimate)
-Equatorial Guinea,GNQ,Year,Indicator Code
-Equatorial Guinea,GNQ,Year,Indicator Name
-El Salvador,SLV,Vaue,"53,95"
-El Salvador,SLV,Vaue,"49,88"
-El Salvador,SLV,Vaue,"51,39"
-El Salvador,SLV,Vaue,"54,52"
-El Salvador,SLV,Vaue,"52,2"
-El Salvador,SLV,Vaue,"51,31"
-El Salvador,SLV,Vaue,"51,14"
-El Salvador,SLV,Vaue,"51,54"
-El Salvador,SLV,Vaue,"50,72"
-El Salvador,SLV,Vaue,"47,38"
-El Salvador,SLV,Vaue,"47,88"
-El Salvador,SLV,Vaue,"45,44"
-El Salvador,SLV,Vaue,"45,24"
-El Salvador,SLV,Vaue,"46,65"
-El Salvador,SLV,Vaue,"45,93"
-El Salvador,SLV,Vaue,"44,53"
-El Salvador,SLV,Vaue,"42,43"
-El Salvador,SLV,Vaue,"41,8"
-El Salvador,SLV,Vaue,"43,51"
-El Salvador,SLV,Vaue,SI.POV.GINI
-El Salvador,SLV,Vaue,GINI index (World Bank estimate)
-El Salvador,SLV,Year,1991
-El Salvador,SLV,Year,1995
-El Salvador,SLV,Year,1996
-El Salvador,SLV,Year,1998
-El Salvador,SLV,Year,1999
-El Salvador,SLV,Year,2000
-El Salvador,SLV,Year,2001
-El Salvador,SLV,Year,2002
-El Salvador,SLV,Year,2003
-El Salvador,SLV,Year,2004
-El Salvador,SLV,Year,2005
-El Salvador,SLV,Year,2006
-El Salvador,SLV,Year,2007
-El Salvador,SLV,Year,2008
-El Salvador,SLV,Year,2009
-El Salvador,SLV,Year,2010
-El Salvador,SLV,Year,2011
-El Salvador,SLV,Year,2012
-El Salvador,SLV,Year,2013
-El Salvador,SLV,Year,Indicator Code
-El Salvador,SLV,Year,Indicator Name
-"Egypt, Arab Rep.",EGY,Vaue,"30,75"
-"Egypt, Arab Rep.",EGY,Vaue,SI.POV.GINI
-"Egypt, Arab Rep.",EGY,Vaue,GINI index (World Bank estimate)
-"Egypt, Arab Rep.",EGY,Year,2008
-"Egypt, Arab Rep.",EGY,Year,Indicator Code
-"Egypt, Arab Rep.",EGY,Year,Indicator Name
-Ecuador,ECU,Vaue,"50,49"
-Ecuador,ECU,Vaue,"53,37"
-Ecuador,ECU,Vaue,"50,97"
-Ecuador,ECU,Vaue,"49,66"
-Ecuador,ECU,Vaue,"58,6"
-Ecuador,ECU,Vaue,"56,38"
-Ecuador,ECU,Vaue,"54,99"
-Ecuador,ECU,Vaue,"54,12"
-Ecuador,ECU,Vaue,"54,12"
-Ecuador,ECU,Vaue,"53,2"
-Ecuador,ECU,Vaue,"54,33"
-Ecuador,ECU,Vaue,"50,61"
-Ecuador,ECU,Vaue,"49,28"
-Ecuador,ECU,Vaue,"49,25"
-Ecuador,ECU,Vaue,"46,21"
-Ecuador,ECU,Vaue,"46,57"
-Ecuador,ECU,Vaue,"47,29"
-Ecuador,ECU,Vaue,SI.POV.GINI
-Ecuador,ECU,Vaue,GINI index (World Bank estimate)
-Ecuador,ECU,Year,1987
-Ecuador,ECU,Year,1994
-Ecuador,ECU,Year,1995
-Ecuador,ECU,Year,1998
-Ecuador,ECU,Year,1999
-Ecuador,ECU,Year,2000
-Ecuador,ECU,Year,2003
-Ecuador,ECU,Year,2004
-Ecuador,ECU,Year,2005
-Ecuador,ECU,Year,2006
-Ecuador,ECU,Year,2007
-Ecuador,ECU,Year,2008
-Ecuador,ECU,Year,2009
-Ecuador,ECU,Year,2010
-Ecuador,ECU,Year,2011
-Ecuador,ECU,Year,2012
-Ecuador,ECU,Year,2013
-Ecuador,ECU,Year,Indicator Code
-Ecuador,ECU,Year,Indicator Name
-East Asia & Pacific (developing only),EAP,Vaue,SI.POV.GINI
-East Asia & Pacific (developing only),EAP,Vaue,GINI index (World Bank estimate)
-East Asia & Pacific (developing only),EAP,Year,Indicator Code
-East Asia & Pacific (developing only),EAP,Year,Indicator Name
-East Asia & Pacific (all income levels),EAS,Vaue,SI.POV.GINI
-East Asia & Pacific (all income levels),EAS,Vaue,GINI index (World Bank estimate)
-East Asia & Pacific (all income levels),EAS,Year,Indicator Code
-East Asia & Pacific (all income levels),EAS,Year,Indicator Name
-Dominican Republic,DOM,Vaue,"47,78"
-Dominican Republic,DOM,Vaue,"50,46"
-Dominican Republic,DOM,Vaue,"51,36"
-Dominican Republic,DOM,Vaue,"47,43"
-Dominican Republic,DOM,Vaue,"48,92"
-Dominican Republic,DOM,Vaue,"52,01"
-Dominican Republic,DOM,Vaue,"50,43"
-Dominican Republic,DOM,Vaue,"50,12"
-Dominican Republic,DOM,Vaue,"52,09"
-Dominican Republic,DOM,Vaue,"51,95"
-Dominican Republic,DOM,Vaue,"49,96"
-Dominican Republic,DOM,Vaue,"51,9"
-Dominican Republic,DOM,Vaue,"48,69"
-Dominican Republic,DOM,Vaue,49
-Dominican Republic,DOM,Vaue,"48,86"
-Dominican Republic,DOM,Vaue,"47,2"
-Dominican Republic,DOM,Vaue,"47,4"
-Dominican Republic,DOM,Vaue,"45,68"
-Dominican Republic,DOM,Vaue,"47,07"
-Dominican Republic,DOM,Vaue,SI.POV.GINI
-Dominican Republic,DOM,Vaue,GINI index (World Bank estimate)
-Dominican Republic,DOM,Year,1986
-Dominican Republic,DOM,Year,1989
-Dominican Republic,DOM,Year,1992
-Dominican Republic,DOM,Year,1996
-Dominican Republic,DOM,Year,1997
-Dominican Republic,DOM,Year,2000
-Dominican Republic,DOM,Year,2001
-Dominican Republic,DOM,Year,2002
-Dominican Republic,DOM,Year,2003
-Dominican Republic,DOM,Year,2004
-Dominican Republic,DOM,Year,2005
-Dominican Republic,DOM,Year,2006
-Dominican Republic,DOM,Year,2007
-Dominican Republic,DOM,Year,2008
-Dominican Republic,DOM,Year,2009
-Dominican Republic,DOM,Year,2010
-Dominican Republic,DOM,Year,2011
-Dominican Republic,DOM,Year,2012
-Dominican Republic,DOM,Year,2013
-Dominican Republic,DOM,Year,Indicator Code
-Dominican Republic,DOM,Year,Indicator Name
-Dominica,DMA,Vaue,SI.POV.GINI
-Dominica,DMA,Vaue,GINI index (World Bank estimate)
-Dominica,DMA,Year,Indicator Code
-Dominica,DMA,Year,Indicator Name
-Djibouti,DJI,Vaue,40
-Djibouti,DJI,Vaue,"45,13"
-Djibouti,DJI,Vaue,SI.POV.GINI
-Djibouti,DJI,Vaue,GINI index (World Bank estimate)
-Djibouti,DJI,Year,2002
-Djibouti,DJI,Year,2012
-Djibouti,DJI,Year,Indicator Code
-Djibouti,DJI,Year,Indicator Name
-Denmark,DNK,Vaue,"25,89"
-Denmark,DNK,Vaue,"25,94"
-Denmark,DNK,Vaue,"27,08"
-Denmark,DNK,Vaue,"26,85"
-Denmark,DNK,Vaue,"28,89"
-Denmark,DNK,Vaue,"28,84"
-Denmark,DNK,Vaue,"29,02"
-Denmark,DNK,Vaue,"29,54"
-Denmark,DNK,Vaue,"29,08"
-Denmark,DNK,Vaue,SI.POV.GINI
-Denmark,DNK,Vaue,GINI index (World Bank estimate)
-Denmark,DNK,Year,2004
-Denmark,DNK,Year,2005
-Denmark,DNK,Year,2006
-Denmark,DNK,Year,2007
-Denmark,DNK,Year,2008
-Denmark,DNK,Year,2009
-Denmark,DNK,Year,2010
-Denmark,DNK,Year,2011
-Denmark,DNK,Year,2012
-Denmark,DNK,Year,Indicator Code
-Denmark,DNK,Year,Indicator Name
-Czech Republic,CZE,Vaue,"19,4"
-Czech Republic,CZE,Vaue,"26,6"
-Czech Republic,CZE,Vaue,"25,82"
-Czech Republic,CZE,Vaue,"27,53"
-Czech Republic,CZE,Vaue,"26,95"
-Czech Republic,CZE,Vaue,"26,74"
-Czech Republic,CZE,Vaue,26
-Czech Republic,CZE,Vaue,"26,29"
-Czech Republic,CZE,Vaue,"26,18"
-Czech Republic,CZE,Vaue,"26,63"
-Czech Republic,CZE,Vaue,"26,39"
-Czech Republic,CZE,Vaue,"26,13"
-Czech Republic,CZE,Vaue,SI.POV.GINI
-Czech Republic,CZE,Vaue,GINI index (World Bank estimate)
-Czech Republic,CZE,Year,1988
-Czech Republic,CZE,Year,1993
-Czech Republic,CZE,Year,1996
-Czech Republic,CZE,Year,2004
-Czech Republic,CZE,Year,2005
-Czech Republic,CZE,Year,2006
-Czech Republic,CZE,Year,2007
-Czech Republic,CZE,Year,2008
-Czech Republic,CZE,Year,2009
-Czech Republic,CZE,Year,2010
-Czech Republic,CZE,Year,2011
-Czech Republic,CZE,Year,2012
-Czech Republic,CZE,Year,Indicator Code
-Czech Republic,CZE,Year,Indicator Name
-Cyprus,CYP,Vaue,"30,09"
-Cyprus,CYP,Vaue,"30,26"
-Cyprus,CYP,Vaue,"31,13"
-Cyprus,CYP,Vaue,"31,11"
-Cyprus,CYP,Vaue,"31,71"
-Cyprus,CYP,Vaue,"32,11"
-Cyprus,CYP,Vaue,"31,46"
-Cyprus,CYP,Vaue,"32,63"
-Cyprus,CYP,Vaue,"34,31"
-Cyprus,CYP,Vaue,SI.POV.GINI
-Cyprus,CYP,Vaue,GINI index (World Bank estimate)
-Cyprus,CYP,Year,2004
-Cyprus,CYP,Year,2005
-Cyprus,CYP,Year,2006
-Cyprus,CYP,Year,2007
-Cyprus,CYP,Year,2008
-Cyprus,CYP,Year,2009
-Cyprus,CYP,Year,2010
-Cyprus,CYP,Year,2011
-Cyprus,CYP,Year,2012
-Cyprus,CYP,Year,Indicator Code
-Cyprus,CYP,Year,Indicator Name
-Curacao,CUW,Vaue,SI.POV.GINI
-Curacao,CUW,Vaue,GINI index (World Bank estimate)
-Curacao,CUW,Year,Indicator Code
-Curacao,CUW,Year,Indicator Name
-Cuba,CUB,Vaue,SI.POV.GINI
-Cuba,CUB,Vaue,GINI index (World Bank estimate)
-Cuba,CUB,Year,Indicator Code
-Cuba,CUB,Year,Indicator Name
-Croatia,HRV,Vaue,"22,78"
-Croatia,HRV,Vaue,"28,75"
-Croatia,HRV,Vaue,"27,71"
-Croatia,HRV,Vaue,"31,33"
-Croatia,HRV,Vaue,"31,1"
-Croatia,HRV,Vaue,"29,68"
-Croatia,HRV,Vaue,"33,71"
-Croatia,HRV,Vaue,"33,18"
-Croatia,HRV,Vaue,"27,35"
-Croatia,HRV,Vaue,"31,98"
-Croatia,HRV,Vaue,SI.POV.GINI
-Croatia,HRV,Vaue,GINI index (World Bank estimate)
-Croatia,HRV,Year,1988
-Croatia,HRV,Year,1998
-Croatia,HRV,Year,1999
-Croatia,HRV,Year,2000
-Croatia,HRV,Year,2001
-Croatia,HRV,Year,2004
-Croatia,HRV,Year,2008
-Croatia,HRV,Year,2009
-Croatia,HRV,Year,2010
-Croatia,HRV,Year,2011
-Croatia,HRV,Year,Indicator Code
-Croatia,HRV,Year,Indicator Name
-Cote d'Ivoire,CIV,Vaue,"45,53"
-Cote d'Ivoire,CIV,Vaue,"37,97"
-Cote d'Ivoire,CIV,Vaue,"40,51"
-Cote d'Ivoire,CIV,Vaue,"36,89"
-Cote d'Ivoire,CIV,Vaue,"39,39"
-Cote d'Ivoire,CIV,Vaue,"39,35"
-Cote d'Ivoire,CIV,Vaue,"40,56"
-Cote d'Ivoire,CIV,Vaue,"38,96"
-Cote d'Ivoire,CIV,Vaue,"41,34"
-Cote d'Ivoire,CIV,Vaue,"43,18"
-Cote d'Ivoire,CIV,Vaue,SI.POV.GINI
-Cote d'Ivoire,CIV,Vaue,GINI index (World Bank estimate)
-Cote d'Ivoire,CIV,Year,1985
-Cote d'Ivoire,CIV,Year,1986
-Cote d'Ivoire,CIV,Year,1987
-Cote d'Ivoire,CIV,Year,1988
-Cote d'Ivoire,CIV,Year,1992
-Cote d'Ivoire,CIV,Year,1993
-Cote d'Ivoire,CIV,Year,1995
-Cote d'Ivoire,CIV,Year,1998
-Cote d'Ivoire,CIV,Year,2002
-Cote d'Ivoire,CIV,Year,2008
-Cote d'Ivoire,CIV,Year,Indicator Code
-Cote d'Ivoire,CIV,Year,Indicator Name
-Costa Rica,CRI,Vaue,"47,49"
-Costa Rica,CRI,Vaue,"34,42"
-Costa Rica,CRI,Vaue,"46,69"
-Costa Rica,CRI,Vaue,"45,3"
-Costa Rica,CRI,Vaue,"46,65"
-Costa Rica,CRI,Vaue,"45,71"
-Costa Rica,CRI,Vaue,46
-Costa Rica,CRI,Vaue,"46,75"
-Costa Rica,CRI,Vaue,"45,71"
-Costa Rica,CRI,Vaue,"46,54"
-Costa Rica,CRI,Vaue,"45,62"
-Costa Rica,CRI,Vaue,"45,67"
-Costa Rica,CRI,Vaue,"47,67"
-Costa Rica,CRI,Vaue,"47,44"
-Costa Rica,CRI,Vaue,"51,1"
-Costa Rica,CRI,Vaue,"50,89"
-Costa Rica,CRI,Vaue,"49,93"
-Costa Rica,CRI,Vaue,"48,92"
-Costa Rica,CRI,Vaue,"47,77"
-Costa Rica,CRI,Vaue,"49,31"
-Costa Rica,CRI,Vaue,"49,49"
-Costa Rica,CRI,Vaue,"49,14"
-Costa Rica,CRI,Vaue,"50,97"
-Costa Rica,CRI,Vaue,"48,1"
-Costa Rica,CRI,Vaue,"48,6"
-Costa Rica,CRI,Vaue,"48,61"
-Costa Rica,CRI,Vaue,"49,18"
-Costa Rica,CRI,Vaue,SI.POV.GINI
-Costa Rica,CRI,Vaue,GINI index (World Bank estimate)
-Costa Rica,CRI,Year,1981
-Costa Rica,CRI,Year,1986
-Costa Rica,CRI,Year,1989
-Costa Rica,CRI,Year,1990
-Costa Rica,CRI,Year,1991
-Costa Rica,CRI,Year,1992
-Costa Rica,CRI,Year,1993
-Costa Rica,CRI,Year,1994
-Costa Rica,CRI,Year,1995
-Costa Rica,CRI,Year,1996
-Costa Rica,CRI,Year,1997
-Costa Rica,CRI,Year,1998
-Costa Rica,CRI,Year,1999
-Costa Rica,CRI,Year,2000
-Costa Rica,CRI,Year,2001
-Costa Rica,CRI,Year,2002
-Costa Rica,CRI,Year,2003
-Costa Rica,CRI,Year,2004
-Costa Rica,CRI,Year,2005
-Costa Rica,CRI,Year,2006
-Costa Rica,CRI,Year,2007
-Costa Rica,CRI,Year,2008
-Costa Rica,CRI,Year,2009
-Costa Rica,CRI,Year,2010
-Costa Rica,CRI,Year,2011
-Costa Rica,CRI,Year,2012
-Costa Rica,CRI,Year,2013
-Costa Rica,CRI,Year,Indicator Code
-Costa Rica,CRI,Year,Indicator Name
-"Congo, Rep.",COG,Vaue,"47,33"
-"Congo, Rep.",COG,Vaue,"40,16"
-"Congo, Rep.",COG,Vaue,SI.POV.GINI
-"Congo, Rep.",COG,Vaue,GINI index (World Bank estimate)
-"Congo, Rep.",COG,Year,2005
-"Congo, Rep.",COG,Year,2011
-"Congo, Rep.",COG,Year,Indicator Code
-"Congo, Rep.",COG,Year,Indicator Name
-"Congo, Dem. Rep.",COD,Vaue,"44,21"
-"Congo, Dem. Rep.",COD,Vaue,"42,1"
-"Congo, Dem. Rep.",COD,Vaue,SI.POV.GINI
-"Congo, Dem. Rep.",COD,Vaue,GINI index (World Bank estimate)
-"Congo, Dem. Rep.",COD,Year,2004
-"Congo, Dem. Rep.",COD,Year,2012
-"Congo, Dem. Rep.",COD,Year,Indicator Code
-"Congo, Dem. Rep.",COD,Year,Indicator Name
-Comoros,COM,Vaue,"55,93"
-Comoros,COM,Vaue,SI.POV.GINI
-Comoros,COM,Vaue,GINI index (World Bank estimate)
-Comoros,COM,Year,2004
-Comoros,COM,Year,Indicator Code
-Comoros,COM,Year,Indicator Name
-Colombia,COL,Vaue,"53,11"
-Colombia,COL,Vaue,"53,59"
-Colombia,COL,Vaue,"51,32"
-Colombia,COL,Vaue,"51,45"
-Colombia,COL,Vaue,"56,93"
-Colombia,COL,Vaue,"58,74"
-Colombia,COL,Vaue,"58,68"
-Colombia,COL,Vaue,"57,76"
-Colombia,COL,Vaue,"58,26"
-Colombia,COL,Vaue,"54,41"
-Colombia,COL,Vaue,"56,11"
-Colombia,COL,Vaue,"55,04"
-Colombia,COL,Vaue,"60,08"
-Colombia,COL,Vaue,"59,37"
-Colombia,COL,Vaue,"56,04"
-Colombia,COL,Vaue,"55,92"
-Colombia,COL,Vaue,"55,5"
-Colombia,COL,Vaue,"54,18"
-Colombia,COL,Vaue,"53,54"
-Colombia,COL,Vaue,"53,49"
-Colombia,COL,Vaue,SI.POV.GINI
-Colombia,COL,Vaue,GINI index (World Bank estimate)
-Colombia,COL,Year,1988
-Colombia,COL,Year,1989
-Colombia,COL,Year,1991
-Colombia,COL,Year,1992
-Colombia,COL,Year,1996
-Colombia,COL,Year,1999
-Colombia,COL,Year,2000
-Colombia,COL,Year,2001
-Colombia,COL,Year,2002
-Colombia,COL,Year,2003
-Colombia,COL,Year,2004
-Colombia,COL,Year,2005
-Colombia,COL,Year,2006
-Colombia,COL,Year,2007
-Colombia,COL,Year,2008
-Colombia,COL,Year,2009
-Colombia,COL,Year,2010
-Colombia,COL,Year,2011
-Colombia,COL,Year,2012
-Colombia,COL,Year,2013
-Colombia,COL,Year,Indicator Code
-Colombia,COL,Year,Indicator Name
-China,CHN,Vaue,"29,11"
-China,CHN,Vaue,"27,69"
-China,CHN,Vaue,"29,85"
-China,CHN,Vaue,"32,43"
-China,CHN,Vaue,"35,5"
-China,CHN,Vaue,"35,7"
-China,CHN,Vaue,"39,23"
-China,CHN,Vaue,"42,59"
-China,CHN,Vaue,"42,48"
-China,CHN,Vaue,"42,63"
-China,CHN,Vaue,"42,06"
-China,CHN,Vaue,SI.POV.GINI
-China,CHN,Vaue,GINI index (World Bank estimate)
-China,CHN,Year,1981
-China,CHN,Year,1984
-China,CHN,Year,1987
-China,CHN,Year,1990
-China,CHN,Year,1993
-China,CHN,Year,1996
-China,CHN,Year,1999
-China,CHN,Year,2002
-China,CHN,Year,2005
-China,CHN,Year,2008
-China,CHN,Year,2010
-China,CHN,Year,Indicator Code
-China,CHN,Year,Indicator Name
-Chile,CHL,Vaue,"56,21"
-Chile,CHL,Vaue,"57,25"
-Chile,CHL,Vaue,"54,81"
-Chile,CHL,Vaue,"56,43"
-Chile,CHL,Vaue,"54,87"
-Chile,CHL,Vaue,"55,52"
-Chile,CHL,Vaue,"55,25"
-Chile,CHL,Vaue,"54,74"
-Chile,CHL,Vaue,"51,79"
-Chile,CHL,Vaue,52
-Chile,CHL,Vaue,"50,84"
-Chile,CHL,Vaue,"50,45"
-Chile,CHL,Vaue,SI.POV.GINI
-Chile,CHL,Vaue,GINI index (World Bank estimate)
-Chile,CHL,Year,1987
-Chile,CHL,Year,1990
-Chile,CHL,Year,1992
-Chile,CHL,Year,1994
-Chile,CHL,Year,1996
-Chile,CHL,Year,1998
-Chile,CHL,Year,2000
-Chile,CHL,Year,2003
-Chile,CHL,Year,2006
-Chile,CHL,Year,2009
-Chile,CHL,Year,2011
-Chile,CHL,Year,2013
-Chile,CHL,Year,Indicator Code
-Chile,CHL,Year,Indicator Name
-Channel Islands,CHI,Vaue,SI.POV.GINI
-Channel Islands,CHI,Vaue,GINI index (World Bank estimate)
-Channel Islands,CHI,Year,Indicator Code
-Channel Islands,CHI,Year,Indicator Name
-Chad,TCD,Vaue,"39,82"
-Chad,TCD,Vaue,"43,32"
-Chad,TCD,Vaue,SI.POV.GINI
-Chad,TCD,Vaue,GINI index (World Bank estimate)
-Chad,TCD,Year,2003
-Chad,TCD,Year,2011
-Chad,TCD,Year,Indicator Code
-Chad,TCD,Year,Indicator Name
-Central Europe and the Baltics,CEB,Vaue,SI.POV.GINI
-Central Europe and the Baltics,CEB,Vaue,GINI index (World Bank estimate)
-Central Europe and the Baltics,CEB,Year,Indicator Code
-Central Europe and the Baltics,CEB,Year,Indicator Name
-Central African Republic,CAF,Vaue,"61,33"
-Central African Republic,CAF,Vaue,"43,61"
-Central African Republic,CAF,Vaue,"56,24"
-Central African Republic,CAF,Vaue,SI.POV.GINI
-Central African Republic,CAF,Vaue,GINI index (World Bank estimate)
-Central African Republic,CAF,Year,1992
-Central African Republic,CAF,Year,2003
-Central African Republic,CAF,Year,2008
-Central African Republic,CAF,Year,Indicator Code
-Central African Republic,CAF,Year,Indicator Name
-Cayman Islands,CYM,Vaue,SI.POV.GINI
-Cayman Islands,CYM,Vaue,GINI index (World Bank estimate)
-Cayman Islands,CYM,Year,Indicator Code
-Cayman Islands,CYM,Year,Indicator Name
-Caribbean small states,CSS,Vaue,SI.POV.GINI
-Caribbean small states,CSS,Vaue,GINI index (World Bank estimate)
-Caribbean small states,CSS,Year,Indicator Code
-Caribbean small states,CSS,Year,Indicator Name
-Canada,CAN,Vaue,"32,6"
-Canada,CAN,Vaue,"31,6"
-Canada,CAN,Vaue,"31,15"
-Canada,CAN,Vaue,"31,39"
-Canada,CAN,Vaue,"31,77"
-Canada,CAN,Vaue,"33,59"
-Canada,CAN,Vaue,"33,65"
-Canada,CAN,Vaue,"33,88"
-Canada,CAN,Vaue,"33,9"
-Canada,CAN,Vaue,"33,68"
-Canada,CAN,Vaue,SI.POV.GINI
-Canada,CAN,Vaue,GINI index (World Bank estimate)
-Canada,CAN,Year,1981
-Canada,CAN,Year,1987
-Canada,CAN,Year,1991
-Canada,CAN,Year,1994
-Canada,CAN,Year,1997
-Canada,CAN,Year,1998
-Canada,CAN,Year,2000
-Canada,CAN,Year,2004
-Canada,CAN,Year,2007
-Canada,CAN,Year,2010
-Canada,CAN,Year,Indicator Code
-Canada,CAN,Year,Indicator Name
-Cameroon,CMR,Vaue,"44,45"
-Cameroon,CMR,Vaue,"42,14"
-Cameroon,CMR,Vaue,"42,82"
-Cameroon,CMR,Vaue,SI.POV.GINI
-Cameroon,CMR,Vaue,GINI index (World Bank estimate)
-Cameroon,CMR,Year,1996
-Cameroon,CMR,Year,2001
-Cameroon,CMR,Year,2007
-Cameroon,CMR,Year,Indicator Code
-Cameroon,CMR,Year,Indicator Name
-Cambodia,KHM,Vaue,"38,15"
-Cambodia,KHM,Vaue,"35,46"
-Cambodia,KHM,Vaue,"41,14"
-Cambodia,KHM,Vaue,"35,1"
-Cambodia,KHM,Vaue,"34,65"
-Cambodia,KHM,Vaue,"33,44"
-Cambodia,KHM,Vaue,"31,7"
-Cambodia,KHM,Vaue,"30,76"
-Cambodia,KHM,Vaue,SI.POV.GINI
-Cambodia,KHM,Vaue,GINI index (World Bank estimate)
-Cambodia,KHM,Year,1994
-Cambodia,KHM,Year,2004
-Cambodia,KHM,Year,2007
-Cambodia,KHM,Year,2008
-Cambodia,KHM,Year,2009
-Cambodia,KHM,Year,2010
-Cambodia,KHM,Year,2011
-Cambodia,KHM,Year,2012
-Cambodia,KHM,Year,Indicator Code
-Cambodia,KHM,Year,Indicator Name
-Cabo Verde,CPV,Vaue,"52,5"
-Cabo Verde,CPV,Vaue,"47,19"
-Cabo Verde,CPV,Vaue,SI.POV.GINI
-Cabo Verde,CPV,Vaue,GINI index (World Bank estimate)
-Cabo Verde,CPV,Year,2001
-Cabo Verde,CPV,Year,2007
-Cabo Verde,CPV,Year,Indicator Code
-Cabo Verde,CPV,Year,Indicator Name
-Burundi,BDI,Vaue,"33,33"
-Burundi,BDI,Vaue,"42,35"
-Burundi,BDI,Vaue,"33,36"
-Burundi,BDI,Vaue,SI.POV.GINI
-Burundi,BDI,Vaue,GINI index (World Bank estimate)
-Burundi,BDI,Year,1992
-Burundi,BDI,Year,1998
-Burundi,BDI,Year,2006
-Burundi,BDI,Year,Indicator Code
-Burundi,BDI,Year,Indicator Name
-Burkina Faso,BFA,Vaue,"48,07"
-Burkina Faso,BFA,Vaue,"49,94"
-Burkina Faso,BFA,Vaue,"43,25"
-Burkina Faso,BFA,Vaue,"39,76"
-Burkina Faso,BFA,Vaue,SI.POV.GINI
-Burkina Faso,BFA,Vaue,GINI index (World Bank estimate)
-Burkina Faso,BFA,Year,1994
-Burkina Faso,BFA,Year,1998
-Burkina Faso,BFA,Year,2003
-Burkina Faso,BFA,Year,2009
-Burkina Faso,BFA,Year,Indicator Code
-Burkina Faso,BFA,Year,Indicator Name
-Bulgaria,BGR,Vaue,"23,43"
-Bulgaria,BGR,Vaue,"30,71"
-Bulgaria,BGR,Vaue,"24,32"
-Bulgaria,BGR,Vaue,"35,4"
-Bulgaria,BGR,Vaue,"26,38"
-Bulgaria,BGR,Vaue,"32,68"
-Bulgaria,BGR,Vaue,"28,92"
-Bulgaria,BGR,Vaue,"35,73"
-Bulgaria,BGR,Vaue,"28,14"
-Bulgaria,BGR,Vaue,"33,57"
-Bulgaria,BGR,Vaue,"33,82"
-Bulgaria,BGR,Vaue,"35,65"
-Bulgaria,BGR,Vaue,"34,28"
-Bulgaria,BGR,Vaue,"36,01"
-Bulgaria,BGR,Vaue,SI.POV.GINI
-Bulgaria,BGR,Vaue,GINI index (World Bank estimate)
-Bulgaria,BGR,Year,1989
-Bulgaria,BGR,Year,1992
-Bulgaria,BGR,Year,1994
-Bulgaria,BGR,Year,1995
-Bulgaria,BGR,Year,1997
-Bulgaria,BGR,Year,2001
-Bulgaria,BGR,Year,2003
-Bulgaria,BGR,Year,2006
-Bulgaria,BGR,Year,2007
-Bulgaria,BGR,Year,2008
-Bulgaria,BGR,Year,2009
-Bulgaria,BGR,Year,2010
-Bulgaria,BGR,Year,2011
-Bulgaria,BGR,Year,2012
-Bulgaria,BGR,Year,Indicator Code
-Bulgaria,BGR,Year,Indicator Name
-Brunei Darussalam,BRN,Vaue,SI.POV.GINI
-Brunei Darussalam,BRN,Vaue,GINI index (World Bank estimate)
-Brunei Darussalam,BRN,Year,Indicator Code
-Brunei Darussalam,BRN,Year,Indicator Name
-Brazil,BRA,Vaue,"57,93"
-Brazil,BRA,Vaue,"58,42"
-Brazil,BRA,Vaue,"58,99"
-Brazil,BRA,Vaue,"58,38"
-Brazil,BRA,Vaue,"55,59"
-Brazil,BRA,Vaue,"58,46"
-Brazil,BRA,Vaue,"59,69"
-Brazil,BRA,Vaue,"61,43"
-Brazil,BRA,Vaue,"63,3"
-Brazil,BRA,Vaue,"60,49"
-Brazil,BRA,Vaue,"53,17"
-Brazil,BRA,Vaue,"60,12"
-Brazil,BRA,Vaue,"59,57"
-Brazil,BRA,Vaue,"59,89"
-Brazil,BRA,Vaue,"59,8"
-Brazil,BRA,Vaue,"59,61"
-Brazil,BRA,Vaue,"58,99"
-Brazil,BRA,Vaue,"59,33"
-Brazil,BRA,Vaue,"58,62"
-Brazil,BRA,Vaue,"58,01"
-Brazil,BRA,Vaue,"56,88"
-Brazil,BRA,Vaue,"56,64"
-Brazil,BRA,Vaue,"55,93"
-Brazil,BRA,Vaue,"55,23"
-Brazil,BRA,Vaue,"54,37"
-Brazil,BRA,Vaue,"53,87"
-Brazil,BRA,Vaue,"53,1"
-Brazil,BRA,Vaue,"52,67"
-Brazil,BRA,Vaue,"52,87"
-Brazil,BRA,Vaue,SI.POV.GINI
-Brazil,BRA,Vaue,GINI index (World Bank estimate)
-Brazil,BRA,Year,1981
-Brazil,BRA,Year,1982
-Brazil,BRA,Year,1983
-Brazil,BRA,Year,1984
-Brazil,BRA,Year,1985
-Brazil,BRA,Year,1986
-Brazil,BRA,Year,1987
-Brazil,BRA,Year,1988
-Brazil,BRA,Year,1989
-Brazil,BRA,Year,1990
-Brazil,BRA,Year,1992
-Brazil,BRA,Year,1993
-Brazil,BRA,Year,1995
-Brazil,BRA,Year,1996
-Brazil,BRA,Year,1997
-Brazil,BRA,Year,1998
-Brazil,BRA,Year,1999
-Brazil,BRA,Year,2001
-Brazil,BRA,Year,2002
-Brazil,BRA,Year,2003
-Brazil,BRA,Year,2004
-Brazil,BRA,Year,2005
-Brazil,BRA,Year,2006
-Brazil,BRA,Year,2007
-Brazil,BRA,Year,2008
-Brazil,BRA,Year,2009
-Brazil,BRA,Year,2011
-Brazil,BRA,Year,2012
-Brazil,BRA,Year,2013
-Brazil,BRA,Year,Indicator Code
-Brazil,BRA,Year,Indicator Name
-Botswana,BWA,Vaue,"54,21"
-Botswana,BWA,Vaue,"60,79"
-Botswana,BWA,Vaue,"64,73"
-Botswana,BWA,Vaue,"60,46"
-Botswana,BWA,Vaue,SI.POV.GINI
-Botswana,BWA,Vaue,GINI index (World Bank estimate)
-Botswana,BWA,Year,1985
-Botswana,BWA,Year,1993
-Botswana,BWA,Year,2002
-Botswana,BWA,Year,2009
-Botswana,BWA,Year,Indicator Code
-Botswana,BWA,Year,Indicator Name
-Bosnia and Herzegovina,BIH,Vaue,"29,3"
-Bosnia and Herzegovina,BIH,Vaue,"34,04"
-Bosnia and Herzegovina,BIH,Vaue,"33,04"
-Bosnia and Herzegovina,BIH,Vaue,SI.POV.GINI
-Bosnia and Herzegovina,BIH,Vaue,GINI index (World Bank estimate)
-Bosnia and Herzegovina,BIH,Year,2001
-Bosnia and Herzegovina,BIH,Year,2004
-Bosnia and Herzegovina,BIH,Year,2007
-Bosnia and Herzegovina,BIH,Year,Indicator Code
-Bosnia and Herzegovina,BIH,Year,Indicator Name
-Bolivia,BOL,Vaue,"42,04"
-Bolivia,BOL,Vaue,"49,11"
-Bolivia,BOL,Vaue,"58,16"
-Bolivia,BOL,Vaue,"58,1"
-Bolivia,BOL,Vaue,63
-Bolivia,BOL,Vaue,"58,88"
-Bolivia,BOL,Vaue,"60,16"
-Bolivia,BOL,Vaue,"55,01"
-Bolivia,BOL,Vaue,"58,47"
-Bolivia,BOL,Vaue,"56,87"
-Bolivia,BOL,Vaue,"55,44"
-Bolivia,BOL,Vaue,"51,43"
-Bolivia,BOL,Vaue,"49,65"
-Bolivia,BOL,Vaue,"46,26"
-Bolivia,BOL,Vaue,"46,7"
-Bolivia,BOL,Vaue,"48,06"
-Bolivia,BOL,Vaue,SI.POV.GINI
-Bolivia,BOL,Vaue,GINI index (World Bank estimate)
-Bolivia,BOL,Year,1990
-Bolivia,BOL,Year,1993
-Bolivia,BOL,Year,1997
-Bolivia,BOL,Year,1999
-Bolivia,BOL,Year,2000
-Bolivia,BOL,Year,2001
-Bolivia,BOL,Year,2002
-Bolivia,BOL,Year,2004
-Bolivia,BOL,Year,2005
-Bolivia,BOL,Year,2006
-Bolivia,BOL,Year,2007
-Bolivia,BOL,Year,2008
-Bolivia,BOL,Year,2009
-Bolivia,BOL,Year,2011
-Bolivia,BOL,Year,2012
-Bolivia,BOL,Year,2013
-Bolivia,BOL,Year,Indicator Code
-Bolivia,BOL,Year,Indicator Name
-Bhutan,BTN,Vaue,"69,47"
-Bhutan,BTN,Vaue,"38,09"
-Bhutan,BTN,Vaue,"38,65"
-Bhutan,BTN,Vaue,SI.POV.GINI
-Bhutan,BTN,Vaue,GINI index (World Bank estimate)
-Bhutan,BTN,Year,2003
-Bhutan,BTN,Year,2007
-Bhutan,BTN,Year,2012
-Bhutan,BTN,Year,Indicator Code
-Bhutan,BTN,Year,Indicator Name
-Bermuda,BMU,Vaue,SI.POV.GINI
-Bermuda,BMU,Vaue,GINI index (World Bank estimate)
-Bermuda,BMU,Year,Indicator Code
-Bermuda,BMU,Year,Indicator Name
-Benin,BEN,Vaue,"38,58"
-Benin,BEN,Vaue,"43,44"
-Benin,BEN,Vaue,SI.POV.GINI
-Benin,BEN,Vaue,GINI index (World Bank estimate)
-Benin,BEN,Year,2003
-Benin,BEN,Year,2011
-Benin,BEN,Year,Indicator Code
-Benin,BEN,Year,Indicator Name
-Belize,BLZ,Vaue,"60,25"
-Belize,BLZ,Vaue,"60,91"
-Belize,BLZ,Vaue,"57,55"
-Belize,BLZ,Vaue,"56,59"
-Belize,BLZ,Vaue,"60,43"
-Belize,BLZ,Vaue,"54,91"
-Belize,BLZ,Vaue,"53,26"
-Belize,BLZ,Vaue,SI.POV.GINI
-Belize,BLZ,Vaue,GINI index (World Bank estimate)
-Belize,BLZ,Year,1993
-Belize,BLZ,Year,1994
-Belize,BLZ,Year,1995
-Belize,BLZ,Year,1996
-Belize,BLZ,Year,1997
-Belize,BLZ,Year,1998
-Belize,BLZ,Year,1999
-Belize,BLZ,Year,Indicator Code
-Belize,BLZ,Year,Indicator Name
-Belgium,BEL,Vaue,"30,63"
-Belgium,BEL,Vaue,"29,88"
-Belgium,BEL,Vaue,"28,26"
-Belgium,BEL,Vaue,"29,57"
-Belgium,BEL,Vaue,29
-Belgium,BEL,Vaue,"28,7"
-Belgium,BEL,Vaue,"28,53"
-Belgium,BEL,Vaue,"28,43"
-Belgium,BEL,Vaue,"27,59"
-Belgium,BEL,Vaue,SI.POV.GINI
-Belgium,BEL,Vaue,GINI index (World Bank estimate)
-Belgium,BEL,Year,2004
-Belgium,BEL,Year,2005
-Belgium,BEL,Year,2006
-Belgium,BEL,Year,2007
-Belgium,BEL,Year,2008
-Belgium,BEL,Year,2009
-Belgium,BEL,Year,2010
-Belgium,BEL,Year,2011
-Belgium,BEL,Year,2012
-Belgium,BEL,Year,Indicator Code
-Belgium,BEL,Year,Indicator Name
-Belarus,BLR,Vaue,"22,76"
-Belarus,BLR,Vaue,"21,6"
-Belarus,BLR,Vaue,"28,76"
-Belarus,BLR,Vaue,"30,67"
-Belarus,BLR,Vaue,"31,31"
-Belarus,BLR,Vaue,"29,72"
-Belarus,BLR,Vaue,"30,97"
-Belarus,BLR,Vaue,"30,18"
-Belarus,BLR,Vaue,"29,52"
-Belarus,BLR,Vaue,"26,59"
-Belarus,BLR,Vaue,"27,78"
-Belarus,BLR,Vaue,"28,17"
-Belarus,BLR,Vaue,"28,78"
-Belarus,BLR,Vaue,"27,22"
-Belarus,BLR,Vaue,"27,69"
-Belarus,BLR,Vaue,"27,72"
-Belarus,BLR,Vaue,"26,46"
-Belarus,BLR,Vaue,"26,01"
-Belarus,BLR,Vaue,SI.POV.GINI
-Belarus,BLR,Vaue,GINI index (World Bank estimate)
-Belarus,BLR,Year,1988
-Belarus,BLR,Year,1993
-Belarus,BLR,Year,1995
-Belarus,BLR,Year,1998
-Belarus,BLR,Year,1999
-Belarus,BLR,Year,2000
-Belarus,BLR,Year,2001
-Belarus,BLR,Year,2002
-Belarus,BLR,Year,2003
-Belarus,BLR,Year,2004
-Belarus,BLR,Year,2005
-Belarus,BLR,Year,2006
-Belarus,BLR,Year,2007
-Belarus,BLR,Year,2008
-Belarus,BLR,Year,2009
-Belarus,BLR,Year,2010
-Belarus,BLR,Year,2011
-Belarus,BLR,Year,2012
-Belarus,BLR,Year,Indicator Code
-Belarus,BLR,Year,Indicator Name
-Barbados,BRB,Vaue,SI.POV.GINI
-Barbados,BRB,Vaue,GINI index (World Bank estimate)
-Barbados,BRB,Year,Indicator Code
-Barbados,BRB,Year,Indicator Name
-Bangladesh,BGD,Vaue,"25,88"
-Bangladesh,BGD,Vaue,"26,92"
-Bangladesh,BGD,Vaue,"28,85"
-Bangladesh,BGD,Vaue,"27,57"
-Bangladesh,BGD,Vaue,"32,94"
-Bangladesh,BGD,Vaue,"33,06"
-Bangladesh,BGD,Vaue,"32,73"
-Bangladesh,BGD,Vaue,"31,98"
-Bangladesh,BGD,Vaue,SI.POV.GINI
-Bangladesh,BGD,Vaue,GINI index (World Bank estimate)
-Bangladesh,BGD,Year,1983
-Bangladesh,BGD,Year,1985
-Bangladesh,BGD,Year,1988
-Bangladesh,BGD,Year,1991
-Bangladesh,BGD,Year,1995
-Bangladesh,BGD,Year,2000
-Bangladesh,BGD,Year,2005
-Bangladesh,BGD,Year,2010
-Bangladesh,BGD,Year,Indicator Code
-Bangladesh,BGD,Year,Indicator Name
-Bahrain,BHR,Vaue,SI.POV.GINI
-Bahrain,BHR,Vaue,GINI index (World Bank estimate)
-Bahrain,BHR,Year,Indicator Code
-Bahrain,BHR,Year,Indicator Name
-"Bahamas, The",BHS,Vaue,SI.POV.GINI
-"Bahamas, The",BHS,Vaue,GINI index (World Bank estimate)
-"Bahamas, The",BHS,Year,Indicator Code
-"Bahamas, The",BHS,Year,Indicator Name
-Azerbaijan,AZE,Vaue,"34,65"
-Azerbaijan,AZE,Vaue,"36,45"
-Azerbaijan,AZE,Vaue,"17,36"
-Azerbaijan,AZE,Vaue,"18,81"
-Azerbaijan,AZE,Vaue,"16,23"
-Azerbaijan,AZE,Vaue,"16,64"
-Azerbaijan,AZE,Vaue,SI.POV.GINI
-Azerbaijan,AZE,Vaue,GINI index (World Bank estimate)
-Azerbaijan,AZE,Year,1995
-Azerbaijan,AZE,Year,2001
-Azerbaijan,AZE,Year,2002
-Azerbaijan,AZE,Year,2003
-Azerbaijan,AZE,Year,2004
-Azerbaijan,AZE,Year,2005
-Azerbaijan,AZE,Year,Indicator Code
-Azerbaijan,AZE,Year,Indicator Name
-Austria,AUT,Vaue,"29,87"
-Austria,AUT,Vaue,"28,72"
-Austria,AUT,Vaue,"29,59"
-Austria,AUT,Vaue,"30,58"
-Austria,AUT,Vaue,"30,45"
-Austria,AUT,Vaue,"31,5"
-Austria,AUT,Vaue,"30,25"
-Austria,AUT,Vaue,"30,8"
-Austria,AUT,Vaue,"30,48"
-Austria,AUT,Vaue,SI.POV.GINI
-Austria,AUT,Vaue,GINI index (World Bank estimate)
-Austria,AUT,Year,2004
-Austria,AUT,Year,2005
-Austria,AUT,Year,2006
-Austria,AUT,Year,2007
-Austria,AUT,Year,2008
-Austria,AUT,Year,2009
-Austria,AUT,Year,2010
-Austria,AUT,Year,2011
-Austria,AUT,Year,2012
-Austria,AUT,Year,Indicator Code
-Austria,AUT,Year,Indicator Name
-Australia,AUS,Vaue,"31,33"
-Australia,AUS,Vaue,"32,5"
-Australia,AUS,Vaue,"33,15"
-Australia,AUS,Vaue,"33,72"
-Australia,AUS,Vaue,"34,14"
-Australia,AUS,Vaue,"34,01"
-Australia,AUS,Vaue,"35,63"
-Australia,AUS,Vaue,"34,94"
-Australia,AUS,Vaue,SI.POV.GINI
-Australia,AUS,Vaue,GINI index (World Bank estimate)
-Australia,AUS,Year,1981
-Australia,AUS,Year,1985
-Australia,AUS,Year,1989
-Australia,AUS,Year,1995
-Australia,AUS,Year,2001
-Australia,AUS,Year,2003
-Australia,AUS,Year,2008
-Australia,AUS,Year,2010
-Australia,AUS,Year,Indicator Code
-Australia,AUS,Year,Indicator Name
-Aruba,ABW,Vaue,SI.POV.GINI
-Aruba,ABW,Vaue,GINI index (World Bank estimate)
-Aruba,ABW,Year,Indicator Code
-Aruba,ABW,Year,Indicator Name
-Armenia,ARM,Vaue,"44,42"
-Armenia,ARM,Vaue,"36,22"
-Armenia,ARM,Vaue,"35,37"
-Armenia,ARM,Vaue,"34,78"
-Armenia,ARM,Vaue,"33,03"
-Armenia,ARM,Vaue,"37,51"
-Armenia,ARM,Vaue,"35,99"
-Armenia,ARM,Vaue,"32,49"
-Armenia,ARM,Vaue,"29,83"
-Armenia,ARM,Vaue,"30,71"
-Armenia,ARM,Vaue,"29,58"
-Armenia,ARM,Vaue,"31,07"
-Armenia,ARM,Vaue,"31,32"
-Armenia,ARM,Vaue,"30,48"
-Armenia,ARM,Vaue,"31,54"
-Armenia,ARM,Vaue,SI.POV.GINI
-Armenia,ARM,Vaue,GINI index (World Bank estimate)
-Armenia,ARM,Year,1996
-Armenia,ARM,Year,1999
-Armenia,ARM,Year,2001
-Armenia,ARM,Year,2002
-Armenia,ARM,Year,2003
-Armenia,ARM,Year,2004
-Armenia,ARM,Year,2005
-Armenia,ARM,Year,2006
-Armenia,ARM,Year,2007
-Armenia,ARM,Year,2008
-Armenia,ARM,Year,2009
-Armenia,ARM,Year,2010
-Armenia,ARM,Year,2011
-Armenia,ARM,Year,2012
-Armenia,ARM,Year,2013
-Armenia,ARM,Year,Indicator Code
-Armenia,ARM,Year,Indicator Name
-Argentina,ARG,Vaue,"42,79"
-Argentina,ARG,Vaue,"45,28"
-Argentina,ARG,Vaue,"46,76"
-Argentina,ARG,Vaue,"45,47"
-Argentina,ARG,Vaue,"44,86"
-Argentina,ARG,Vaue,"45,92"
-Argentina,ARG,Vaue,"48,9"
-Argentina,ARG,Vaue,"49,52"
-Argentina,ARG,Vaue,"49,11"
-Argentina,ARG,Vaue,"50,73"
-Argentina,ARG,Vaue,"49,79"
-Argentina,ARG,Vaue,"51,06"
-Argentina,ARG,Vaue,"53,34"
-Argentina,ARG,Vaue,"53,79"
-Argentina,ARG,Vaue,"53,54"
-Argentina,ARG,Vaue,"50,18"
-Argentina,ARG,Vaue,"49,27"
-Argentina,ARG,Vaue,"48,26"
-Argentina,ARG,Vaue,"47,37"
-Argentina,ARG,Vaue,"46,27"
-Argentina,ARG,Vaue,"45,27"
-Argentina,ARG,Vaue,"44,5"
-Argentina,ARG,Vaue,"43,57"
-Argentina,ARG,Vaue,"42,49"
-Argentina,ARG,Vaue,"42,28"
-Argentina,ARG,Vaue,SI.POV.GINI
-Argentina,ARG,Vaue,GINI index (World Bank estimate)
-Argentina,ARG,Year,1986
-Argentina,ARG,Year,1987
-Argentina,ARG,Year,1991
-Argentina,ARG,Year,1992
-Argentina,ARG,Year,1993
-Argentina,ARG,Year,1994
-Argentina,ARG,Year,1995
-Argentina,ARG,Year,1996
-Argentina,ARG,Year,1997
-Argentina,ARG,Year,1998
-Argentina,ARG,Year,1999
-Argentina,ARG,Year,2000
-Argentina,ARG,Year,2001
-Argentina,ARG,Year,2002
-Argentina,ARG,Year,2003
-Argentina,ARG,Year,2004
-Argentina,ARG,Year,2005
-Argentina,ARG,Year,2006
-Argentina,ARG,Year,2007
-Argentina,ARG,Year,2008
-Argentina,ARG,Year,2009
-Argentina,ARG,Year,2010
-Argentina,ARG,Year,2011
-Argentina,ARG,Year,2012
-Argentina,ARG,Year,2013
-Argentina,ARG,Year,Indicator Code
-Argentina,ARG,Year,Indicator Name
-Arab World,ARB,Vaue,SI.POV.GINI
-Arab World,ARB,Vaue,GINI index (World Bank estimate)
-Arab World,ARB,Year,Indicator Code
-Arab World,ARB,Year,Indicator Name
-Antigua and Barbuda,ATG,Vaue,SI.POV.GINI
-Antigua and Barbuda,ATG,Vaue,GINI index (World Bank estimate)
-Antigua and Barbuda,ATG,Year,Indicator Code
-Antigua and Barbuda,ATG,Year,Indicator Name
-Angola,AGO,Vaue,"51,96"
-Angola,AGO,Vaue,"42,72"
-Angola,AGO,Vaue,SI.POV.GINI
-Angola,AGO,Vaue,GINI index (World Bank estimate)
-Angola,AGO,Year,2000
-Angola,AGO,Year,2008
-Angola,AGO,Year,Indicator Code
-Angola,AGO,Year,Indicator Name
-Andorra,AND,Vaue,SI.POV.GINI
-Andorra,AND,Vaue,GINI index (World Bank estimate)
-Andorra,AND,Year,Indicator Code
-Andorra,AND,Year,Indicator Name
-American Samoa,ASM,Vaue,SI.POV.GINI
-American Samoa,ASM,Vaue,GINI index (World Bank estimate)
-American Samoa,ASM,Year,Indicator Code
-American Samoa,ASM,Year,Indicator Name
-Algeria,DZA,Vaue,"35,33"
-Algeria,DZA,Vaue,SI.POV.GINI
-Algeria,DZA,Vaue,GINI index (World Bank estimate)
-Algeria,DZA,Year,1995
-Algeria,DZA,Year,Indicator Code
-Algeria,DZA,Year,Indicator Name
-Albania,ALB,Vaue,"27,01"
-Albania,ALB,Vaue,"32,46"
-Albania,ALB,Vaue,"30,6"
-Albania,ALB,Vaue,"29,98"
-Albania,ALB,Vaue,"28,96"
-Albania,ALB,Vaue,SI.POV.GINI
-Albania,ALB,Vaue,GINI index (World Bank estimate)
-Albania,ALB,Year,1996
-Albania,ALB,Year,2002
-Albania,ALB,Year,2005
-Albania,ALB,Year,2008
-Albania,ALB,Year,2012
-Albania,ALB,Year,Indicator Code
-Albania,ALB,Year,Indicator Name
-Afghanistan,AFG,Vaue,SI.POV.GINI
-Afghanistan,AFG,Vaue,GINI index (World Bank estimate)
-Afghanistan,AFG,Year,Indicator Code
-Afghanistan,AFG,Year,Indicator Name
+Country Name,Country Code,Year,Value
+Zambia,ZMB,1991,60.51
+Zambia,ZMB,1993,52.61
+Zambia,ZMB,1996,48.33
+Zambia,ZMB,1998,49.13
+Zambia,ZMB,2002,42.06
+Zambia,ZMB,2004,54.29
+Zambia,ZMB,2006,54.62
+Zambia,ZMB,2010,55.62
+"Yemen, Rep.",YEM,2005,35.89
+West Bank and Gaza,PSE,2004,33.97
+West Bank and Gaza,PSE,2005,34.72
+West Bank and Gaza,PSE,2006,33.96
+West Bank and Gaza,PSE,2007,35.61
+West Bank and Gaza,PSE,2009,34.46
+Vietnam,VNM,1992,35.65
+Vietnam,VNM,1998,35.44
+Vietnam,VNM,2002,37.32
+Vietnam,VNM,2004,37.17
+Vietnam,VNM,2006,37.44
+Vietnam,VNM,2008,38.15
+Vietnam,VNM,2010,42.68
+Vietnam,VNM,2012,38.7
+"Venezuela, RB",VEN,1981,55.61
+"Venezuela, RB",VEN,1987,53.45
+"Venezuela, RB",VEN,1989,45.3
+"Venezuela, RB",VEN,1992,42.51
+"Venezuela, RB",VEN,1995,47.82
+"Venezuela, RB",VEN,1998,49.8
+"Venezuela, RB",VEN,1999,48.32
+"Venezuela, RB",VEN,2001,48.22
+"Venezuela, RB",VEN,2002,50.56
+"Venezuela, RB",VEN,2003,50.37
+"Venezuela, RB",VEN,2004,49.82
+"Venezuela, RB",VEN,2005,52.36
+"Venezuela, RB",VEN,2006,46.94
+Vanuatu,VUT,2010,37.18
+Uzbekistan,UZB,1988,24.95
+Uzbekistan,UZB,1998,44.67
+Uzbekistan,UZB,2000,36.1
+Uzbekistan,UZB,2002,33.04
+Uzbekistan,UZB,2003,35.27
+Uruguay,URY,1981,43.65
+Uruguay,URY,1989,42.37
+Uruguay,URY,1992,40.2
+Uruguay,URY,1995,42.11
+Uruguay,URY,1996,42.66
+Uruguay,URY,1997,42.73
+Uruguay,URY,1998,43.81
+Uruguay,URY,2000,44.39
+Uruguay,URY,2001,46.17
+Uruguay,URY,2002,46.65
+Uruguay,URY,2003,46.22
+Uruguay,URY,2004,47.14
+Uruguay,URY,2005,45.87
+Uruguay,URY,2006,47.2
+Uruguay,URY,2007,47.63
+Uruguay,URY,2008,46.27
+Uruguay,URY,2009,46.28
+Uruguay,URY,2010,45.32
+Uruguay,URY,2011,43.37
+Uruguay,URY,2012,41.32
+Uruguay,URY,2013,41.87
+United States,USA,1986,37.73
+United States,USA,1991,38.36
+United States,USA,1994,40.35
+United States,USA,1997,40.86
+United States,USA,2000,40.46
+United States,USA,2004,40.62
+United States,USA,2007,41.75
+United States,USA,2010,40.46
+United States,USA,2013,41.06
+United Kingdom,GBR,2004,36.22
+United Kingdom,GBR,2005,34.56
+United Kingdom,GBR,2006,34.84
+United Kingdom,GBR,2007,35.93
+United Kingdom,GBR,2008,34.37
+United Kingdom,GBR,2009,34.67
+United Kingdom,GBR,2010,34.81
+United Kingdom,GBR,2011,33.71
+United Kingdom,GBR,2012,32.57
+Ukraine,UKR,1988,23.31
+Ukraine,UKR,1992,29.71
+Ukraine,UKR,1995,39.29
+Ukraine,UKR,1996,35.16
+Ukraine,UKR,1999,28.96
+Ukraine,UKR,2002,29.05
+Ukraine,UKR,2003,28.66
+Ukraine,UKR,2004,28.93
+Ukraine,UKR,2005,29.02
+Ukraine,UKR,2006,29.79
+Ukraine,UKR,2007,28.57
+Ukraine,UKR,2008,26.64
+Ukraine,UKR,2009,25.32
+Ukraine,UKR,2010,24.82
+Ukraine,UKR,2011,24.55
+Ukraine,UKR,2012,24.74
+Ukraine,UKR,2013,24.55
+Uganda,UGA,1989,44.36
+Uganda,UGA,1992,41.43
+Uganda,UGA,1996,39.04
+Uganda,UGA,1999,43.0
+Uganda,UGA,2002,45.17
+Uganda,UGA,2005,42.94
+Uganda,UGA,2009,44.2
+Uganda,UGA,2012,42.37
+Turkmenistan,TKM,1988,26.39
+Turkmenistan,TKM,1993,35.38
+Turkmenistan,TKM,1998,40.77
+Turkey,TUR,1987,43.48
+Turkey,TUR,1994,41.32
+Turkey,TUR,2002,41.4
+Turkey,TUR,2003,42.18
+Turkey,TUR,2004,41.29
+Turkey,TUR,2005,41.72
+Turkey,TUR,2006,39.65
+Turkey,TUR,2007,38.44
+Turkey,TUR,2008,38.28
+Turkey,TUR,2009,38.97
+Turkey,TUR,2010,38.78
+Turkey,TUR,2011,40.04
+Turkey,TUR,2012,40.17
+Tunisia,TUN,1985,43.43
+Tunisia,TUN,1990,40.24
+Tunisia,TUN,1995,41.66
+Tunisia,TUN,2000,40.81
+Tunisia,TUN,2005,37.73
+Tunisia,TUN,2010,35.81
+Trinidad and Tobago,TTO,1988,42.6
+Trinidad and Tobago,TTO,1992,40.27
+Tonga,TON,2009,38.1
+Togo,TGO,2006,42.21
+Togo,TGO,2011,46.02
+Timor-Leste,TLS,2001,37.56
+Timor-Leste,TLS,2007,31.56
+Thailand,THA,1981,45.22
+Thailand,THA,1988,43.84
+Thailand,THA,1990,45.26
+Thailand,THA,1992,47.86
+Thailand,THA,1994,43.47
+Thailand,THA,1996,42.9
+Thailand,THA,1998,41.46
+Thailand,THA,1999,43.09
+Thailand,THA,2000,42.83
+Thailand,THA,2002,41.94
+Thailand,THA,2004,42.54
+Thailand,THA,2006,41.82
+Thailand,THA,2007,39.76
+Thailand,THA,2008,40.29
+Thailand,THA,2009,39.75
+Thailand,THA,2010,39.4
+Thailand,THA,2011,37.46
+Thailand,THA,2012,39.26
+Tanzania,TZA,1991,35.29
+Tanzania,TZA,2000,37.3
+Tanzania,TZA,2007,40.28
+Tanzania,TZA,2011,37.78
+Tajikistan,TJK,1999,29.54
+Tajikistan,TJK,2003,32.72
+Tajikistan,TJK,2004,33.6
+Tajikistan,TJK,2007,32.19
+Tajikistan,TJK,2009,30.77
+Syrian Arab Republic,SYR,2004,35.77
+Switzerland,CHE,2007,34.47
+Switzerland,CHE,2008,33.96
+Switzerland,CHE,2009,32.96
+Switzerland,CHE,2010,32.72
+Switzerland,CHE,2011,31.83
+Switzerland,CHE,2012,31.64
+Sweden,SWE,2004,26.43
+Sweden,SWE,2005,27.1
+Sweden,SWE,2006,26.47
+Sweden,SWE,2007,26.92
+Sweden,SWE,2008,27.13
+Sweden,SWE,2009,26.61
+Sweden,SWE,2010,26.81
+Sweden,SWE,2011,27.24
+Sweden,SWE,2012,27.32
+Swaziland,SWZ,1994,60.45
+Swaziland,SWZ,2000,53.11
+Swaziland,SWZ,2009,51.45
+Suriname,SUR,1999,57.61
+Sudan,SDN,2009,35.39
+St. Lucia,LCA,1995,42.58
+Sri Lanka,LKA,1985,32.47
+Sri Lanka,LKA,1990,32.45
+Sri Lanka,LKA,1995,35.4
+Sri Lanka,LKA,2002,40.72
+Sri Lanka,LKA,2006,39.97
+Sri Lanka,LKA,2009,36.2
+Sri Lanka,LKA,2012,38.58
+Spain,ESP,2004,33.38
+Spain,ESP,2005,32.5
+Spain,ESP,2006,32.67
+Spain,ESP,2007,33.86
+Spain,ESP,2008,34.8
+Spain,ESP,2009,35.39
+Spain,ESP,2010,35.79
+Spain,ESP,2011,36.1
+Spain,ESP,2012,35.89
+South Africa,ZAF,1993,59.33
+South Africa,ZAF,1995,62.97
+South Africa,ZAF,2000,57.77
+South Africa,ZAF,2006,64.79
+South Africa,ZAF,2008,63.01
+South Africa,ZAF,2011,63.38
+Solomon Islands,SLB,2005,46.1
+Slovenia,SVN,1987,23.6
+Slovenia,SVN,1993,29.18
+Slovenia,SVN,1998,28.41
+Slovenia,SVN,2002,29.12
+Slovenia,SVN,2003,30.87
+Slovenia,SVN,2004,31.15
+Slovenia,SVN,2005,24.63
+Slovenia,SVN,2006,24.48
+Slovenia,SVN,2007,24.37
+Slovenia,SVN,2008,23.72
+Slovenia,SVN,2009,24.83
+Slovenia,SVN,2010,24.94
+Slovenia,SVN,2011,24.87
+Slovenia,SVN,2012,25.59
+Slovak Republic,SVK,1988,19.54
+Slovak Republic,SVK,1992,19.49
+Slovak Republic,SVK,1996,25.81
+Slovak Republic,SVK,2004,28.94
+Slovak Republic,SVK,2005,29.83
+Slovak Republic,SVK,2006,27.71
+Slovak Republic,SVK,2007,28.0
+Slovak Republic,SVK,2008,26.87
+Slovak Republic,SVK,2009,26.02
+Slovak Republic,SVK,2010,27.32
+Slovak Republic,SVK,2011,26.58
+Slovak Republic,SVK,2012,26.12
+Sierra Leone,SLE,2003,40.17
+Sierra Leone,SLE,2011,33.99
+Seychelles,SYC,1999,42.78
+Seychelles,SYC,2006,42.77
+Serbia,SRB,2002,32.74
+Serbia,SRB,2003,32.83
+Serbia,SRB,2004,32.98
+Serbia,SRB,2005,33.43
+Serbia,SRB,2006,29.67
+Serbia,SRB,2007,29.43
+Serbia,SRB,2008,28.18
+Serbia,SRB,2009,28.67
+Serbia,SRB,2010,29.65
+Senegal,SEN,1991,54.14
+Senegal,SEN,1994,41.44
+Senegal,SEN,2001,41.23
+Senegal,SEN,2005,39.22
+Senegal,SEN,2011,40.28
+Sao Tome and Principe,STP,2000,32.13
+Sao Tome and Principe,STP,2010,30.82
+Samoa,WSM,2008,42.69
+Rwanda,RWA,1984,28.9
+Rwanda,RWA,2000,48.55
+Rwanda,RWA,2005,52.04
+Rwanda,RWA,2010,51.34
+Russian Federation,RUS,1988,23.8
+Russian Federation,RUS,1993,48.38
+Russian Federation,RUS,1996,46.1
+Russian Federation,RUS,1997,38.41
+Russian Federation,RUS,1998,38.14
+Russian Federation,RUS,1999,37.44
+Russian Federation,RUS,2000,37.09
+Russian Federation,RUS,2001,39.6
+Russian Federation,RUS,2002,37.28
+Russian Federation,RUS,2003,40.8
+Russian Federation,RUS,2004,40.92
+Russian Federation,RUS,2005,41.37
+Russian Federation,RUS,2006,41.54
+Russian Federation,RUS,2007,42.33
+Russian Federation,RUS,2008,41.42
+Russian Federation,RUS,2009,39.69
+Russian Federation,RUS,2010,40.94
+Russian Federation,RUS,2011,41.04
+Russian Federation,RUS,2012,41.59
+Romania,ROU,1989,23.31
+Romania,ROU,1992,25.46
+Romania,ROU,1994,28.2
+Romania,ROU,1998,31.08
+Romania,ROU,1999,29.42
+Romania,ROU,2000,29.32
+Romania,ROU,2001,29.43
+Romania,ROU,2002,30.23
+Romania,ROU,2003,29.91
+Romania,ROU,2004,30.04
+Romania,ROU,2005,29.82
+Romania,ROU,2006,39.18
+Romania,ROU,2007,37.61
+Romania,ROU,2008,29.4
+Romania,ROU,2009,28.19
+Romania,ROU,2010,28.16
+Romania,ROU,2011,27.21
+Romania,ROU,2012,27.33
+Portugal,PRT,2004,38.9
+Portugal,PRT,2005,38.47
+Portugal,PRT,2006,38.06
+Portugal,PRT,2007,36.75
+Portugal,PRT,2008,36.63
+Portugal,PRT,2009,34.91
+Portugal,PRT,2010,35.84
+Portugal,PRT,2011,36.34
+Portugal,PRT,2012,36.04
+Poland,POL,1985,25.16
+Poland,POL,1987,25.53
+Poland,POL,1989,26.89
+Poland,POL,1992,26.7
+Poland,POL,1996,32.66
+Poland,POL,1998,32.32
+Poland,POL,1999,32.59
+Poland,POL,2000,33.0
+Poland,POL,2001,32.85
+Poland,POL,2002,34.05
+Poland,POL,2003,34.91
+Poland,POL,2004,35.43
+Poland,POL,2005,35.86
+Poland,POL,2006,33.71
+Poland,POL,2007,33.51
+Poland,POL,2008,33.72
+Poland,POL,2009,33.58
+Poland,POL,2010,33.22
+Poland,POL,2011,32.78
+Poland,POL,2012,32.39
+Philippines,PHL,1985,41.04
+Philippines,PHL,1988,40.75
+Philippines,PHL,1991,43.82
+Philippines,PHL,1994,38.52
+Philippines,PHL,1997,45.96
+Philippines,PHL,2000,46.17
+Philippines,PHL,2003,44.04
+Philippines,PHL,2006,44.2
+Philippines,PHL,2009,42.91
+Philippines,PHL,2012,43.04
+Peru,PER,1985,99.91
+Peru,PER,1994,44.02
+Peru,PER,1997,53.72
+Peru,PER,1998,56.14
+Peru,PER,1999,56.34
+Peru,PER,2000,50.77
+Peru,PER,2001,51.83
+Peru,PER,2002,54.04
+Peru,PER,2003,53.71
+Peru,PER,2004,51.2
+Peru,PER,2005,51.84
+Peru,PER,2006,51.67
+Peru,PER,2007,51.35
+Peru,PER,2008,48.55
+Peru,PER,2009,47.96
+Peru,PER,2010,46.21
+Peru,PER,2011,45.48
+Peru,PER,2012,45.11
+Peru,PER,2013,44.73
+Paraguay,PRY,1990,40.84
+Paraguay,PRY,1995,58.16
+Paraguay,PRY,1997,54.89
+Paraguay,PRY,1999,54.58
+Paraguay,PRY,2001,54.83
+Paraguay,PRY,2002,57.34
+Paraguay,PRY,2003,55.55
+Paraguay,PRY,2004,52.59
+Paraguay,PRY,2005,51.37
+Paraguay,PRY,2006,53.63
+Paraguay,PRY,2007,52.09
+Paraguay,PRY,2008,51.04
+Paraguay,PRY,2009,49.67
+Paraguay,PRY,2010,51.83
+Paraguay,PRY,2011,52.6
+Paraguay,PRY,2012,48.17
+Paraguay,PRY,2013,48.3
+Papua New Guinea,PNG,1996,55.43
+Papua New Guinea,PNG,2009,43.88
+Panama,PAN,1989,58.91
+Panama,PAN,1991,58.19
+Panama,PAN,1995,57.81
+Panama,PAN,1997,58.23
+Panama,PAN,1998,57.48
+Panama,PAN,1999,56.46
+Panama,PAN,2000,57.66
+Panama,PAN,2001,57.3
+Panama,PAN,2002,56.59
+Panama,PAN,2003,56.37
+Panama,PAN,2004,55.06
+Panama,PAN,2005,53.99
+Panama,PAN,2006,55.06
+Panama,PAN,2007,52.97
+Panama,PAN,2008,52.63
+Panama,PAN,2009,52.03
+Panama,PAN,2010,51.91
+Panama,PAN,2011,51.83
+Panama,PAN,2012,51.9
+Panama,PAN,2013,51.67
+Pakistan,PAK,1987,33.32
+Pakistan,PAK,1990,33.25
+Pakistan,PAK,1996,28.67
+Pakistan,PAK,1998,33.12
+Pakistan,PAK,2001,30.5
+Pakistan,PAK,2004,32.33
+Pakistan,PAK,2005,32.69
+Pakistan,PAK,2007,31.42
+Pakistan,PAK,2010,29.59
+Norway,NOR,2004,31.72
+Norway,NOR,2005,32.27
+Norway,NOR,2006,27.29
+Norway,NOR,2007,28.07
+Norway,NOR,2008,27.14
+Norway,NOR,2009,26.39
+Norway,NOR,2010,25.86
+Norway,NOR,2011,25.54
+Norway,NOR,2012,25.9
+Nigeria,NGA,1985,38.68
+Nigeria,NGA,1992,44.98
+Nigeria,NGA,1996,51.92
+Nigeria,NGA,2003,40.06
+Nigeria,NGA,2009,42.97
+Niger,NER,1992,36.1
+Niger,NER,1994,41.53
+Niger,NER,2005,44.43
+Niger,NER,2007,37.3
+Niger,NER,2011,31.45
+Nicaragua,NIC,1993,50.36
+Nicaragua,NIC,1998,45.16
+Nicaragua,NIC,2001,43.08
+Nicaragua,NIC,2005,40.49
+Nicaragua,NIC,2009,45.73
+Netherlands,NLD,2004,30.74
+Netherlands,NLD,2005,29.86
+Netherlands,NLD,2006,30.76
+Netherlands,NLD,2007,30.35
+Netherlands,NLD,2008,29.93
+Netherlands,NLD,2009,28.38
+Netherlands,NLD,2010,28.73
+Netherlands,NLD,2011,28.17
+Netherlands,NLD,2012,27.99
+Nepal,NPL,1984,30.06
+Nepal,NPL,1995,35.21
+Nepal,NPL,2003,43.26
+Nepal,NPL,2010,32.75
+Namibia,NAM,2003,63.32
+Namibia,NAM,2009,60.97
+Mozambique,MOZ,1996,44.41
+Mozambique,MOZ,2002,47.04
+Mozambique,MOZ,2008,45.58
+Morocco,MAR,1984,39.19
+Morocco,MAR,1990,39.2
+Morocco,MAR,1998,39.46
+Morocco,MAR,2000,40.64
+Morocco,MAR,2007,40.72
+Montenegro,MNE,2005,30.14
+Montenegro,MNE,2006,29.39
+Montenegro,MNE,2007,30.82
+Montenegro,MNE,2008,30.01
+Montenegro,MNE,2009,30.27
+Montenegro,MNE,2010,28.6
+Montenegro,MNE,2011,30.63
+Montenegro,MNE,2012,32.16
+Montenegro,MNE,2013,33.19
+Mongolia,MNG,1995,33.2
+Mongolia,MNG,1998,30.27
+Mongolia,MNG,2002,32.89
+Mongolia,MNG,2007,35.82
+Mongolia,MNG,2010,33.08
+Mongolia,MNG,2011,33.88
+Mongolia,MNG,2012,33.75
+Moldova,MDA,1988,24.14
+Moldova,MDA,1992,34.32
+Moldova,MDA,1997,36.94
+Moldova,MDA,1998,39.52
+Moldova,MDA,1999,42.62
+Moldova,MDA,2000,36.43
+Moldova,MDA,2001,38.16
+Moldova,MDA,2002,35.76
+Moldova,MDA,2003,35.26
+Moldova,MDA,2004,35.35
+Moldova,MDA,2005,36.28
+Moldova,MDA,2006,35.4
+Moldova,MDA,2007,34.42
+Moldova,MDA,2008,34.69
+Moldova,MDA,2009,32.91
+Moldova,MDA,2010,32.05
+Moldova,MDA,2011,30.63
+Moldova,MDA,2012,29.16
+Moldova,MDA,2013,28.53
+"Micronesia, Fed. Sts.",FSM,2000,61.18
+Mexico,MEX,1984,48.95
+Mexico,MEX,1989,54.34
+Mexico,MEX,1992,50.95
+Mexico,MEX,1994,51.7
+Mexico,MEX,1996,48.47
+Mexico,MEX,1998,48.97
+Mexico,MEX,2000,51.67
+Mexico,MEX,2002,49.54
+Mexico,MEX,2004,46.03
+Mexico,MEX,2005,51.11
+Mexico,MEX,2006,48.01
+Mexico,MEX,2008,48.23
+Mexico,MEX,2010,48.13
+Mexico,MEX,2012,48.07
+Mauritius,MUS,2006,35.65
+Mauritius,MUS,2012,35.84
+Mauritania,MRT,1987,43.94
+Mauritania,MRT,1993,50.05
+Mauritania,MRT,1995,37.75
+Mauritania,MRT,2000,39.03
+Mauritania,MRT,2004,40.17
+Mauritania,MRT,2008,37.48
+Mali,MLI,1994,50.44
+Mali,MLI,2001,39.87
+Mali,MLI,2006,38.93
+Mali,MLI,2009,33.04
+Maldives,MDV,1998,62.68
+Maldives,MDV,2004,37.37
+Maldives,MDV,2009,36.78
+Malaysia,MYS,1984,48.62
+Malaysia,MYS,1987,47.04
+Malaysia,MYS,1989,46.17
+Malaysia,MYS,1992,47.65
+Malaysia,MYS,1995,48.52
+Malaysia,MYS,1997,49.15
+Malaysia,MYS,2004,46.05
+Malaysia,MYS,2007,46.0
+Malaysia,MYS,2009,46.26
+Malawi,MWI,1997,65.76
+Malawi,MWI,2004,39.87
+Malawi,MWI,2010,46.12
+Madagascar,MDG,1993,45.26
+Madagascar,MDG,1997,39.47
+Madagascar,MDG,1999,38.61
+Madagascar,MDG,2001,47.44
+Madagascar,MDG,2005,38.88
+Madagascar,MDG,2010,40.63
+"Macedonia, FYR",MKD,1998,28.13
+"Macedonia, FYR",MKD,2000,34.26
+"Macedonia, FYR",MKD,2002,38.51
+"Macedonia, FYR",MKD,2003,38.72
+"Macedonia, FYR",MKD,2004,38.77
+"Macedonia, FYR",MKD,2005,39.31
+"Macedonia, FYR",MKD,2006,42.64
+"Macedonia, FYR",MKD,2008,44.05
+Luxembourg,LUX,2004,30.25
+Luxembourg,LUX,2005,31.11
+Luxembourg,LUX,2006,30.96
+Luxembourg,LUX,2007,31.28
+Luxembourg,LUX,2008,32.61
+Luxembourg,LUX,2009,31.53
+Luxembourg,LUX,2010,30.9
+Luxembourg,LUX,2011,32.42
+Luxembourg,LUX,2012,34.79
+Lithuania,LTU,1988,22.48
+Lithuania,LTU,1993,33.64
+Lithuania,LTU,1996,32.26
+Lithuania,LTU,1998,32.1
+Lithuania,LTU,1999,32.02
+Lithuania,LTU,2000,31.67
+Lithuania,LTU,2001,32.01
+Lithuania,LTU,2002,31.92
+Lithuania,LTU,2003,35.46
+Lithuania,LTU,2004,35.2
+Lithuania,LTU,2005,35.3
+Lithuania,LTU,2006,34.44
+Lithuania,LTU,2007,34.59
+Lithuania,LTU,2008,37.06
+Lithuania,LTU,2009,37.33
+Lithuania,LTU,2010,33.76
+Lithuania,LTU,2011,32.63
+Lithuania,LTU,2012,35.15
+Liberia,LBR,2007,36.48
+Lesotho,LSO,1986,56.02
+Lesotho,LSO,1994,63.24
+Lesotho,LSO,2002,51.57
+Lesotho,LSO,2010,54.18
+Latvia,LVA,1988,22.49
+Latvia,LVA,1993,26.99
+Latvia,LVA,1995,30.98
+Latvia,LVA,1996,31.64
+Latvia,LVA,1997,32.65
+Latvia,LVA,1998,33.1
+Latvia,LVA,2002,35.09
+Latvia,LVA,2003,36.53
+Latvia,LVA,2004,34.96
+Latvia,LVA,2005,39.4
+Latvia,LVA,2006,35.6
+Latvia,LVA,2007,36.05
+Latvia,LVA,2008,35.82
+Latvia,LVA,2009,34.83
+Latvia,LVA,2010,35.27
+Latvia,LVA,2011,36.03
+Latvia,LVA,2012,35.48
+Lao PDR,LAO,1992,34.31
+Lao PDR,LAO,1997,34.9
+Lao PDR,LAO,2002,34.66
+Lao PDR,LAO,2007,36.64
+Lao PDR,LAO,2012,37.89
+Kyrgyz Republic,KGZ,1988,26.01
+Kyrgyz Republic,KGZ,1993,53.7
+Kyrgyz Republic,KGZ,1998,46.4
+Kyrgyz Republic,KGZ,2000,31.03
+Kyrgyz Republic,KGZ,2001,30.16
+Kyrgyz Republic,KGZ,2002,30.3
+Kyrgyz Republic,KGZ,2003,28.71
+Kyrgyz Republic,KGZ,2004,34.77
+Kyrgyz Republic,KGZ,2005,38.32
+Kyrgyz Republic,KGZ,2006,38.4
+Kyrgyz Republic,KGZ,2007,33.43
+Kyrgyz Republic,KGZ,2008,32.06
+Kyrgyz Republic,KGZ,2009,29.83
+Kyrgyz Republic,KGZ,2010,29.89
+Kyrgyz Republic,KGZ,2011,27.77
+Kyrgyz Republic,KGZ,2012,27.37
+Kosovo,KSV,2003,28.95
+Kosovo,KSV,2005,31.24
+Kosovo,KSV,2006,30.32
+Kosovo,KSV,2009,31.78
+Kosovo,KSV,2010,33.25
+Kosovo,KSV,2011,27.83
+Kosovo,KSV,2012,29.4
+Kosovo,KSV,2013,26.71
+Kiribati,KIR,2006,37.61
+Kenya,KEN,1992,57.46
+Kenya,KEN,1994,43.86
+Kenya,KEN,1997,46.3
+Kenya,KEN,2005,48.51
+Kazakhstan,KAZ,1988,25.74
+Kazakhstan,KAZ,1993,32.67
+Kazakhstan,KAZ,1996,35.38
+Kazakhstan,KAZ,2001,35.29
+Kazakhstan,KAZ,2002,34.05
+Kazakhstan,KAZ,2003,33.15
+Kazakhstan,KAZ,2004,31.47
+Kazakhstan,KAZ,2005,29.65
+Kazakhstan,KAZ,2006,29.99
+Kazakhstan,KAZ,2007,28.54
+Kazakhstan,KAZ,2008,29.07
+Kazakhstan,KAZ,2009,28.79
+Kazakhstan,KAZ,2010,28.56
+Kazakhstan,KAZ,2011,27.42
+Kazakhstan,KAZ,2012,27.43
+Kazakhstan,KAZ,2013,26.35
+Jordan,JOR,1986,36.06
+Jordan,JOR,1992,43.36
+Jordan,JOR,1997,36.42
+Jordan,JOR,2002,36.95
+Jordan,JOR,2006,33.86
+Jordan,JOR,2008,32.57
+Jordan,JOR,2010,33.66
+Japan,JPN,2008,32.11
+Jamaica,JAM,1988,43.16
+Jamaica,JAM,1990,41.11
+Jamaica,JAM,1993,35.67
+Jamaica,JAM,1996,40.39
+Jamaica,JAM,1999,44.08
+Jamaica,JAM,2002,48.32
+Jamaica,JAM,2004,45.46
+Italy,ITA,2004,34.53
+Italy,ITA,2005,34.07
+Italy,ITA,2006,34.26
+Italy,ITA,2007,33.19
+Italy,ITA,2008,33.74
+Italy,ITA,2009,33.66
+Italy,ITA,2010,34.41
+Italy,ITA,2011,34.52
+Italy,ITA,2012,35.16
+Israel,ISR,1986,36.49
+Israel,ISR,1992,35.5
+Israel,ISR,1997,38.1
+Israel,ISR,2001,39.2
+Israel,ISR,2005,41.86
+Israel,ISR,2007,41.18
+Israel,ISR,2010,42.78
+Ireland,IRL,2004,33.72
+Ireland,IRL,2005,33.76
+Ireland,IRL,2006,32.73
+Ireland,IRL,2007,31.96
+Ireland,IRL,2008,30.91
+Ireland,IRL,2009,32.84
+Ireland,IRL,2010,32.3
+Ireland,IRL,2011,32.33
+Ireland,IRL,2012,32.52
+Iraq,IRQ,2012,29.54
+"Iran, Islamic Rep.",IRN,1986,47.42
+"Iran, Islamic Rep.",IRN,1990,43.6
+"Iran, Islamic Rep.",IRN,1994,43.0
+"Iran, Islamic Rep.",IRN,1998,44.1
+"Iran, Islamic Rep.",IRN,2005,38.34
+"Iran, Islamic Rep.",IRN,2009,42.02
+"Iran, Islamic Rep.",IRN,2013,37.35
+Indonesia,IDN,1984,30.47
+Indonesia,IDN,1987,29.27
+Indonesia,IDN,1990,29.19
+Indonesia,IDN,1993,29.31
+Indonesia,IDN,1996,31.33
+Indonesia,IDN,1999,28.99
+Indonesia,IDN,2002,29.74
+Indonesia,IDN,2005,34.01
+Indonesia,IDN,2008,34.11
+Indonesia,IDN,2010,35.57
+India,IND,1983,31.11
+India,IND,1987,31.88
+India,IND,1993,30.82
+India,IND,2004,33.38
+India,IND,2009,33.9
+Iceland,ISL,2004,28.11
+Iceland,ISL,2005,29.38
+Iceland,ISL,2006,30.25
+Iceland,ISL,2007,29.58
+Iceland,ISL,2008,31.89
+Iceland,ISL,2009,28.74
+Iceland,ISL,2010,26.43
+Iceland,ISL,2011,27.03
+Iceland,ISL,2012,26.94
+Hungary,HUN,1987,20.96
+Hungary,HUN,1989,25.05
+Hungary,HUN,1993,27.94
+Hungary,HUN,1998,26.38
+Hungary,HUN,1999,27.64
+Hungary,HUN,2000,27.22
+Hungary,HUN,2001,26.92
+Hungary,HUN,2002,26.84
+Hungary,HUN,2003,30.93
+Hungary,HUN,2004,30.02
+Hungary,HUN,2005,30.19
+Hungary,HUN,2006,28.3
+Hungary,HUN,2007,31.16
+Hungary,HUN,2008,27.53
+Hungary,HUN,2009,26.97
+Hungary,HUN,2010,29.37
+Hungary,HUN,2011,28.94
+Hungary,HUN,2012,30.55
+Honduras,HND,1986,55.09
+Honduras,HND,1989,59.49
+Honduras,HND,1990,57.36
+Honduras,HND,1991,51.85
+Honduras,HND,1992,51.83
+Honduras,HND,1993,53.47
+Honduras,HND,1994,55.01
+Honduras,HND,1995,55.49
+Honduras,HND,1996,55.72
+Honduras,HND,1997,52.73
+Honduras,HND,1998,57.43
+Honduras,HND,1999,55.35
+Honduras,HND,2001,54.08
+Honduras,HND,2002,58.78
+Honduras,HND,2003,58.66
+Honduras,HND,2004,58.41
+Honduras,HND,2005,59.51
+Honduras,HND,2006,57.42
+Honduras,HND,2007,56.16
+Honduras,HND,2008,55.74
+Honduras,HND,2009,51.56
+Honduras,HND,2010,53.39
+Honduras,HND,2011,57.4
+Honduras,HND,2012,57.4
+Honduras,HND,2013,53.67
+Haiti,HTI,2001,59.48
+Haiti,HTI,2012,60.79
+Guyana,GUY,1998,44.55
+Guinea-Bissau,GNB,1993,43.61
+Guinea-Bissau,GNB,2002,35.57
+Guinea-Bissau,GNB,2010,50.66
+Guinea,GIN,1991,46.84
+Guinea,GIN,1994,46.08
+Guinea,GIN,2002,43.0
+Guinea,GIN,2007,39.36
+Guinea,GIN,2012,33.73
+Guatemala,GTM,1986,58.26
+Guatemala,GTM,1989,59.6
+Guatemala,GTM,2000,54.84
+Guatemala,GTM,2002,56.94
+Guatemala,GTM,2003,54.1
+Guatemala,GTM,2004,50.73
+Guatemala,GTM,2006,54.89
+Guatemala,GTM,2011,52.35
+Greece,GRC,2004,33.97
+Greece,GRC,2005,35.1
+Greece,GRC,2006,35.41
+Greece,GRC,2007,34.61
+Greece,GRC,2008,34.22
+Greece,GRC,2009,33.82
+Greece,GRC,2010,34.48
+Greece,GRC,2011,35.69
+Greece,GRC,2012,36.68
+Ghana,GHA,1987,35.35
+Ghana,GHA,1988,35.99
+Ghana,GHA,1991,38.44
+Ghana,GHA,1998,40.07
+Ghana,GHA,2005,42.77
+Germany,DEU,2006,32.78
+Germany,DEU,2007,32.4
+Germany,DEU,2008,31.29
+Germany,DEU,2009,31.51
+Germany,DEU,2010,31.14
+Germany,DEU,2011,30.13
+Georgia,GEO,1996,37.13
+Georgia,GEO,1997,41.95
+Georgia,GEO,1998,41.25
+Georgia,GEO,1999,40.15
+Georgia,GEO,2000,40.48
+Georgia,GEO,2001,39.57
+Georgia,GEO,2002,39.63
+Georgia,GEO,2003,39.53
+Georgia,GEO,2004,39.78
+Georgia,GEO,2005,40.34
+Georgia,GEO,2006,40.09
+Georgia,GEO,2007,40.6
+Georgia,GEO,2008,40.57
+Georgia,GEO,2009,41.74
+Georgia,GEO,2010,42.13
+Georgia,GEO,2011,41.58
+Georgia,GEO,2012,41.35
+Georgia,GEO,2013,40.03
+"Gambia, The",GMB,1998,47.56
+"Gambia, The",GMB,2003,47.33
+Gabon,GAB,2005,42.18
+France,FRA,2004,30.8
+France,FRA,2005,29.93
+France,FRA,2006,29.92
+France,FRA,2007,32.63
+France,FRA,2008,33.08
+France,FRA,2010,33.78
+France,FRA,2011,33.35
+France,FRA,2012,33.1
+Finland,FIN,2004,27.92
+Finland,FIN,2005,27.64
+Finland,FIN,2006,28.02
+Finland,FIN,2007,28.29
+Finland,FIN,2008,27.85
+Finland,FIN,2009,27.47
+Finland,FIN,2010,27.74
+Finland,FIN,2011,27.66
+Finland,FIN,2012,27.12
+Fiji,FJI,2002,39.62
+Fiji,FJI,2008,42.78
+Ethiopia,ETH,1981,32.42
+Ethiopia,ETH,1995,44.56
+Ethiopia,ETH,1999,29.98
+Ethiopia,ETH,2004,29.81
+Ethiopia,ETH,2010,33.17
+Estonia,EST,1988,22.97
+Estonia,EST,1993,39.5
+Estonia,EST,1995,30.06
+Estonia,EST,1998,37.64
+Estonia,EST,2000,35.78
+Estonia,EST,2001,36.01
+Estonia,EST,2002,35.79
+Estonia,EST,2003,34.91
+Estonia,EST,2004,35.38
+Estonia,EST,2005,33.63
+Estonia,EST,2006,33.75
+Estonia,EST,2007,31.25
+Estonia,EST,2008,32.0
+Estonia,EST,2009,31.59
+Estonia,EST,2010,32.16
+Estonia,EST,2011,32.69
+Estonia,EST,2012,33.15
+El Salvador,SLV,1991,53.95
+El Salvador,SLV,1995,49.88
+El Salvador,SLV,1996,51.39
+El Salvador,SLV,1998,54.52
+El Salvador,SLV,1999,52.2
+El Salvador,SLV,2000,51.31
+El Salvador,SLV,2001,51.14
+El Salvador,SLV,2002,51.54
+El Salvador,SLV,2003,50.72
+El Salvador,SLV,2004,47.38
+El Salvador,SLV,2005,47.88
+El Salvador,SLV,2006,45.44
+El Salvador,SLV,2007,45.24
+El Salvador,SLV,2008,46.65
+El Salvador,SLV,2009,45.93
+El Salvador,SLV,2010,44.53
+El Salvador,SLV,2011,42.43
+El Salvador,SLV,2012,41.8
+El Salvador,SLV,2013,43.51
+"Egypt, Arab Rep.",EGY,2008,30.75
+Ecuador,ECU,1987,50.49
+Ecuador,ECU,1994,53.37
+Ecuador,ECU,1995,50.97
+Ecuador,ECU,1998,49.66
+Ecuador,ECU,1999,58.6
+Ecuador,ECU,2000,56.38
+Ecuador,ECU,2003,54.99
+Ecuador,ECU,2004,54.12
+Ecuador,ECU,2005,54.12
+Ecuador,ECU,2006,53.2
+Ecuador,ECU,2007,54.33
+Ecuador,ECU,2008,50.61
+Ecuador,ECU,2009,49.28
+Ecuador,ECU,2010,49.25
+Ecuador,ECU,2011,46.21
+Ecuador,ECU,2012,46.57
+Ecuador,ECU,2013,47.29
+Dominican Republic,DOM,1986,47.78
+Dominican Republic,DOM,1989,50.46
+Dominican Republic,DOM,1992,51.36
+Dominican Republic,DOM,1996,47.43
+Dominican Republic,DOM,1997,48.92
+Dominican Republic,DOM,2000,52.01
+Dominican Republic,DOM,2001,50.43
+Dominican Republic,DOM,2002,50.12
+Dominican Republic,DOM,2003,52.09
+Dominican Republic,DOM,2004,51.95
+Dominican Republic,DOM,2005,49.96
+Dominican Republic,DOM,2006,51.9
+Dominican Republic,DOM,2007,48.69
+Dominican Republic,DOM,2008,49.0
+Dominican Republic,DOM,2009,48.86
+Dominican Republic,DOM,2010,47.2
+Dominican Republic,DOM,2011,47.4
+Dominican Republic,DOM,2012,45.68
+Dominican Republic,DOM,2013,47.07
+Djibouti,DJI,2002,40.0
+Djibouti,DJI,2012,45.13
+Denmark,DNK,2004,25.89
+Denmark,DNK,2005,25.94
+Denmark,DNK,2006,27.08
+Denmark,DNK,2007,26.85
+Denmark,DNK,2008,28.89
+Denmark,DNK,2009,28.84
+Denmark,DNK,2010,29.02
+Denmark,DNK,2011,29.54
+Denmark,DNK,2012,29.08
+Czech Republic,CZE,1988,19.4
+Czech Republic,CZE,1993,26.6
+Czech Republic,CZE,1996,25.82
+Czech Republic,CZE,2004,27.53
+Czech Republic,CZE,2005,26.95
+Czech Republic,CZE,2006,26.74
+Czech Republic,CZE,2007,26.0
+Czech Republic,CZE,2008,26.29
+Czech Republic,CZE,2009,26.18
+Czech Republic,CZE,2010,26.63
+Czech Republic,CZE,2011,26.39
+Czech Republic,CZE,2012,26.13
+Cyprus,CYP,2004,30.09
+Cyprus,CYP,2005,30.26
+Cyprus,CYP,2006,31.13
+Cyprus,CYP,2007,31.11
+Cyprus,CYP,2008,31.71
+Cyprus,CYP,2009,32.11
+Cyprus,CYP,2010,31.46
+Cyprus,CYP,2011,32.63
+Cyprus,CYP,2012,34.31
+Croatia,HRV,1988,22.78
+Croatia,HRV,1998,28.75
+Croatia,HRV,1999,27.71
+Croatia,HRV,2000,31.33
+Croatia,HRV,2001,31.1
+Croatia,HRV,2004,29.68
+Croatia,HRV,2008,33.71
+Croatia,HRV,2009,33.18
+Croatia,HRV,2010,27.35
+Croatia,HRV,2011,31.98
+Cote d'Ivoire,CIV,1985,45.53
+Cote d'Ivoire,CIV,1986,37.97
+Cote d'Ivoire,CIV,1987,40.51
+Cote d'Ivoire,CIV,1988,36.89
+Cote d'Ivoire,CIV,1992,39.39
+Cote d'Ivoire,CIV,1993,39.35
+Cote d'Ivoire,CIV,1995,40.56
+Cote d'Ivoire,CIV,1998,38.96
+Cote d'Ivoire,CIV,2002,41.34
+Cote d'Ivoire,CIV,2008,43.18
+Costa Rica,CRI,1981,47.49
+Costa Rica,CRI,1986,34.42
+Costa Rica,CRI,1989,46.69
+Costa Rica,CRI,1990,45.3
+Costa Rica,CRI,1991,46.65
+Costa Rica,CRI,1992,45.71
+Costa Rica,CRI,1993,46.0
+Costa Rica,CRI,1994,46.75
+Costa Rica,CRI,1995,45.71
+Costa Rica,CRI,1996,46.54
+Costa Rica,CRI,1997,45.62
+Costa Rica,CRI,1998,45.67
+Costa Rica,CRI,1999,47.67
+Costa Rica,CRI,2000,47.44
+Costa Rica,CRI,2001,51.1
+Costa Rica,CRI,2002,50.89
+Costa Rica,CRI,2003,49.93
+Costa Rica,CRI,2004,48.92
+Costa Rica,CRI,2005,47.77
+Costa Rica,CRI,2006,49.31
+Costa Rica,CRI,2007,49.49
+Costa Rica,CRI,2008,49.14
+Costa Rica,CRI,2009,50.97
+Costa Rica,CRI,2010,48.1
+Costa Rica,CRI,2011,48.6
+Costa Rica,CRI,2012,48.61
+Costa Rica,CRI,2013,49.18
+"Congo, Rep.",COG,2005,47.33
+"Congo, Rep.",COG,2011,40.16
+"Congo, Dem. Rep.",COD,2004,44.21
+"Congo, Dem. Rep.",COD,2012,42.1
+Comoros,COM,2004,55.93
+Colombia,COL,1988,53.11
+Colombia,COL,1989,53.59
+Colombia,COL,1991,51.32
+Colombia,COL,1992,51.45
+Colombia,COL,1996,56.93
+Colombia,COL,1999,58.74
+Colombia,COL,2000,58.68
+Colombia,COL,2001,57.76
+Colombia,COL,2002,58.26
+Colombia,COL,2003,54.41
+Colombia,COL,2004,56.11
+Colombia,COL,2005,55.04
+Colombia,COL,2006,60.08
+Colombia,COL,2007,59.37
+Colombia,COL,2008,56.04
+Colombia,COL,2009,55.92
+Colombia,COL,2010,55.5
+Colombia,COL,2011,54.18
+Colombia,COL,2012,53.54
+Colombia,COL,2013,53.49
+China,CHN,1981,29.11
+China,CHN,1984,27.69
+China,CHN,1987,29.85
+China,CHN,1990,32.43
+China,CHN,1993,35.5
+China,CHN,1996,35.7
+China,CHN,1999,39.23
+China,CHN,2002,42.59
+China,CHN,2005,42.48
+China,CHN,2008,42.63
+China,CHN,2010,42.06
+Chile,CHL,1987,56.21
+Chile,CHL,1990,57.25
+Chile,CHL,1992,54.81
+Chile,CHL,1994,56.43
+Chile,CHL,1996,54.87
+Chile,CHL,1998,55.52
+Chile,CHL,2000,55.25
+Chile,CHL,2003,54.74
+Chile,CHL,2006,51.79
+Chile,CHL,2009,52.0
+Chile,CHL,2011,50.84
+Chile,CHL,2013,50.45
+Chad,TCD,2003,39.82
+Chad,TCD,2011,43.32
+Central African Republic,CAF,1992,61.33
+Central African Republic,CAF,2003,43.61
+Central African Republic,CAF,2008,56.24
+Canada,CAN,1981,32.6
+Canada,CAN,1987,31.6
+Canada,CAN,1991,31.15
+Canada,CAN,1994,31.39
+Canada,CAN,1997,31.77
+Canada,CAN,1998,33.59
+Canada,CAN,2000,33.65
+Canada,CAN,2004,33.88
+Canada,CAN,2007,33.9
+Canada,CAN,2010,33.68
+Cameroon,CMR,1996,44.45
+Cameroon,CMR,2001,42.14
+Cameroon,CMR,2007,42.82
+Cambodia,KHM,1994,38.15
+Cambodia,KHM,2004,35.46
+Cambodia,KHM,2007,41.14
+Cambodia,KHM,2008,35.1
+Cambodia,KHM,2009,34.65
+Cambodia,KHM,2010,33.44
+Cambodia,KHM,2011,31.7
+Cambodia,KHM,2012,30.76
+Cabo Verde,CPV,2001,52.5
+Cabo Verde,CPV,2007,47.19
+Burundi,BDI,1992,33.33
+Burundi,BDI,1998,42.35
+Burundi,BDI,2006,33.36
+Burkina Faso,BFA,1994,48.07
+Burkina Faso,BFA,1998,49.94
+Burkina Faso,BFA,2003,43.25
+Burkina Faso,BFA,2009,39.76
+Bulgaria,BGR,1989,23.43
+Bulgaria,BGR,1992,30.71
+Bulgaria,BGR,1994,24.32
+Bulgaria,BGR,1995,35.4
+Bulgaria,BGR,1997,26.38
+Bulgaria,BGR,2001,32.68
+Bulgaria,BGR,2003,28.92
+Bulgaria,BGR,2006,35.73
+Bulgaria,BGR,2007,28.14
+Bulgaria,BGR,2008,33.57
+Bulgaria,BGR,2009,33.82
+Bulgaria,BGR,2010,35.65
+Bulgaria,BGR,2011,34.28
+Bulgaria,BGR,2012,36.01
+Brazil,BRA,1981,57.93
+Brazil,BRA,1982,58.42
+Brazil,BRA,1983,58.99
+Brazil,BRA,1984,58.38
+Brazil,BRA,1985,55.59
+Brazil,BRA,1986,58.46
+Brazil,BRA,1987,59.69
+Brazil,BRA,1988,61.43
+Brazil,BRA,1989,63.3
+Brazil,BRA,1990,60.49
+Brazil,BRA,1992,53.17
+Brazil,BRA,1993,60.12
+Brazil,BRA,1995,59.57
+Brazil,BRA,1996,59.89
+Brazil,BRA,1997,59.8
+Brazil,BRA,1998,59.61
+Brazil,BRA,1999,58.99
+Brazil,BRA,2001,59.33
+Brazil,BRA,2002,58.62
+Brazil,BRA,2003,58.01
+Brazil,BRA,2004,56.88
+Brazil,BRA,2005,56.64
+Brazil,BRA,2006,55.93
+Brazil,BRA,2007,55.23
+Brazil,BRA,2008,54.37
+Brazil,BRA,2009,53.87
+Brazil,BRA,2011,53.1
+Brazil,BRA,2012,52.67
+Brazil,BRA,2013,52.87
+Botswana,BWA,1985,54.21
+Botswana,BWA,1993,60.79
+Botswana,BWA,2002,64.73
+Botswana,BWA,2009,60.46
+Bosnia and Herzegovina,BIH,2001,29.3
+Bosnia and Herzegovina,BIH,2004,34.04
+Bosnia and Herzegovina,BIH,2007,33.04
+Bolivia,BOL,1990,42.04
+Bolivia,BOL,1993,49.11
+Bolivia,BOL,1997,58.16
+Bolivia,BOL,1999,58.1
+Bolivia,BOL,2000,63.0
+Bolivia,BOL,2001,58.88
+Bolivia,BOL,2002,60.16
+Bolivia,BOL,2004,55.01
+Bolivia,BOL,2005,58.47
+Bolivia,BOL,2006,56.87
+Bolivia,BOL,2007,55.44
+Bolivia,BOL,2008,51.43
+Bolivia,BOL,2009,49.65
+Bolivia,BOL,2011,46.26
+Bolivia,BOL,2012,46.7
+Bolivia,BOL,2013,48.06
+Bhutan,BTN,2003,69.47
+Bhutan,BTN,2007,38.09
+Bhutan,BTN,2012,38.65
+Benin,BEN,2003,38.58
+Benin,BEN,2011,43.44
+Belize,BLZ,1993,60.25
+Belize,BLZ,1994,60.91
+Belize,BLZ,1995,57.55
+Belize,BLZ,1996,56.59
+Belize,BLZ,1997,60.43
+Belize,BLZ,1998,54.91
+Belize,BLZ,1999,53.26
+Belgium,BEL,2004,30.63
+Belgium,BEL,2005,29.88
+Belgium,BEL,2006,28.26
+Belgium,BEL,2007,29.57
+Belgium,BEL,2008,29.0
+Belgium,BEL,2009,28.7
+Belgium,BEL,2010,28.53
+Belgium,BEL,2011,28.43
+Belgium,BEL,2012,27.59
+Belarus,BLR,1988,22.76
+Belarus,BLR,1993,21.6
+Belarus,BLR,1995,28.76
+Belarus,BLR,1998,30.67
+Belarus,BLR,1999,31.31
+Belarus,BLR,2000,29.72
+Belarus,BLR,2001,30.97
+Belarus,BLR,2002,30.18
+Belarus,BLR,2003,29.52
+Belarus,BLR,2004,26.59
+Belarus,BLR,2005,27.78
+Belarus,BLR,2006,28.17
+Belarus,BLR,2007,28.78
+Belarus,BLR,2008,27.22
+Belarus,BLR,2009,27.69
+Belarus,BLR,2010,27.72
+Belarus,BLR,2011,26.46
+Belarus,BLR,2012,26.01
+Bangladesh,BGD,1983,25.88
+Bangladesh,BGD,1985,26.92
+Bangladesh,BGD,1988,28.85
+Bangladesh,BGD,1991,27.57
+Bangladesh,BGD,1995,32.94
+Bangladesh,BGD,2000,33.06
+Bangladesh,BGD,2005,32.73
+Bangladesh,BGD,2010,31.98
+Azerbaijan,AZE,1995,34.65
+Azerbaijan,AZE,2001,36.45
+Azerbaijan,AZE,2002,17.36
+Azerbaijan,AZE,2003,18.81
+Azerbaijan,AZE,2004,16.23
+Azerbaijan,AZE,2005,16.64
+Austria,AUT,2004,29.87
+Austria,AUT,2005,28.72
+Austria,AUT,2006,29.59
+Austria,AUT,2007,30.58
+Austria,AUT,2008,30.45
+Austria,AUT,2009,31.5
+Austria,AUT,2010,30.25
+Austria,AUT,2011,30.8
+Austria,AUT,2012,30.48
+Australia,AUS,1981,31.33
+Australia,AUS,1985,32.5
+Australia,AUS,1989,33.15
+Australia,AUS,1995,33.72
+Australia,AUS,2001,34.14
+Australia,AUS,2003,34.01
+Australia,AUS,2008,35.63
+Australia,AUS,2010,34.94
+Armenia,ARM,1996,44.42
+Armenia,ARM,1999,36.22
+Armenia,ARM,2001,35.37
+Armenia,ARM,2002,34.78
+Armenia,ARM,2003,33.03
+Armenia,ARM,2004,37.51
+Armenia,ARM,2005,35.99
+Armenia,ARM,2006,32.49
+Armenia,ARM,2007,29.83
+Armenia,ARM,2008,30.71
+Armenia,ARM,2009,29.58
+Armenia,ARM,2010,31.07
+Armenia,ARM,2011,31.32
+Armenia,ARM,2012,30.48
+Armenia,ARM,2013,31.54
+Argentina,ARG,1986,42.79
+Argentina,ARG,1987,45.28
+Argentina,ARG,1991,46.76
+Argentina,ARG,1992,45.47
+Argentina,ARG,1993,44.86
+Argentina,ARG,1994,45.92
+Argentina,ARG,1995,48.9
+Argentina,ARG,1996,49.52
+Argentina,ARG,1997,49.11
+Argentina,ARG,1998,50.73
+Argentina,ARG,1999,49.79
+Argentina,ARG,2000,51.06
+Argentina,ARG,2001,53.34
+Argentina,ARG,2002,53.79
+Argentina,ARG,2003,53.54
+Argentina,ARG,2004,50.18
+Argentina,ARG,2005,49.27
+Argentina,ARG,2006,48.26
+Argentina,ARG,2007,47.37
+Argentina,ARG,2008,46.27
+Argentina,ARG,2009,45.27
+Argentina,ARG,2010,44.5
+Argentina,ARG,2011,43.57
+Argentina,ARG,2012,42.49
+Argentina,ARG,2013,42.28
+Angola,AGO,2000,51.96
+Angola,AGO,2008,42.72
+Algeria,DZA,1995,35.33
+Albania,ALB,1996,27.01
+Albania,ALB,2002,32.46
+Albania,ALB,2005,30.6
+Albania,ALB,2008,29.98
+Albania,ALB,2012,28.96
