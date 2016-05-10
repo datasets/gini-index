@@ -26,7 +26,7 @@ def main():
     df.columns.values[0] = 'Country Name'
     
     df = pd.melt(df, id_vars=['Country Name', 'Country Code'], var_name="Year", value_name="Value")     # Unpivoting
-    df = df.sort_values(by=['Country Name', 'Year'], ascending=[False, True]) # Sorting by country
+    df = df.sort_values(by=['Country Name', 'Year'], ascending=[True, True]) # Sorting by country
 
     df.dropna().to_csv('data/gini-index.csv', sep=",", index=False)   # Saving CSV
     print ("File has been saved and it is ready for data packaging.")

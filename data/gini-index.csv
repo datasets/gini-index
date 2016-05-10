@@ -1,1089 +1,145 @@
 Country Name,Country Code,Year,Value
-Zambia,ZMB,1991,60.51
-Zambia,ZMB,1993,52.61
-Zambia,ZMB,1996,48.33
-Zambia,ZMB,1998,49.13
-Zambia,ZMB,2002,42.06
-Zambia,ZMB,2004,54.29
-Zambia,ZMB,2006,54.62
-Zambia,ZMB,2010,55.62
-"Yemen, Rep.",YEM,2005,35.89
-West Bank and Gaza,PSE,2004,33.97
-West Bank and Gaza,PSE,2005,34.72
-West Bank and Gaza,PSE,2006,33.96
-West Bank and Gaza,PSE,2007,35.61
-West Bank and Gaza,PSE,2009,34.46
-Vietnam,VNM,1992,35.65
-Vietnam,VNM,1998,35.44
-Vietnam,VNM,2002,37.32
-Vietnam,VNM,2004,37.17
-Vietnam,VNM,2006,37.44
-Vietnam,VNM,2008,38.15
-Vietnam,VNM,2010,42.68
-Vietnam,VNM,2012,38.7
-"Venezuela, RB",VEN,1981,55.61
-"Venezuela, RB",VEN,1987,53.45
-"Venezuela, RB",VEN,1989,45.3
-"Venezuela, RB",VEN,1992,42.51
-"Venezuela, RB",VEN,1995,47.82
-"Venezuela, RB",VEN,1998,49.8
-"Venezuela, RB",VEN,1999,48.32
-"Venezuela, RB",VEN,2001,48.22
-"Venezuela, RB",VEN,2002,50.56
-"Venezuela, RB",VEN,2003,50.37
-"Venezuela, RB",VEN,2004,49.82
-"Venezuela, RB",VEN,2005,52.36
-"Venezuela, RB",VEN,2006,46.94
-Vanuatu,VUT,2010,37.18
-Uzbekistan,UZB,1988,24.95
-Uzbekistan,UZB,1998,44.67
-Uzbekistan,UZB,2000,36.1
-Uzbekistan,UZB,2002,33.04
-Uzbekistan,UZB,2003,35.27
-Uruguay,URY,1981,43.65
-Uruguay,URY,1989,42.37
-Uruguay,URY,1992,40.2
-Uruguay,URY,1995,42.11
-Uruguay,URY,1996,42.66
-Uruguay,URY,1997,42.73
-Uruguay,URY,1998,43.81
-Uruguay,URY,2000,44.39
-Uruguay,URY,2001,46.17
-Uruguay,URY,2002,46.65
-Uruguay,URY,2003,46.22
-Uruguay,URY,2004,47.14
-Uruguay,URY,2005,45.87
-Uruguay,URY,2006,47.2
-Uruguay,URY,2007,47.63
-Uruguay,URY,2008,46.27
-Uruguay,URY,2009,46.28
-Uruguay,URY,2010,45.32
-Uruguay,URY,2011,43.37
-Uruguay,URY,2012,41.32
-Uruguay,URY,2013,41.87
-United States,USA,1986,37.73
-United States,USA,1991,38.36
-United States,USA,1994,40.35
-United States,USA,1997,40.86
-United States,USA,2000,40.46
-United States,USA,2004,40.62
-United States,USA,2007,41.75
-United States,USA,2010,40.46
-United States,USA,2013,41.06
-United Kingdom,GBR,2004,36.22
-United Kingdom,GBR,2005,34.56
-United Kingdom,GBR,2006,34.84
-United Kingdom,GBR,2007,35.93
-United Kingdom,GBR,2008,34.37
-United Kingdom,GBR,2009,34.67
-United Kingdom,GBR,2010,34.81
-United Kingdom,GBR,2011,33.71
-United Kingdom,GBR,2012,32.57
-Ukraine,UKR,1988,23.31
-Ukraine,UKR,1992,29.71
-Ukraine,UKR,1995,39.29
-Ukraine,UKR,1996,35.16
-Ukraine,UKR,1999,28.96
-Ukraine,UKR,2002,29.05
-Ukraine,UKR,2003,28.66
-Ukraine,UKR,2004,28.93
-Ukraine,UKR,2005,29.02
-Ukraine,UKR,2006,29.79
-Ukraine,UKR,2007,28.57
-Ukraine,UKR,2008,26.64
-Ukraine,UKR,2009,25.32
-Ukraine,UKR,2010,24.82
-Ukraine,UKR,2011,24.55
-Ukraine,UKR,2012,24.74
-Ukraine,UKR,2013,24.55
-Uganda,UGA,1989,44.36
-Uganda,UGA,1992,41.43
-Uganda,UGA,1996,39.04
-Uganda,UGA,1999,43.0
-Uganda,UGA,2002,45.17
-Uganda,UGA,2005,42.94
-Uganda,UGA,2009,44.2
-Uganda,UGA,2012,42.37
-Turkmenistan,TKM,1988,26.39
-Turkmenistan,TKM,1993,35.38
-Turkmenistan,TKM,1998,40.77
-Turkey,TUR,1987,43.48
-Turkey,TUR,1994,41.32
-Turkey,TUR,2002,41.4
-Turkey,TUR,2003,42.18
-Turkey,TUR,2004,41.29
-Turkey,TUR,2005,41.72
-Turkey,TUR,2006,39.65
-Turkey,TUR,2007,38.44
-Turkey,TUR,2008,38.28
-Turkey,TUR,2009,38.97
-Turkey,TUR,2010,38.78
-Turkey,TUR,2011,40.04
-Turkey,TUR,2012,40.17
-Tunisia,TUN,1985,43.43
-Tunisia,TUN,1990,40.24
-Tunisia,TUN,1995,41.66
-Tunisia,TUN,2000,40.81
-Tunisia,TUN,2005,37.73
-Tunisia,TUN,2010,35.81
-Trinidad and Tobago,TTO,1988,42.6
-Trinidad and Tobago,TTO,1992,40.27
-Tonga,TON,2009,38.1
-Togo,TGO,2006,42.21
-Togo,TGO,2011,46.02
-Timor-Leste,TLS,2001,37.56
-Timor-Leste,TLS,2007,31.56
-Thailand,THA,1981,45.22
-Thailand,THA,1988,43.84
-Thailand,THA,1990,45.26
-Thailand,THA,1992,47.86
-Thailand,THA,1994,43.47
-Thailand,THA,1996,42.9
-Thailand,THA,1998,41.46
-Thailand,THA,1999,43.09
-Thailand,THA,2000,42.83
-Thailand,THA,2002,41.94
-Thailand,THA,2004,42.54
-Thailand,THA,2006,41.82
-Thailand,THA,2007,39.76
-Thailand,THA,2008,40.29
-Thailand,THA,2009,39.75
-Thailand,THA,2010,39.4
-Thailand,THA,2011,37.46
-Thailand,THA,2012,39.26
-Tanzania,TZA,1991,35.29
-Tanzania,TZA,2000,37.3
-Tanzania,TZA,2007,40.28
-Tanzania,TZA,2011,37.78
-Tajikistan,TJK,1999,29.54
-Tajikistan,TJK,2003,32.72
-Tajikistan,TJK,2004,33.6
-Tajikistan,TJK,2007,32.19
-Tajikistan,TJK,2009,30.77
-Syrian Arab Republic,SYR,2004,35.77
-Switzerland,CHE,2007,34.47
-Switzerland,CHE,2008,33.96
-Switzerland,CHE,2009,32.96
-Switzerland,CHE,2010,32.72
-Switzerland,CHE,2011,31.83
-Switzerland,CHE,2012,31.64
-Sweden,SWE,2004,26.43
-Sweden,SWE,2005,27.1
-Sweden,SWE,2006,26.47
-Sweden,SWE,2007,26.92
-Sweden,SWE,2008,27.13
-Sweden,SWE,2009,26.61
-Sweden,SWE,2010,26.81
-Sweden,SWE,2011,27.24
-Sweden,SWE,2012,27.32
-Swaziland,SWZ,1994,60.45
-Swaziland,SWZ,2000,53.11
-Swaziland,SWZ,2009,51.45
-Suriname,SUR,1999,57.61
-Sudan,SDN,2009,35.39
-St. Lucia,LCA,1995,42.58
-Sri Lanka,LKA,1985,32.47
-Sri Lanka,LKA,1990,32.45
-Sri Lanka,LKA,1995,35.4
-Sri Lanka,LKA,2002,40.72
-Sri Lanka,LKA,2006,39.97
-Sri Lanka,LKA,2009,36.2
-Sri Lanka,LKA,2012,38.58
-Spain,ESP,2004,33.38
-Spain,ESP,2005,32.5
-Spain,ESP,2006,32.67
-Spain,ESP,2007,33.86
-Spain,ESP,2008,34.8
-Spain,ESP,2009,35.39
-Spain,ESP,2010,35.79
-Spain,ESP,2011,36.1
-Spain,ESP,2012,35.89
-South Africa,ZAF,1993,59.33
-South Africa,ZAF,1995,62.97
-South Africa,ZAF,2000,57.77
-South Africa,ZAF,2006,64.79
-South Africa,ZAF,2008,63.01
-South Africa,ZAF,2011,63.38
-Solomon Islands,SLB,2005,46.1
-Slovenia,SVN,1987,23.6
-Slovenia,SVN,1993,29.18
-Slovenia,SVN,1998,28.41
-Slovenia,SVN,2002,29.12
-Slovenia,SVN,2003,30.87
-Slovenia,SVN,2004,31.15
-Slovenia,SVN,2005,24.63
-Slovenia,SVN,2006,24.48
-Slovenia,SVN,2007,24.37
-Slovenia,SVN,2008,23.72
-Slovenia,SVN,2009,24.83
-Slovenia,SVN,2010,24.94
-Slovenia,SVN,2011,24.87
-Slovenia,SVN,2012,25.59
-Slovak Republic,SVK,1988,19.54
-Slovak Republic,SVK,1992,19.49
-Slovak Republic,SVK,1996,25.81
-Slovak Republic,SVK,2004,28.94
-Slovak Republic,SVK,2005,29.83
-Slovak Republic,SVK,2006,27.71
-Slovak Republic,SVK,2007,28.0
-Slovak Republic,SVK,2008,26.87
-Slovak Republic,SVK,2009,26.02
-Slovak Republic,SVK,2010,27.32
-Slovak Republic,SVK,2011,26.58
-Slovak Republic,SVK,2012,26.12
-Sierra Leone,SLE,2003,40.17
-Sierra Leone,SLE,2011,33.99
-Seychelles,SYC,1999,42.78
-Seychelles,SYC,2006,42.77
-Serbia,SRB,2002,32.74
-Serbia,SRB,2003,32.83
-Serbia,SRB,2004,32.98
-Serbia,SRB,2005,33.43
-Serbia,SRB,2006,29.67
-Serbia,SRB,2007,29.43
-Serbia,SRB,2008,28.18
-Serbia,SRB,2009,28.67
-Serbia,SRB,2010,29.65
-Senegal,SEN,1991,54.14
-Senegal,SEN,1994,41.44
-Senegal,SEN,2001,41.23
-Senegal,SEN,2005,39.22
-Senegal,SEN,2011,40.28
-Sao Tome and Principe,STP,2000,32.13
-Sao Tome and Principe,STP,2010,30.82
-Samoa,WSM,2008,42.69
-Rwanda,RWA,1984,28.9
-Rwanda,RWA,2000,48.55
-Rwanda,RWA,2005,52.04
-Rwanda,RWA,2010,51.34
-Russian Federation,RUS,1988,23.8
-Russian Federation,RUS,1993,48.38
-Russian Federation,RUS,1996,46.1
-Russian Federation,RUS,1997,38.41
-Russian Federation,RUS,1998,38.14
-Russian Federation,RUS,1999,37.44
-Russian Federation,RUS,2000,37.09
-Russian Federation,RUS,2001,39.6
-Russian Federation,RUS,2002,37.28
-Russian Federation,RUS,2003,40.8
-Russian Federation,RUS,2004,40.92
-Russian Federation,RUS,2005,41.37
-Russian Federation,RUS,2006,41.54
-Russian Federation,RUS,2007,42.33
-Russian Federation,RUS,2008,41.42
-Russian Federation,RUS,2009,39.69
-Russian Federation,RUS,2010,40.94
-Russian Federation,RUS,2011,41.04
-Russian Federation,RUS,2012,41.59
-Romania,ROU,1989,23.31
-Romania,ROU,1992,25.46
-Romania,ROU,1994,28.2
-Romania,ROU,1998,31.08
-Romania,ROU,1999,29.42
-Romania,ROU,2000,29.32
-Romania,ROU,2001,29.43
-Romania,ROU,2002,30.23
-Romania,ROU,2003,29.91
-Romania,ROU,2004,30.04
-Romania,ROU,2005,29.82
-Romania,ROU,2006,39.18
-Romania,ROU,2007,37.61
-Romania,ROU,2008,29.4
-Romania,ROU,2009,28.19
-Romania,ROU,2010,28.16
-Romania,ROU,2011,27.21
-Romania,ROU,2012,27.33
-Portugal,PRT,2004,38.9
-Portugal,PRT,2005,38.47
-Portugal,PRT,2006,38.06
-Portugal,PRT,2007,36.75
-Portugal,PRT,2008,36.63
-Portugal,PRT,2009,34.91
-Portugal,PRT,2010,35.84
-Portugal,PRT,2011,36.34
-Portugal,PRT,2012,36.04
-Poland,POL,1985,25.16
-Poland,POL,1987,25.53
-Poland,POL,1989,26.89
-Poland,POL,1992,26.7
-Poland,POL,1996,32.66
-Poland,POL,1998,32.32
-Poland,POL,1999,32.59
-Poland,POL,2000,33.0
-Poland,POL,2001,32.85
-Poland,POL,2002,34.05
-Poland,POL,2003,34.91
-Poland,POL,2004,35.43
-Poland,POL,2005,35.86
-Poland,POL,2006,33.71
-Poland,POL,2007,33.51
-Poland,POL,2008,33.72
-Poland,POL,2009,33.58
-Poland,POL,2010,33.22
-Poland,POL,2011,32.78
-Poland,POL,2012,32.39
-Philippines,PHL,1985,41.04
-Philippines,PHL,1988,40.75
-Philippines,PHL,1991,43.82
-Philippines,PHL,1994,38.52
-Philippines,PHL,1997,45.96
-Philippines,PHL,2000,46.17
-Philippines,PHL,2003,44.04
-Philippines,PHL,2006,44.2
-Philippines,PHL,2009,42.91
-Philippines,PHL,2012,43.04
-Peru,PER,1985,99.91
-Peru,PER,1994,44.02
-Peru,PER,1997,53.72
-Peru,PER,1998,56.14
-Peru,PER,1999,56.34
-Peru,PER,2000,50.77
-Peru,PER,2001,51.83
-Peru,PER,2002,54.04
-Peru,PER,2003,53.71
-Peru,PER,2004,51.2
-Peru,PER,2005,51.84
-Peru,PER,2006,51.67
-Peru,PER,2007,51.35
-Peru,PER,2008,48.55
-Peru,PER,2009,47.96
-Peru,PER,2010,46.21
-Peru,PER,2011,45.48
-Peru,PER,2012,45.11
-Peru,PER,2013,44.73
-Paraguay,PRY,1990,40.84
-Paraguay,PRY,1995,58.16
-Paraguay,PRY,1997,54.89
-Paraguay,PRY,1999,54.58
-Paraguay,PRY,2001,54.83
-Paraguay,PRY,2002,57.34
-Paraguay,PRY,2003,55.55
-Paraguay,PRY,2004,52.59
-Paraguay,PRY,2005,51.37
-Paraguay,PRY,2006,53.63
-Paraguay,PRY,2007,52.09
-Paraguay,PRY,2008,51.04
-Paraguay,PRY,2009,49.67
-Paraguay,PRY,2010,51.83
-Paraguay,PRY,2011,52.6
-Paraguay,PRY,2012,48.17
-Paraguay,PRY,2013,48.3
-Papua New Guinea,PNG,1996,55.43
-Papua New Guinea,PNG,2009,43.88
-Panama,PAN,1989,58.91
-Panama,PAN,1991,58.19
-Panama,PAN,1995,57.81
-Panama,PAN,1997,58.23
-Panama,PAN,1998,57.48
-Panama,PAN,1999,56.46
-Panama,PAN,2000,57.66
-Panama,PAN,2001,57.3
-Panama,PAN,2002,56.59
-Panama,PAN,2003,56.37
-Panama,PAN,2004,55.06
-Panama,PAN,2005,53.99
-Panama,PAN,2006,55.06
-Panama,PAN,2007,52.97
-Panama,PAN,2008,52.63
-Panama,PAN,2009,52.03
-Panama,PAN,2010,51.91
-Panama,PAN,2011,51.83
-Panama,PAN,2012,51.9
-Panama,PAN,2013,51.67
-Pakistan,PAK,1987,33.32
-Pakistan,PAK,1990,33.25
-Pakistan,PAK,1996,28.67
-Pakistan,PAK,1998,33.12
-Pakistan,PAK,2001,30.5
-Pakistan,PAK,2004,32.33
-Pakistan,PAK,2005,32.69
-Pakistan,PAK,2007,31.42
-Pakistan,PAK,2010,29.59
-Norway,NOR,2004,31.72
-Norway,NOR,2005,32.27
-Norway,NOR,2006,27.29
-Norway,NOR,2007,28.07
-Norway,NOR,2008,27.14
-Norway,NOR,2009,26.39
-Norway,NOR,2010,25.86
-Norway,NOR,2011,25.54
-Norway,NOR,2012,25.9
-Nigeria,NGA,1985,38.68
-Nigeria,NGA,1992,44.98
-Nigeria,NGA,1996,51.92
-Nigeria,NGA,2003,40.06
-Nigeria,NGA,2009,42.97
-Niger,NER,1992,36.1
-Niger,NER,1994,41.53
-Niger,NER,2005,44.43
-Niger,NER,2007,37.3
-Niger,NER,2011,31.45
-Nicaragua,NIC,1993,50.36
-Nicaragua,NIC,1998,45.16
-Nicaragua,NIC,2001,43.08
-Nicaragua,NIC,2005,40.49
-Nicaragua,NIC,2009,45.73
-Netherlands,NLD,2004,30.74
-Netherlands,NLD,2005,29.86
-Netherlands,NLD,2006,30.76
-Netherlands,NLD,2007,30.35
-Netherlands,NLD,2008,29.93
-Netherlands,NLD,2009,28.38
-Netherlands,NLD,2010,28.73
-Netherlands,NLD,2011,28.17
-Netherlands,NLD,2012,27.99
-Nepal,NPL,1984,30.06
-Nepal,NPL,1995,35.21
-Nepal,NPL,2003,43.26
-Nepal,NPL,2010,32.75
-Namibia,NAM,2003,63.32
-Namibia,NAM,2009,60.97
-Mozambique,MOZ,1996,44.41
-Mozambique,MOZ,2002,47.04
-Mozambique,MOZ,2008,45.58
-Morocco,MAR,1984,39.19
-Morocco,MAR,1990,39.2
-Morocco,MAR,1998,39.46
-Morocco,MAR,2000,40.64
-Morocco,MAR,2007,40.72
-Montenegro,MNE,2005,30.14
-Montenegro,MNE,2006,29.39
-Montenegro,MNE,2007,30.82
-Montenegro,MNE,2008,30.01
-Montenegro,MNE,2009,30.27
-Montenegro,MNE,2010,28.6
-Montenegro,MNE,2011,30.63
-Montenegro,MNE,2012,32.16
-Montenegro,MNE,2013,33.19
-Mongolia,MNG,1995,33.2
-Mongolia,MNG,1998,30.27
-Mongolia,MNG,2002,32.89
-Mongolia,MNG,2007,35.82
-Mongolia,MNG,2010,33.08
-Mongolia,MNG,2011,33.88
-Mongolia,MNG,2012,33.75
-Moldova,MDA,1988,24.14
-Moldova,MDA,1992,34.32
-Moldova,MDA,1997,36.94
-Moldova,MDA,1998,39.52
-Moldova,MDA,1999,42.62
-Moldova,MDA,2000,36.43
-Moldova,MDA,2001,38.16
-Moldova,MDA,2002,35.76
-Moldova,MDA,2003,35.26
-Moldova,MDA,2004,35.35
-Moldova,MDA,2005,36.28
-Moldova,MDA,2006,35.4
-Moldova,MDA,2007,34.42
-Moldova,MDA,2008,34.69
-Moldova,MDA,2009,32.91
-Moldova,MDA,2010,32.05
-Moldova,MDA,2011,30.63
-Moldova,MDA,2012,29.16
-Moldova,MDA,2013,28.53
-"Micronesia, Fed. Sts.",FSM,2000,61.18
-Mexico,MEX,1984,48.95
-Mexico,MEX,1989,54.34
-Mexico,MEX,1992,50.95
-Mexico,MEX,1994,51.7
-Mexico,MEX,1996,48.47
-Mexico,MEX,1998,48.97
-Mexico,MEX,2000,51.67
-Mexico,MEX,2002,49.54
-Mexico,MEX,2004,46.03
-Mexico,MEX,2005,51.11
-Mexico,MEX,2006,48.01
-Mexico,MEX,2008,48.23
-Mexico,MEX,2010,48.13
-Mexico,MEX,2012,48.07
-Mauritius,MUS,2006,35.65
-Mauritius,MUS,2012,35.84
-Mauritania,MRT,1987,43.94
-Mauritania,MRT,1993,50.05
-Mauritania,MRT,1995,37.75
-Mauritania,MRT,2000,39.03
-Mauritania,MRT,2004,40.17
-Mauritania,MRT,2008,37.48
-Mali,MLI,1994,50.44
-Mali,MLI,2001,39.87
-Mali,MLI,2006,38.93
-Mali,MLI,2009,33.04
-Maldives,MDV,1998,62.68
-Maldives,MDV,2004,37.37
-Maldives,MDV,2009,36.78
-Malaysia,MYS,1984,48.62
-Malaysia,MYS,1987,47.04
-Malaysia,MYS,1989,46.17
-Malaysia,MYS,1992,47.65
-Malaysia,MYS,1995,48.52
-Malaysia,MYS,1997,49.15
-Malaysia,MYS,2004,46.05
-Malaysia,MYS,2007,46.0
-Malaysia,MYS,2009,46.26
-Malawi,MWI,1997,65.76
-Malawi,MWI,2004,39.87
-Malawi,MWI,2010,46.12
-Madagascar,MDG,1993,45.26
-Madagascar,MDG,1997,39.47
-Madagascar,MDG,1999,38.61
-Madagascar,MDG,2001,47.44
-Madagascar,MDG,2005,38.88
-Madagascar,MDG,2010,40.63
-"Macedonia, FYR",MKD,1998,28.13
-"Macedonia, FYR",MKD,2000,34.26
-"Macedonia, FYR",MKD,2002,38.51
-"Macedonia, FYR",MKD,2003,38.72
-"Macedonia, FYR",MKD,2004,38.77
-"Macedonia, FYR",MKD,2005,39.31
-"Macedonia, FYR",MKD,2006,42.64
-"Macedonia, FYR",MKD,2008,44.05
-Luxembourg,LUX,2004,30.25
-Luxembourg,LUX,2005,31.11
-Luxembourg,LUX,2006,30.96
-Luxembourg,LUX,2007,31.28
-Luxembourg,LUX,2008,32.61
-Luxembourg,LUX,2009,31.53
-Luxembourg,LUX,2010,30.9
-Luxembourg,LUX,2011,32.42
-Luxembourg,LUX,2012,34.79
-Lithuania,LTU,1988,22.48
-Lithuania,LTU,1993,33.64
-Lithuania,LTU,1996,32.26
-Lithuania,LTU,1998,32.1
-Lithuania,LTU,1999,32.02
-Lithuania,LTU,2000,31.67
-Lithuania,LTU,2001,32.01
-Lithuania,LTU,2002,31.92
-Lithuania,LTU,2003,35.46
-Lithuania,LTU,2004,35.2
-Lithuania,LTU,2005,35.3
-Lithuania,LTU,2006,34.44
-Lithuania,LTU,2007,34.59
-Lithuania,LTU,2008,37.06
-Lithuania,LTU,2009,37.33
-Lithuania,LTU,2010,33.76
-Lithuania,LTU,2011,32.63
-Lithuania,LTU,2012,35.15
-Liberia,LBR,2007,36.48
-Lesotho,LSO,1986,56.02
-Lesotho,LSO,1994,63.24
-Lesotho,LSO,2002,51.57
-Lesotho,LSO,2010,54.18
-Latvia,LVA,1988,22.49
-Latvia,LVA,1993,26.99
-Latvia,LVA,1995,30.98
-Latvia,LVA,1996,31.64
-Latvia,LVA,1997,32.65
-Latvia,LVA,1998,33.1
-Latvia,LVA,2002,35.09
-Latvia,LVA,2003,36.53
-Latvia,LVA,2004,34.96
-Latvia,LVA,2005,39.4
-Latvia,LVA,2006,35.6
-Latvia,LVA,2007,36.05
-Latvia,LVA,2008,35.82
-Latvia,LVA,2009,34.83
-Latvia,LVA,2010,35.27
-Latvia,LVA,2011,36.03
-Latvia,LVA,2012,35.48
-Lao PDR,LAO,1992,34.31
-Lao PDR,LAO,1997,34.9
-Lao PDR,LAO,2002,34.66
-Lao PDR,LAO,2007,36.64
-Lao PDR,LAO,2012,37.89
-Kyrgyz Republic,KGZ,1988,26.01
-Kyrgyz Republic,KGZ,1993,53.7
-Kyrgyz Republic,KGZ,1998,46.4
-Kyrgyz Republic,KGZ,2000,31.03
-Kyrgyz Republic,KGZ,2001,30.16
-Kyrgyz Republic,KGZ,2002,30.3
-Kyrgyz Republic,KGZ,2003,28.71
-Kyrgyz Republic,KGZ,2004,34.77
-Kyrgyz Republic,KGZ,2005,38.32
-Kyrgyz Republic,KGZ,2006,38.4
-Kyrgyz Republic,KGZ,2007,33.43
-Kyrgyz Republic,KGZ,2008,32.06
-Kyrgyz Republic,KGZ,2009,29.83
-Kyrgyz Republic,KGZ,2010,29.89
-Kyrgyz Republic,KGZ,2011,27.77
-Kyrgyz Republic,KGZ,2012,27.37
-Kosovo,KSV,2003,28.95
-Kosovo,KSV,2005,31.24
-Kosovo,KSV,2006,30.32
-Kosovo,KSV,2009,31.78
-Kosovo,KSV,2010,33.25
-Kosovo,KSV,2011,27.83
-Kosovo,KSV,2012,29.4
-Kosovo,KSV,2013,26.71
-Kiribati,KIR,2006,37.61
-Kenya,KEN,1992,57.46
-Kenya,KEN,1994,43.86
-Kenya,KEN,1997,46.3
-Kenya,KEN,2005,48.51
-Kazakhstan,KAZ,1988,25.74
-Kazakhstan,KAZ,1993,32.67
-Kazakhstan,KAZ,1996,35.38
-Kazakhstan,KAZ,2001,35.29
-Kazakhstan,KAZ,2002,34.05
-Kazakhstan,KAZ,2003,33.15
-Kazakhstan,KAZ,2004,31.47
-Kazakhstan,KAZ,2005,29.65
-Kazakhstan,KAZ,2006,29.99
-Kazakhstan,KAZ,2007,28.54
-Kazakhstan,KAZ,2008,29.07
-Kazakhstan,KAZ,2009,28.79
-Kazakhstan,KAZ,2010,28.56
-Kazakhstan,KAZ,2011,27.42
-Kazakhstan,KAZ,2012,27.43
-Kazakhstan,KAZ,2013,26.35
-Jordan,JOR,1986,36.06
-Jordan,JOR,1992,43.36
-Jordan,JOR,1997,36.42
-Jordan,JOR,2002,36.95
-Jordan,JOR,2006,33.86
-Jordan,JOR,2008,32.57
-Jordan,JOR,2010,33.66
-Japan,JPN,2008,32.11
-Jamaica,JAM,1988,43.16
-Jamaica,JAM,1990,41.11
-Jamaica,JAM,1993,35.67
-Jamaica,JAM,1996,40.39
-Jamaica,JAM,1999,44.08
-Jamaica,JAM,2002,48.32
-Jamaica,JAM,2004,45.46
-Italy,ITA,2004,34.53
-Italy,ITA,2005,34.07
-Italy,ITA,2006,34.26
-Italy,ITA,2007,33.19
-Italy,ITA,2008,33.74
-Italy,ITA,2009,33.66
-Italy,ITA,2010,34.41
-Italy,ITA,2011,34.52
-Italy,ITA,2012,35.16
-Israel,ISR,1986,36.49
-Israel,ISR,1992,35.5
-Israel,ISR,1997,38.1
-Israel,ISR,2001,39.2
-Israel,ISR,2005,41.86
-Israel,ISR,2007,41.18
-Israel,ISR,2010,42.78
-Ireland,IRL,2004,33.72
-Ireland,IRL,2005,33.76
-Ireland,IRL,2006,32.73
-Ireland,IRL,2007,31.96
-Ireland,IRL,2008,30.91
-Ireland,IRL,2009,32.84
-Ireland,IRL,2010,32.3
-Ireland,IRL,2011,32.33
-Ireland,IRL,2012,32.52
-Iraq,IRQ,2012,29.54
-"Iran, Islamic Rep.",IRN,1986,47.42
-"Iran, Islamic Rep.",IRN,1990,43.6
-"Iran, Islamic Rep.",IRN,1994,43.0
-"Iran, Islamic Rep.",IRN,1998,44.1
-"Iran, Islamic Rep.",IRN,2005,38.34
-"Iran, Islamic Rep.",IRN,2009,42.02
-"Iran, Islamic Rep.",IRN,2013,37.35
-Indonesia,IDN,1984,30.47
-Indonesia,IDN,1987,29.27
-Indonesia,IDN,1990,29.19
-Indonesia,IDN,1993,29.31
-Indonesia,IDN,1996,31.33
-Indonesia,IDN,1999,28.99
-Indonesia,IDN,2002,29.74
-Indonesia,IDN,2005,34.01
-Indonesia,IDN,2008,34.11
-Indonesia,IDN,2010,35.57
-India,IND,1983,31.11
-India,IND,1987,31.88
-India,IND,1993,30.82
-India,IND,2004,33.38
-India,IND,2009,33.9
-Iceland,ISL,2004,28.11
-Iceland,ISL,2005,29.38
-Iceland,ISL,2006,30.25
-Iceland,ISL,2007,29.58
-Iceland,ISL,2008,31.89
-Iceland,ISL,2009,28.74
-Iceland,ISL,2010,26.43
-Iceland,ISL,2011,27.03
-Iceland,ISL,2012,26.94
-Hungary,HUN,1987,20.96
-Hungary,HUN,1989,25.05
-Hungary,HUN,1993,27.94
-Hungary,HUN,1998,26.38
-Hungary,HUN,1999,27.64
-Hungary,HUN,2000,27.22
-Hungary,HUN,2001,26.92
-Hungary,HUN,2002,26.84
-Hungary,HUN,2003,30.93
-Hungary,HUN,2004,30.02
-Hungary,HUN,2005,30.19
-Hungary,HUN,2006,28.3
-Hungary,HUN,2007,31.16
-Hungary,HUN,2008,27.53
-Hungary,HUN,2009,26.97
-Hungary,HUN,2010,29.37
-Hungary,HUN,2011,28.94
-Hungary,HUN,2012,30.55
-Honduras,HND,1986,55.09
-Honduras,HND,1989,59.49
-Honduras,HND,1990,57.36
-Honduras,HND,1991,51.85
-Honduras,HND,1992,51.83
-Honduras,HND,1993,53.47
-Honduras,HND,1994,55.01
-Honduras,HND,1995,55.49
-Honduras,HND,1996,55.72
-Honduras,HND,1997,52.73
-Honduras,HND,1998,57.43
-Honduras,HND,1999,55.35
-Honduras,HND,2001,54.08
-Honduras,HND,2002,58.78
-Honduras,HND,2003,58.66
-Honduras,HND,2004,58.41
-Honduras,HND,2005,59.51
-Honduras,HND,2006,57.42
-Honduras,HND,2007,56.16
-Honduras,HND,2008,55.74
-Honduras,HND,2009,51.56
-Honduras,HND,2010,53.39
-Honduras,HND,2011,57.4
-Honduras,HND,2012,57.4
-Honduras,HND,2013,53.67
-Haiti,HTI,2001,59.48
-Haiti,HTI,2012,60.79
-Guyana,GUY,1998,44.55
-Guinea-Bissau,GNB,1993,43.61
-Guinea-Bissau,GNB,2002,35.57
-Guinea-Bissau,GNB,2010,50.66
-Guinea,GIN,1991,46.84
-Guinea,GIN,1994,46.08
-Guinea,GIN,2002,43.0
-Guinea,GIN,2007,39.36
-Guinea,GIN,2012,33.73
-Guatemala,GTM,1986,58.26
-Guatemala,GTM,1989,59.6
-Guatemala,GTM,2000,54.84
-Guatemala,GTM,2002,56.94
-Guatemala,GTM,2003,54.1
-Guatemala,GTM,2004,50.73
-Guatemala,GTM,2006,54.89
-Guatemala,GTM,2011,52.35
-Greece,GRC,2004,33.97
-Greece,GRC,2005,35.1
-Greece,GRC,2006,35.41
-Greece,GRC,2007,34.61
-Greece,GRC,2008,34.22
-Greece,GRC,2009,33.82
-Greece,GRC,2010,34.48
-Greece,GRC,2011,35.69
-Greece,GRC,2012,36.68
-Ghana,GHA,1987,35.35
-Ghana,GHA,1988,35.99
-Ghana,GHA,1991,38.44
-Ghana,GHA,1998,40.07
-Ghana,GHA,2005,42.77
-Germany,DEU,2006,32.78
-Germany,DEU,2007,32.4
-Germany,DEU,2008,31.29
-Germany,DEU,2009,31.51
-Germany,DEU,2010,31.14
-Germany,DEU,2011,30.13
-Georgia,GEO,1996,37.13
-Georgia,GEO,1997,41.95
-Georgia,GEO,1998,41.25
-Georgia,GEO,1999,40.15
-Georgia,GEO,2000,40.48
-Georgia,GEO,2001,39.57
-Georgia,GEO,2002,39.63
-Georgia,GEO,2003,39.53
-Georgia,GEO,2004,39.78
-Georgia,GEO,2005,40.34
-Georgia,GEO,2006,40.09
-Georgia,GEO,2007,40.6
-Georgia,GEO,2008,40.57
-Georgia,GEO,2009,41.74
-Georgia,GEO,2010,42.13
-Georgia,GEO,2011,41.58
-Georgia,GEO,2012,41.35
-Georgia,GEO,2013,40.03
-"Gambia, The",GMB,1998,47.56
-"Gambia, The",GMB,2003,47.33
-Gabon,GAB,2005,42.18
-France,FRA,2004,30.8
-France,FRA,2005,29.93
-France,FRA,2006,29.92
-France,FRA,2007,32.63
-France,FRA,2008,33.08
-France,FRA,2010,33.78
-France,FRA,2011,33.35
-France,FRA,2012,33.1
-Finland,FIN,2004,27.92
-Finland,FIN,2005,27.64
-Finland,FIN,2006,28.02
-Finland,FIN,2007,28.29
-Finland,FIN,2008,27.85
-Finland,FIN,2009,27.47
-Finland,FIN,2010,27.74
-Finland,FIN,2011,27.66
-Finland,FIN,2012,27.12
-Fiji,FJI,2002,39.62
-Fiji,FJI,2008,42.78
-Ethiopia,ETH,1981,32.42
-Ethiopia,ETH,1995,44.56
-Ethiopia,ETH,1999,29.98
-Ethiopia,ETH,2004,29.81
-Ethiopia,ETH,2010,33.17
-Estonia,EST,1988,22.97
-Estonia,EST,1993,39.5
-Estonia,EST,1995,30.06
-Estonia,EST,1998,37.64
-Estonia,EST,2000,35.78
-Estonia,EST,2001,36.01
-Estonia,EST,2002,35.79
-Estonia,EST,2003,34.91
-Estonia,EST,2004,35.38
-Estonia,EST,2005,33.63
-Estonia,EST,2006,33.75
-Estonia,EST,2007,31.25
-Estonia,EST,2008,32.0
-Estonia,EST,2009,31.59
-Estonia,EST,2010,32.16
-Estonia,EST,2011,32.69
-Estonia,EST,2012,33.15
-El Salvador,SLV,1991,53.95
-El Salvador,SLV,1995,49.88
-El Salvador,SLV,1996,51.39
-El Salvador,SLV,1998,54.52
-El Salvador,SLV,1999,52.2
-El Salvador,SLV,2000,51.31
-El Salvador,SLV,2001,51.14
-El Salvador,SLV,2002,51.54
-El Salvador,SLV,2003,50.72
-El Salvador,SLV,2004,47.38
-El Salvador,SLV,2005,47.88
-El Salvador,SLV,2006,45.44
-El Salvador,SLV,2007,45.24
-El Salvador,SLV,2008,46.65
-El Salvador,SLV,2009,45.93
-El Salvador,SLV,2010,44.53
-El Salvador,SLV,2011,42.43
-El Salvador,SLV,2012,41.8
-El Salvador,SLV,2013,43.51
-"Egypt, Arab Rep.",EGY,2008,30.75
-Ecuador,ECU,1987,50.49
-Ecuador,ECU,1994,53.37
-Ecuador,ECU,1995,50.97
-Ecuador,ECU,1998,49.66
-Ecuador,ECU,1999,58.6
-Ecuador,ECU,2000,56.38
-Ecuador,ECU,2003,54.99
-Ecuador,ECU,2004,54.12
-Ecuador,ECU,2005,54.12
-Ecuador,ECU,2006,53.2
-Ecuador,ECU,2007,54.33
-Ecuador,ECU,2008,50.61
-Ecuador,ECU,2009,49.28
-Ecuador,ECU,2010,49.25
-Ecuador,ECU,2011,46.21
-Ecuador,ECU,2012,46.57
-Ecuador,ECU,2013,47.29
-Dominican Republic,DOM,1986,47.78
-Dominican Republic,DOM,1989,50.46
-Dominican Republic,DOM,1992,51.36
-Dominican Republic,DOM,1996,47.43
-Dominican Republic,DOM,1997,48.92
-Dominican Republic,DOM,2000,52.01
-Dominican Republic,DOM,2001,50.43
-Dominican Republic,DOM,2002,50.12
-Dominican Republic,DOM,2003,52.09
-Dominican Republic,DOM,2004,51.95
-Dominican Republic,DOM,2005,49.96
-Dominican Republic,DOM,2006,51.9
-Dominican Republic,DOM,2007,48.69
-Dominican Republic,DOM,2008,49.0
-Dominican Republic,DOM,2009,48.86
-Dominican Republic,DOM,2010,47.2
-Dominican Republic,DOM,2011,47.4
-Dominican Republic,DOM,2012,45.68
-Dominican Republic,DOM,2013,47.07
-Djibouti,DJI,2002,40.0
-Djibouti,DJI,2012,45.13
-Denmark,DNK,2004,25.89
-Denmark,DNK,2005,25.94
-Denmark,DNK,2006,27.08
-Denmark,DNK,2007,26.85
-Denmark,DNK,2008,28.89
-Denmark,DNK,2009,28.84
-Denmark,DNK,2010,29.02
-Denmark,DNK,2011,29.54
-Denmark,DNK,2012,29.08
-Czech Republic,CZE,1988,19.4
-Czech Republic,CZE,1993,26.6
-Czech Republic,CZE,1996,25.82
-Czech Republic,CZE,2004,27.53
-Czech Republic,CZE,2005,26.95
-Czech Republic,CZE,2006,26.74
-Czech Republic,CZE,2007,26.0
-Czech Republic,CZE,2008,26.29
-Czech Republic,CZE,2009,26.18
-Czech Republic,CZE,2010,26.63
-Czech Republic,CZE,2011,26.39
-Czech Republic,CZE,2012,26.13
-Cyprus,CYP,2004,30.09
-Cyprus,CYP,2005,30.26
-Cyprus,CYP,2006,31.13
-Cyprus,CYP,2007,31.11
-Cyprus,CYP,2008,31.71
-Cyprus,CYP,2009,32.11
-Cyprus,CYP,2010,31.46
-Cyprus,CYP,2011,32.63
-Cyprus,CYP,2012,34.31
-Croatia,HRV,1988,22.78
-Croatia,HRV,1998,28.75
-Croatia,HRV,1999,27.71
-Croatia,HRV,2000,31.33
-Croatia,HRV,2001,31.1
-Croatia,HRV,2004,29.68
-Croatia,HRV,2008,33.71
-Croatia,HRV,2009,33.18
-Croatia,HRV,2010,27.35
-Croatia,HRV,2011,31.98
-Cote d'Ivoire,CIV,1985,45.53
-Cote d'Ivoire,CIV,1986,37.97
-Cote d'Ivoire,CIV,1987,40.51
-Cote d'Ivoire,CIV,1988,36.89
-Cote d'Ivoire,CIV,1992,39.39
-Cote d'Ivoire,CIV,1993,39.35
-Cote d'Ivoire,CIV,1995,40.56
-Cote d'Ivoire,CIV,1998,38.96
-Cote d'Ivoire,CIV,2002,41.34
-Cote d'Ivoire,CIV,2008,43.18
-Costa Rica,CRI,1981,47.49
-Costa Rica,CRI,1986,34.42
-Costa Rica,CRI,1989,46.69
-Costa Rica,CRI,1990,45.3
-Costa Rica,CRI,1991,46.65
-Costa Rica,CRI,1992,45.71
-Costa Rica,CRI,1993,46.0
-Costa Rica,CRI,1994,46.75
-Costa Rica,CRI,1995,45.71
-Costa Rica,CRI,1996,46.54
-Costa Rica,CRI,1997,45.62
-Costa Rica,CRI,1998,45.67
-Costa Rica,CRI,1999,47.67
-Costa Rica,CRI,2000,47.44
-Costa Rica,CRI,2001,51.1
-Costa Rica,CRI,2002,50.89
-Costa Rica,CRI,2003,49.93
-Costa Rica,CRI,2004,48.92
-Costa Rica,CRI,2005,47.77
-Costa Rica,CRI,2006,49.31
-Costa Rica,CRI,2007,49.49
-Costa Rica,CRI,2008,49.14
-Costa Rica,CRI,2009,50.97
-Costa Rica,CRI,2010,48.1
-Costa Rica,CRI,2011,48.6
-Costa Rica,CRI,2012,48.61
-Costa Rica,CRI,2013,49.18
-"Congo, Rep.",COG,2005,47.33
-"Congo, Rep.",COG,2011,40.16
-"Congo, Dem. Rep.",COD,2004,44.21
-"Congo, Dem. Rep.",COD,2012,42.1
-Comoros,COM,2004,55.93
-Colombia,COL,1988,53.11
-Colombia,COL,1989,53.59
-Colombia,COL,1991,51.32
-Colombia,COL,1992,51.45
-Colombia,COL,1996,56.93
-Colombia,COL,1999,58.74
-Colombia,COL,2000,58.68
-Colombia,COL,2001,57.76
-Colombia,COL,2002,58.26
-Colombia,COL,2003,54.41
-Colombia,COL,2004,56.11
-Colombia,COL,2005,55.04
-Colombia,COL,2006,60.08
-Colombia,COL,2007,59.37
-Colombia,COL,2008,56.04
-Colombia,COL,2009,55.92
-Colombia,COL,2010,55.5
-Colombia,COL,2011,54.18
-Colombia,COL,2012,53.54
-Colombia,COL,2013,53.49
-China,CHN,1981,29.11
-China,CHN,1984,27.69
-China,CHN,1987,29.85
-China,CHN,1990,32.43
-China,CHN,1993,35.5
-China,CHN,1996,35.7
-China,CHN,1999,39.23
-China,CHN,2002,42.59
-China,CHN,2005,42.48
-China,CHN,2008,42.63
-China,CHN,2010,42.06
-Chile,CHL,1987,56.21
-Chile,CHL,1990,57.25
-Chile,CHL,1992,54.81
-Chile,CHL,1994,56.43
-Chile,CHL,1996,54.87
-Chile,CHL,1998,55.52
-Chile,CHL,2000,55.25
-Chile,CHL,2003,54.74
-Chile,CHL,2006,51.79
-Chile,CHL,2009,52.0
-Chile,CHL,2011,50.84
-Chile,CHL,2013,50.45
-Chad,TCD,2003,39.82
-Chad,TCD,2011,43.32
-Central African Republic,CAF,1992,61.33
-Central African Republic,CAF,2003,43.61
-Central African Republic,CAF,2008,56.24
-Canada,CAN,1981,32.6
-Canada,CAN,1987,31.6
-Canada,CAN,1991,31.15
-Canada,CAN,1994,31.39
-Canada,CAN,1997,31.77
-Canada,CAN,1998,33.59
-Canada,CAN,2000,33.65
-Canada,CAN,2004,33.88
-Canada,CAN,2007,33.9
-Canada,CAN,2010,33.68
-Cameroon,CMR,1996,44.45
-Cameroon,CMR,2001,42.14
-Cameroon,CMR,2007,42.82
-Cambodia,KHM,1994,38.15
-Cambodia,KHM,2004,35.46
-Cambodia,KHM,2007,41.14
-Cambodia,KHM,2008,35.1
-Cambodia,KHM,2009,34.65
-Cambodia,KHM,2010,33.44
-Cambodia,KHM,2011,31.7
-Cambodia,KHM,2012,30.76
-Cabo Verde,CPV,2001,52.5
-Cabo Verde,CPV,2007,47.19
-Burundi,BDI,1992,33.33
-Burundi,BDI,1998,42.35
-Burundi,BDI,2006,33.36
-Burkina Faso,BFA,1994,48.07
-Burkina Faso,BFA,1998,49.94
-Burkina Faso,BFA,2003,43.25
-Burkina Faso,BFA,2009,39.76
-Bulgaria,BGR,1989,23.43
-Bulgaria,BGR,1992,30.71
-Bulgaria,BGR,1994,24.32
-Bulgaria,BGR,1995,35.4
-Bulgaria,BGR,1997,26.38
-Bulgaria,BGR,2001,32.68
-Bulgaria,BGR,2003,28.92
-Bulgaria,BGR,2006,35.73
-Bulgaria,BGR,2007,28.14
-Bulgaria,BGR,2008,33.57
-Bulgaria,BGR,2009,33.82
-Bulgaria,BGR,2010,35.65
-Bulgaria,BGR,2011,34.28
-Bulgaria,BGR,2012,36.01
+Albania,ALB,1996,27.01
+Albania,ALB,2002,32.46
+Albania,ALB,2005,30.6
+Albania,ALB,2008,29.98
+Albania,ALB,2012,28.96
+Algeria,DZA,1995,35.33
+Angola,AGO,2000,51.96
+Angola,AGO,2008,42.72
+Argentina,ARG,1986,42.79
+Argentina,ARG,1987,45.28
+Argentina,ARG,1991,46.76
+Argentina,ARG,1992,45.47
+Argentina,ARG,1993,44.86
+Argentina,ARG,1994,45.92
+Argentina,ARG,1995,48.9
+Argentina,ARG,1996,49.52
+Argentina,ARG,1997,49.11
+Argentina,ARG,1998,50.73
+Argentina,ARG,1999,49.79
+Argentina,ARG,2000,51.06
+Argentina,ARG,2001,53.34
+Argentina,ARG,2002,53.79
+Argentina,ARG,2003,53.54
+Argentina,ARG,2004,50.18
+Argentina,ARG,2005,49.27
+Argentina,ARG,2006,48.26
+Argentina,ARG,2007,47.37
+Argentina,ARG,2008,46.27
+Argentina,ARG,2009,45.27
+Argentina,ARG,2010,44.5
+Argentina,ARG,2011,43.57
+Argentina,ARG,2012,42.49
+Argentina,ARG,2013,42.28
+Armenia,ARM,1996,44.42
+Armenia,ARM,1999,36.22
+Armenia,ARM,2001,35.37
+Armenia,ARM,2002,34.78
+Armenia,ARM,2003,33.03
+Armenia,ARM,2004,37.51
+Armenia,ARM,2005,35.99
+Armenia,ARM,2006,32.49
+Armenia,ARM,2007,29.83
+Armenia,ARM,2008,30.71
+Armenia,ARM,2009,29.58
+Armenia,ARM,2010,31.07
+Armenia,ARM,2011,31.32
+Armenia,ARM,2012,30.48
+Armenia,ARM,2013,31.54
+Australia,AUS,1981,31.33
+Australia,AUS,1985,32.5
+Australia,AUS,1989,33.15
+Australia,AUS,1995,33.72
+Australia,AUS,2001,34.14
+Australia,AUS,2003,34.01
+Australia,AUS,2008,35.63
+Australia,AUS,2010,34.94
+Austria,AUT,2004,29.87
+Austria,AUT,2005,28.72
+Austria,AUT,2006,29.59
+Austria,AUT,2007,30.58
+Austria,AUT,2008,30.45
+Austria,AUT,2009,31.5
+Austria,AUT,2010,30.25
+Austria,AUT,2011,30.8
+Austria,AUT,2012,30.48
+Azerbaijan,AZE,1995,34.65
+Azerbaijan,AZE,2001,36.45
+Azerbaijan,AZE,2002,17.36
+Azerbaijan,AZE,2003,18.81
+Azerbaijan,AZE,2004,16.23
+Azerbaijan,AZE,2005,16.64
+Bangladesh,BGD,1983,25.88
+Bangladesh,BGD,1985,26.92
+Bangladesh,BGD,1988,28.85
+Bangladesh,BGD,1991,27.57
+Bangladesh,BGD,1995,32.94
+Bangladesh,BGD,2000,33.06
+Bangladesh,BGD,2005,32.73
+Bangladesh,BGD,2010,31.98
+Belarus,BLR,1988,22.76
+Belarus,BLR,1993,21.6
+Belarus,BLR,1995,28.76
+Belarus,BLR,1998,30.67
+Belarus,BLR,1999,31.31
+Belarus,BLR,2000,29.72
+Belarus,BLR,2001,30.97
+Belarus,BLR,2002,30.18
+Belarus,BLR,2003,29.52
+Belarus,BLR,2004,26.59
+Belarus,BLR,2005,27.78
+Belarus,BLR,2006,28.17
+Belarus,BLR,2007,28.78
+Belarus,BLR,2008,27.22
+Belarus,BLR,2009,27.69
+Belarus,BLR,2010,27.72
+Belarus,BLR,2011,26.46
+Belarus,BLR,2012,26.01
+Belgium,BEL,2004,30.63
+Belgium,BEL,2005,29.88
+Belgium,BEL,2006,28.26
+Belgium,BEL,2007,29.57
+Belgium,BEL,2008,29.0
+Belgium,BEL,2009,28.7
+Belgium,BEL,2010,28.53
+Belgium,BEL,2011,28.43
+Belgium,BEL,2012,27.59
+Belize,BLZ,1993,60.25
+Belize,BLZ,1994,60.91
+Belize,BLZ,1995,57.55
+Belize,BLZ,1996,56.59
+Belize,BLZ,1997,60.43
+Belize,BLZ,1998,54.91
+Belize,BLZ,1999,53.26
+Benin,BEN,2003,38.58
+Benin,BEN,2011,43.44
+Bhutan,BTN,2003,69.47
+Bhutan,BTN,2007,38.09
+Bhutan,BTN,2012,38.65
+Bolivia,BOL,1990,42.04
+Bolivia,BOL,1993,49.11
+Bolivia,BOL,1997,58.16
+Bolivia,BOL,1999,58.1
+Bolivia,BOL,2000,63.0
+Bolivia,BOL,2001,58.88
+Bolivia,BOL,2002,60.16
+Bolivia,BOL,2004,55.01
+Bolivia,BOL,2005,58.47
+Bolivia,BOL,2006,56.87
+Bolivia,BOL,2007,55.44
+Bolivia,BOL,2008,51.43
+Bolivia,BOL,2009,49.65
+Bolivia,BOL,2011,46.26
+Bolivia,BOL,2012,46.7
+Bolivia,BOL,2013,48.06
+Bosnia and Herzegovina,BIH,2001,29.3
+Bosnia and Herzegovina,BIH,2004,34.04
+Bosnia and Herzegovina,BIH,2007,33.04
+Botswana,BWA,1985,54.21
+Botswana,BWA,1993,60.79
+Botswana,BWA,2002,64.73
+Botswana,BWA,2009,60.46
 Brazil,BRA,1981,57.93
 Brazil,BRA,1982,58.42
 Brazil,BRA,1983,58.99
@@ -1113,144 +169,1088 @@ Brazil,BRA,2009,53.87
 Brazil,BRA,2011,53.1
 Brazil,BRA,2012,52.67
 Brazil,BRA,2013,52.87
-Botswana,BWA,1985,54.21
-Botswana,BWA,1993,60.79
-Botswana,BWA,2002,64.73
-Botswana,BWA,2009,60.46
-Bosnia and Herzegovina,BIH,2001,29.3
-Bosnia and Herzegovina,BIH,2004,34.04
-Bosnia and Herzegovina,BIH,2007,33.04
-Bolivia,BOL,1990,42.04
-Bolivia,BOL,1993,49.11
-Bolivia,BOL,1997,58.16
-Bolivia,BOL,1999,58.1
-Bolivia,BOL,2000,63.0
-Bolivia,BOL,2001,58.88
-Bolivia,BOL,2002,60.16
-Bolivia,BOL,2004,55.01
-Bolivia,BOL,2005,58.47
-Bolivia,BOL,2006,56.87
-Bolivia,BOL,2007,55.44
-Bolivia,BOL,2008,51.43
-Bolivia,BOL,2009,49.65
-Bolivia,BOL,2011,46.26
-Bolivia,BOL,2012,46.7
-Bolivia,BOL,2013,48.06
-Bhutan,BTN,2003,69.47
-Bhutan,BTN,2007,38.09
-Bhutan,BTN,2012,38.65
-Benin,BEN,2003,38.58
-Benin,BEN,2011,43.44
-Belize,BLZ,1993,60.25
-Belize,BLZ,1994,60.91
-Belize,BLZ,1995,57.55
-Belize,BLZ,1996,56.59
-Belize,BLZ,1997,60.43
-Belize,BLZ,1998,54.91
-Belize,BLZ,1999,53.26
-Belgium,BEL,2004,30.63
-Belgium,BEL,2005,29.88
-Belgium,BEL,2006,28.26
-Belgium,BEL,2007,29.57
-Belgium,BEL,2008,29.0
-Belgium,BEL,2009,28.7
-Belgium,BEL,2010,28.53
-Belgium,BEL,2011,28.43
-Belgium,BEL,2012,27.59
-Belarus,BLR,1988,22.76
-Belarus,BLR,1993,21.6
-Belarus,BLR,1995,28.76
-Belarus,BLR,1998,30.67
-Belarus,BLR,1999,31.31
-Belarus,BLR,2000,29.72
-Belarus,BLR,2001,30.97
-Belarus,BLR,2002,30.18
-Belarus,BLR,2003,29.52
-Belarus,BLR,2004,26.59
-Belarus,BLR,2005,27.78
-Belarus,BLR,2006,28.17
-Belarus,BLR,2007,28.78
-Belarus,BLR,2008,27.22
-Belarus,BLR,2009,27.69
-Belarus,BLR,2010,27.72
-Belarus,BLR,2011,26.46
-Belarus,BLR,2012,26.01
-Bangladesh,BGD,1983,25.88
-Bangladesh,BGD,1985,26.92
-Bangladesh,BGD,1988,28.85
-Bangladesh,BGD,1991,27.57
-Bangladesh,BGD,1995,32.94
-Bangladesh,BGD,2000,33.06
-Bangladesh,BGD,2005,32.73
-Bangladesh,BGD,2010,31.98
-Azerbaijan,AZE,1995,34.65
-Azerbaijan,AZE,2001,36.45
-Azerbaijan,AZE,2002,17.36
-Azerbaijan,AZE,2003,18.81
-Azerbaijan,AZE,2004,16.23
-Azerbaijan,AZE,2005,16.64
-Austria,AUT,2004,29.87
-Austria,AUT,2005,28.72
-Austria,AUT,2006,29.59
-Austria,AUT,2007,30.58
-Austria,AUT,2008,30.45
-Austria,AUT,2009,31.5
-Austria,AUT,2010,30.25
-Austria,AUT,2011,30.8
-Austria,AUT,2012,30.48
-Australia,AUS,1981,31.33
-Australia,AUS,1985,32.5
-Australia,AUS,1989,33.15
-Australia,AUS,1995,33.72
-Australia,AUS,2001,34.14
-Australia,AUS,2003,34.01
-Australia,AUS,2008,35.63
-Australia,AUS,2010,34.94
-Armenia,ARM,1996,44.42
-Armenia,ARM,1999,36.22
-Armenia,ARM,2001,35.37
-Armenia,ARM,2002,34.78
-Armenia,ARM,2003,33.03
-Armenia,ARM,2004,37.51
-Armenia,ARM,2005,35.99
-Armenia,ARM,2006,32.49
-Armenia,ARM,2007,29.83
-Armenia,ARM,2008,30.71
-Armenia,ARM,2009,29.58
-Armenia,ARM,2010,31.07
-Armenia,ARM,2011,31.32
-Armenia,ARM,2012,30.48
-Armenia,ARM,2013,31.54
-Argentina,ARG,1986,42.79
-Argentina,ARG,1987,45.28
-Argentina,ARG,1991,46.76
-Argentina,ARG,1992,45.47
-Argentina,ARG,1993,44.86
-Argentina,ARG,1994,45.92
-Argentina,ARG,1995,48.9
-Argentina,ARG,1996,49.52
-Argentina,ARG,1997,49.11
-Argentina,ARG,1998,50.73
-Argentina,ARG,1999,49.79
-Argentina,ARG,2000,51.06
-Argentina,ARG,2001,53.34
-Argentina,ARG,2002,53.79
-Argentina,ARG,2003,53.54
-Argentina,ARG,2004,50.18
-Argentina,ARG,2005,49.27
-Argentina,ARG,2006,48.26
-Argentina,ARG,2007,47.37
-Argentina,ARG,2008,46.27
-Argentina,ARG,2009,45.27
-Argentina,ARG,2010,44.5
-Argentina,ARG,2011,43.57
-Argentina,ARG,2012,42.49
-Argentina,ARG,2013,42.28
-Angola,AGO,2000,51.96
-Angola,AGO,2008,42.72
-Algeria,DZA,1995,35.33
-Albania,ALB,1996,27.01
-Albania,ALB,2002,32.46
-Albania,ALB,2005,30.6
-Albania,ALB,2008,29.98
-Albania,ALB,2012,28.96
+Bulgaria,BGR,1989,23.43
+Bulgaria,BGR,1992,30.71
+Bulgaria,BGR,1994,24.32
+Bulgaria,BGR,1995,35.4
+Bulgaria,BGR,1997,26.38
+Bulgaria,BGR,2001,32.68
+Bulgaria,BGR,2003,28.92
+Bulgaria,BGR,2006,35.73
+Bulgaria,BGR,2007,28.14
+Bulgaria,BGR,2008,33.57
+Bulgaria,BGR,2009,33.82
+Bulgaria,BGR,2010,35.65
+Bulgaria,BGR,2011,34.28
+Bulgaria,BGR,2012,36.01
+Burkina Faso,BFA,1994,48.07
+Burkina Faso,BFA,1998,49.94
+Burkina Faso,BFA,2003,43.25
+Burkina Faso,BFA,2009,39.76
+Burundi,BDI,1992,33.33
+Burundi,BDI,1998,42.35
+Burundi,BDI,2006,33.36
+Cabo Verde,CPV,2001,52.5
+Cabo Verde,CPV,2007,47.19
+Cambodia,KHM,1994,38.15
+Cambodia,KHM,2004,35.46
+Cambodia,KHM,2007,41.14
+Cambodia,KHM,2008,35.1
+Cambodia,KHM,2009,34.65
+Cambodia,KHM,2010,33.44
+Cambodia,KHM,2011,31.7
+Cambodia,KHM,2012,30.76
+Cameroon,CMR,1996,44.45
+Cameroon,CMR,2001,42.14
+Cameroon,CMR,2007,42.82
+Canada,CAN,1981,32.6
+Canada,CAN,1987,31.6
+Canada,CAN,1991,31.15
+Canada,CAN,1994,31.39
+Canada,CAN,1997,31.77
+Canada,CAN,1998,33.59
+Canada,CAN,2000,33.65
+Canada,CAN,2004,33.88
+Canada,CAN,2007,33.9
+Canada,CAN,2010,33.68
+Central African Republic,CAF,1992,61.33
+Central African Republic,CAF,2003,43.61
+Central African Republic,CAF,2008,56.24
+Chad,TCD,2003,39.82
+Chad,TCD,2011,43.32
+Chile,CHL,1987,56.21
+Chile,CHL,1990,57.25
+Chile,CHL,1992,54.81
+Chile,CHL,1994,56.43
+Chile,CHL,1996,54.87
+Chile,CHL,1998,55.52
+Chile,CHL,2000,55.25
+Chile,CHL,2003,54.74
+Chile,CHL,2006,51.79
+Chile,CHL,2009,52.0
+Chile,CHL,2011,50.84
+Chile,CHL,2013,50.45
+China,CHN,1981,29.11
+China,CHN,1984,27.69
+China,CHN,1987,29.85
+China,CHN,1990,32.43
+China,CHN,1993,35.5
+China,CHN,1996,35.7
+China,CHN,1999,39.23
+China,CHN,2002,42.59
+China,CHN,2005,42.48
+China,CHN,2008,42.63
+China,CHN,2010,42.06
+Colombia,COL,1988,53.11
+Colombia,COL,1989,53.59
+Colombia,COL,1991,51.32
+Colombia,COL,1992,51.45
+Colombia,COL,1996,56.93
+Colombia,COL,1999,58.74
+Colombia,COL,2000,58.68
+Colombia,COL,2001,57.76
+Colombia,COL,2002,58.26
+Colombia,COL,2003,54.41
+Colombia,COL,2004,56.11
+Colombia,COL,2005,55.04
+Colombia,COL,2006,60.08
+Colombia,COL,2007,59.37
+Colombia,COL,2008,56.04
+Colombia,COL,2009,55.92
+Colombia,COL,2010,55.5
+Colombia,COL,2011,54.18
+Colombia,COL,2012,53.54
+Colombia,COL,2013,53.49
+Comoros,COM,2004,55.93
+"Congo, Dem. Rep.",COD,2004,44.21
+"Congo, Dem. Rep.",COD,2012,42.1
+"Congo, Rep.",COG,2005,47.33
+"Congo, Rep.",COG,2011,40.16
+Costa Rica,CRI,1981,47.49
+Costa Rica,CRI,1986,34.42
+Costa Rica,CRI,1989,46.69
+Costa Rica,CRI,1990,45.3
+Costa Rica,CRI,1991,46.65
+Costa Rica,CRI,1992,45.71
+Costa Rica,CRI,1993,46.0
+Costa Rica,CRI,1994,46.75
+Costa Rica,CRI,1995,45.71
+Costa Rica,CRI,1996,46.54
+Costa Rica,CRI,1997,45.62
+Costa Rica,CRI,1998,45.67
+Costa Rica,CRI,1999,47.67
+Costa Rica,CRI,2000,47.44
+Costa Rica,CRI,2001,51.1
+Costa Rica,CRI,2002,50.89
+Costa Rica,CRI,2003,49.93
+Costa Rica,CRI,2004,48.92
+Costa Rica,CRI,2005,47.77
+Costa Rica,CRI,2006,49.31
+Costa Rica,CRI,2007,49.49
+Costa Rica,CRI,2008,49.14
+Costa Rica,CRI,2009,50.97
+Costa Rica,CRI,2010,48.1
+Costa Rica,CRI,2011,48.6
+Costa Rica,CRI,2012,48.61
+Costa Rica,CRI,2013,49.18
+Cote d'Ivoire,CIV,1985,45.53
+Cote d'Ivoire,CIV,1986,37.97
+Cote d'Ivoire,CIV,1987,40.51
+Cote d'Ivoire,CIV,1988,36.89
+Cote d'Ivoire,CIV,1992,39.39
+Cote d'Ivoire,CIV,1993,39.35
+Cote d'Ivoire,CIV,1995,40.56
+Cote d'Ivoire,CIV,1998,38.96
+Cote d'Ivoire,CIV,2002,41.34
+Cote d'Ivoire,CIV,2008,43.18
+Croatia,HRV,1988,22.78
+Croatia,HRV,1998,28.75
+Croatia,HRV,1999,27.71
+Croatia,HRV,2000,31.33
+Croatia,HRV,2001,31.1
+Croatia,HRV,2004,29.68
+Croatia,HRV,2008,33.71
+Croatia,HRV,2009,33.18
+Croatia,HRV,2010,27.35
+Croatia,HRV,2011,31.98
+Cyprus,CYP,2004,30.09
+Cyprus,CYP,2005,30.26
+Cyprus,CYP,2006,31.13
+Cyprus,CYP,2007,31.11
+Cyprus,CYP,2008,31.71
+Cyprus,CYP,2009,32.11
+Cyprus,CYP,2010,31.46
+Cyprus,CYP,2011,32.63
+Cyprus,CYP,2012,34.31
+Czech Republic,CZE,1988,19.4
+Czech Republic,CZE,1993,26.6
+Czech Republic,CZE,1996,25.82
+Czech Republic,CZE,2004,27.53
+Czech Republic,CZE,2005,26.95
+Czech Republic,CZE,2006,26.74
+Czech Republic,CZE,2007,26.0
+Czech Republic,CZE,2008,26.29
+Czech Republic,CZE,2009,26.18
+Czech Republic,CZE,2010,26.63
+Czech Republic,CZE,2011,26.39
+Czech Republic,CZE,2012,26.13
+Denmark,DNK,2004,25.89
+Denmark,DNK,2005,25.94
+Denmark,DNK,2006,27.08
+Denmark,DNK,2007,26.85
+Denmark,DNK,2008,28.89
+Denmark,DNK,2009,28.84
+Denmark,DNK,2010,29.02
+Denmark,DNK,2011,29.54
+Denmark,DNK,2012,29.08
+Djibouti,DJI,2002,40.0
+Djibouti,DJI,2012,45.13
+Dominican Republic,DOM,1986,47.78
+Dominican Republic,DOM,1989,50.46
+Dominican Republic,DOM,1992,51.36
+Dominican Republic,DOM,1996,47.43
+Dominican Republic,DOM,1997,48.92
+Dominican Republic,DOM,2000,52.01
+Dominican Republic,DOM,2001,50.43
+Dominican Republic,DOM,2002,50.12
+Dominican Republic,DOM,2003,52.09
+Dominican Republic,DOM,2004,51.95
+Dominican Republic,DOM,2005,49.96
+Dominican Republic,DOM,2006,51.9
+Dominican Republic,DOM,2007,48.69
+Dominican Republic,DOM,2008,49.0
+Dominican Republic,DOM,2009,48.86
+Dominican Republic,DOM,2010,47.2
+Dominican Republic,DOM,2011,47.4
+Dominican Republic,DOM,2012,45.68
+Dominican Republic,DOM,2013,47.07
+Ecuador,ECU,1987,50.49
+Ecuador,ECU,1994,53.37
+Ecuador,ECU,1995,50.97
+Ecuador,ECU,1998,49.66
+Ecuador,ECU,1999,58.6
+Ecuador,ECU,2000,56.38
+Ecuador,ECU,2003,54.99
+Ecuador,ECU,2004,54.12
+Ecuador,ECU,2005,54.12
+Ecuador,ECU,2006,53.2
+Ecuador,ECU,2007,54.33
+Ecuador,ECU,2008,50.61
+Ecuador,ECU,2009,49.28
+Ecuador,ECU,2010,49.25
+Ecuador,ECU,2011,46.21
+Ecuador,ECU,2012,46.57
+Ecuador,ECU,2013,47.29
+"Egypt, Arab Rep.",EGY,2008,30.75
+El Salvador,SLV,1991,53.95
+El Salvador,SLV,1995,49.88
+El Salvador,SLV,1996,51.39
+El Salvador,SLV,1998,54.52
+El Salvador,SLV,1999,52.2
+El Salvador,SLV,2000,51.31
+El Salvador,SLV,2001,51.14
+El Salvador,SLV,2002,51.54
+El Salvador,SLV,2003,50.72
+El Salvador,SLV,2004,47.38
+El Salvador,SLV,2005,47.88
+El Salvador,SLV,2006,45.44
+El Salvador,SLV,2007,45.24
+El Salvador,SLV,2008,46.65
+El Salvador,SLV,2009,45.93
+El Salvador,SLV,2010,44.53
+El Salvador,SLV,2011,42.43
+El Salvador,SLV,2012,41.8
+El Salvador,SLV,2013,43.51
+Estonia,EST,1988,22.97
+Estonia,EST,1993,39.5
+Estonia,EST,1995,30.06
+Estonia,EST,1998,37.64
+Estonia,EST,2000,35.78
+Estonia,EST,2001,36.01
+Estonia,EST,2002,35.79
+Estonia,EST,2003,34.91
+Estonia,EST,2004,35.38
+Estonia,EST,2005,33.63
+Estonia,EST,2006,33.75
+Estonia,EST,2007,31.25
+Estonia,EST,2008,32.0
+Estonia,EST,2009,31.59
+Estonia,EST,2010,32.16
+Estonia,EST,2011,32.69
+Estonia,EST,2012,33.15
+Ethiopia,ETH,1981,32.42
+Ethiopia,ETH,1995,44.56
+Ethiopia,ETH,1999,29.98
+Ethiopia,ETH,2004,29.81
+Ethiopia,ETH,2010,33.17
+Fiji,FJI,2002,39.62
+Fiji,FJI,2008,42.78
+Finland,FIN,2004,27.92
+Finland,FIN,2005,27.64
+Finland,FIN,2006,28.02
+Finland,FIN,2007,28.29
+Finland,FIN,2008,27.85
+Finland,FIN,2009,27.47
+Finland,FIN,2010,27.74
+Finland,FIN,2011,27.66
+Finland,FIN,2012,27.12
+France,FRA,2004,30.8
+France,FRA,2005,29.93
+France,FRA,2006,29.92
+France,FRA,2007,32.63
+France,FRA,2008,33.08
+France,FRA,2010,33.78
+France,FRA,2011,33.35
+France,FRA,2012,33.1
+Gabon,GAB,2005,42.18
+"Gambia, The",GMB,1998,47.56
+"Gambia, The",GMB,2003,47.33
+Georgia,GEO,1996,37.13
+Georgia,GEO,1997,41.95
+Georgia,GEO,1998,41.25
+Georgia,GEO,1999,40.15
+Georgia,GEO,2000,40.48
+Georgia,GEO,2001,39.57
+Georgia,GEO,2002,39.63
+Georgia,GEO,2003,39.53
+Georgia,GEO,2004,39.78
+Georgia,GEO,2005,40.34
+Georgia,GEO,2006,40.09
+Georgia,GEO,2007,40.6
+Georgia,GEO,2008,40.57
+Georgia,GEO,2009,41.74
+Georgia,GEO,2010,42.13
+Georgia,GEO,2011,41.58
+Georgia,GEO,2012,41.35
+Georgia,GEO,2013,40.03
+Germany,DEU,2006,32.78
+Germany,DEU,2007,32.4
+Germany,DEU,2008,31.29
+Germany,DEU,2009,31.51
+Germany,DEU,2010,31.14
+Germany,DEU,2011,30.13
+Ghana,GHA,1987,35.35
+Ghana,GHA,1988,35.99
+Ghana,GHA,1991,38.44
+Ghana,GHA,1998,40.07
+Ghana,GHA,2005,42.77
+Greece,GRC,2004,33.97
+Greece,GRC,2005,35.1
+Greece,GRC,2006,35.41
+Greece,GRC,2007,34.61
+Greece,GRC,2008,34.22
+Greece,GRC,2009,33.82
+Greece,GRC,2010,34.48
+Greece,GRC,2011,35.69
+Greece,GRC,2012,36.68
+Guatemala,GTM,1986,58.26
+Guatemala,GTM,1989,59.6
+Guatemala,GTM,2000,54.84
+Guatemala,GTM,2002,56.94
+Guatemala,GTM,2003,54.1
+Guatemala,GTM,2004,50.73
+Guatemala,GTM,2006,54.89
+Guatemala,GTM,2011,52.35
+Guinea,GIN,1991,46.84
+Guinea,GIN,1994,46.08
+Guinea,GIN,2002,43.0
+Guinea,GIN,2007,39.36
+Guinea,GIN,2012,33.73
+Guinea-Bissau,GNB,1993,43.61
+Guinea-Bissau,GNB,2002,35.57
+Guinea-Bissau,GNB,2010,50.66
+Guyana,GUY,1998,44.55
+Haiti,HTI,2001,59.48
+Haiti,HTI,2012,60.79
+Honduras,HND,1986,55.09
+Honduras,HND,1989,59.49
+Honduras,HND,1990,57.36
+Honduras,HND,1991,51.85
+Honduras,HND,1992,51.83
+Honduras,HND,1993,53.47
+Honduras,HND,1994,55.01
+Honduras,HND,1995,55.49
+Honduras,HND,1996,55.72
+Honduras,HND,1997,52.73
+Honduras,HND,1998,57.43
+Honduras,HND,1999,55.35
+Honduras,HND,2001,54.08
+Honduras,HND,2002,58.78
+Honduras,HND,2003,58.66
+Honduras,HND,2004,58.41
+Honduras,HND,2005,59.51
+Honduras,HND,2006,57.42
+Honduras,HND,2007,56.16
+Honduras,HND,2008,55.74
+Honduras,HND,2009,51.56
+Honduras,HND,2010,53.39
+Honduras,HND,2011,57.4
+Honduras,HND,2012,57.4
+Honduras,HND,2013,53.67
+Hungary,HUN,1987,20.96
+Hungary,HUN,1989,25.05
+Hungary,HUN,1993,27.94
+Hungary,HUN,1998,26.38
+Hungary,HUN,1999,27.64
+Hungary,HUN,2000,27.22
+Hungary,HUN,2001,26.92
+Hungary,HUN,2002,26.84
+Hungary,HUN,2003,30.93
+Hungary,HUN,2004,30.02
+Hungary,HUN,2005,30.19
+Hungary,HUN,2006,28.3
+Hungary,HUN,2007,31.16
+Hungary,HUN,2008,27.53
+Hungary,HUN,2009,26.97
+Hungary,HUN,2010,29.37
+Hungary,HUN,2011,28.94
+Hungary,HUN,2012,30.55
+Iceland,ISL,2004,28.11
+Iceland,ISL,2005,29.38
+Iceland,ISL,2006,30.25
+Iceland,ISL,2007,29.58
+Iceland,ISL,2008,31.89
+Iceland,ISL,2009,28.74
+Iceland,ISL,2010,26.43
+Iceland,ISL,2011,27.03
+Iceland,ISL,2012,26.94
+India,IND,1983,31.11
+India,IND,1987,31.88
+India,IND,1993,30.82
+India,IND,2004,33.38
+India,IND,2009,33.9
+Indonesia,IDN,1984,30.47
+Indonesia,IDN,1987,29.27
+Indonesia,IDN,1990,29.19
+Indonesia,IDN,1993,29.31
+Indonesia,IDN,1996,31.33
+Indonesia,IDN,1999,28.99
+Indonesia,IDN,2002,29.74
+Indonesia,IDN,2005,34.01
+Indonesia,IDN,2008,34.11
+Indonesia,IDN,2010,35.57
+"Iran, Islamic Rep.",IRN,1986,47.42
+"Iran, Islamic Rep.",IRN,1990,43.6
+"Iran, Islamic Rep.",IRN,1994,43.0
+"Iran, Islamic Rep.",IRN,1998,44.1
+"Iran, Islamic Rep.",IRN,2005,38.34
+"Iran, Islamic Rep.",IRN,2009,42.02
+"Iran, Islamic Rep.",IRN,2013,37.35
+Iraq,IRQ,2012,29.54
+Ireland,IRL,2004,33.72
+Ireland,IRL,2005,33.76
+Ireland,IRL,2006,32.73
+Ireland,IRL,2007,31.96
+Ireland,IRL,2008,30.91
+Ireland,IRL,2009,32.84
+Ireland,IRL,2010,32.3
+Ireland,IRL,2011,32.33
+Ireland,IRL,2012,32.52
+Israel,ISR,1986,36.49
+Israel,ISR,1992,35.5
+Israel,ISR,1997,38.1
+Israel,ISR,2001,39.2
+Israel,ISR,2005,41.86
+Israel,ISR,2007,41.18
+Israel,ISR,2010,42.78
+Italy,ITA,2004,34.53
+Italy,ITA,2005,34.07
+Italy,ITA,2006,34.26
+Italy,ITA,2007,33.19
+Italy,ITA,2008,33.74
+Italy,ITA,2009,33.66
+Italy,ITA,2010,34.41
+Italy,ITA,2011,34.52
+Italy,ITA,2012,35.16
+Jamaica,JAM,1988,43.16
+Jamaica,JAM,1990,41.11
+Jamaica,JAM,1993,35.67
+Jamaica,JAM,1996,40.39
+Jamaica,JAM,1999,44.08
+Jamaica,JAM,2002,48.32
+Jamaica,JAM,2004,45.46
+Japan,JPN,2008,32.11
+Jordan,JOR,1986,36.06
+Jordan,JOR,1992,43.36
+Jordan,JOR,1997,36.42
+Jordan,JOR,2002,36.95
+Jordan,JOR,2006,33.86
+Jordan,JOR,2008,32.57
+Jordan,JOR,2010,33.66
+Kazakhstan,KAZ,1988,25.74
+Kazakhstan,KAZ,1993,32.67
+Kazakhstan,KAZ,1996,35.38
+Kazakhstan,KAZ,2001,35.29
+Kazakhstan,KAZ,2002,34.05
+Kazakhstan,KAZ,2003,33.15
+Kazakhstan,KAZ,2004,31.47
+Kazakhstan,KAZ,2005,29.65
+Kazakhstan,KAZ,2006,29.99
+Kazakhstan,KAZ,2007,28.54
+Kazakhstan,KAZ,2008,29.07
+Kazakhstan,KAZ,2009,28.79
+Kazakhstan,KAZ,2010,28.56
+Kazakhstan,KAZ,2011,27.42
+Kazakhstan,KAZ,2012,27.43
+Kazakhstan,KAZ,2013,26.35
+Kenya,KEN,1992,57.46
+Kenya,KEN,1994,43.86
+Kenya,KEN,1997,46.3
+Kenya,KEN,2005,48.51
+Kiribati,KIR,2006,37.61
+Kosovo,KSV,2003,28.95
+Kosovo,KSV,2005,31.24
+Kosovo,KSV,2006,30.32
+Kosovo,KSV,2009,31.78
+Kosovo,KSV,2010,33.25
+Kosovo,KSV,2011,27.83
+Kosovo,KSV,2012,29.4
+Kosovo,KSV,2013,26.71
+Kyrgyz Republic,KGZ,1988,26.01
+Kyrgyz Republic,KGZ,1993,53.7
+Kyrgyz Republic,KGZ,1998,46.4
+Kyrgyz Republic,KGZ,2000,31.03
+Kyrgyz Republic,KGZ,2001,30.16
+Kyrgyz Republic,KGZ,2002,30.3
+Kyrgyz Republic,KGZ,2003,28.71
+Kyrgyz Republic,KGZ,2004,34.77
+Kyrgyz Republic,KGZ,2005,38.32
+Kyrgyz Republic,KGZ,2006,38.4
+Kyrgyz Republic,KGZ,2007,33.43
+Kyrgyz Republic,KGZ,2008,32.06
+Kyrgyz Republic,KGZ,2009,29.83
+Kyrgyz Republic,KGZ,2010,29.89
+Kyrgyz Republic,KGZ,2011,27.77
+Kyrgyz Republic,KGZ,2012,27.37
+Lao PDR,LAO,1992,34.31
+Lao PDR,LAO,1997,34.9
+Lao PDR,LAO,2002,34.66
+Lao PDR,LAO,2007,36.64
+Lao PDR,LAO,2012,37.89
+Latvia,LVA,1988,22.49
+Latvia,LVA,1993,26.99
+Latvia,LVA,1995,30.98
+Latvia,LVA,1996,31.64
+Latvia,LVA,1997,32.65
+Latvia,LVA,1998,33.1
+Latvia,LVA,2002,35.09
+Latvia,LVA,2003,36.53
+Latvia,LVA,2004,34.96
+Latvia,LVA,2005,39.4
+Latvia,LVA,2006,35.6
+Latvia,LVA,2007,36.05
+Latvia,LVA,2008,35.82
+Latvia,LVA,2009,34.83
+Latvia,LVA,2010,35.27
+Latvia,LVA,2011,36.03
+Latvia,LVA,2012,35.48
+Lesotho,LSO,1986,56.02
+Lesotho,LSO,1994,63.24
+Lesotho,LSO,2002,51.57
+Lesotho,LSO,2010,54.18
+Liberia,LBR,2007,36.48
+Lithuania,LTU,1988,22.48
+Lithuania,LTU,1993,33.64
+Lithuania,LTU,1996,32.26
+Lithuania,LTU,1998,32.1
+Lithuania,LTU,1999,32.02
+Lithuania,LTU,2000,31.67
+Lithuania,LTU,2001,32.01
+Lithuania,LTU,2002,31.92
+Lithuania,LTU,2003,35.46
+Lithuania,LTU,2004,35.2
+Lithuania,LTU,2005,35.3
+Lithuania,LTU,2006,34.44
+Lithuania,LTU,2007,34.59
+Lithuania,LTU,2008,37.06
+Lithuania,LTU,2009,37.33
+Lithuania,LTU,2010,33.76
+Lithuania,LTU,2011,32.63
+Lithuania,LTU,2012,35.15
+Luxembourg,LUX,2004,30.25
+Luxembourg,LUX,2005,31.11
+Luxembourg,LUX,2006,30.96
+Luxembourg,LUX,2007,31.28
+Luxembourg,LUX,2008,32.61
+Luxembourg,LUX,2009,31.53
+Luxembourg,LUX,2010,30.9
+Luxembourg,LUX,2011,32.42
+Luxembourg,LUX,2012,34.79
+"Macedonia, FYR",MKD,1998,28.13
+"Macedonia, FYR",MKD,2000,34.26
+"Macedonia, FYR",MKD,2002,38.51
+"Macedonia, FYR",MKD,2003,38.72
+"Macedonia, FYR",MKD,2004,38.77
+"Macedonia, FYR",MKD,2005,39.31
+"Macedonia, FYR",MKD,2006,42.64
+"Macedonia, FYR",MKD,2008,44.05
+Madagascar,MDG,1993,45.26
+Madagascar,MDG,1997,39.47
+Madagascar,MDG,1999,38.61
+Madagascar,MDG,2001,47.44
+Madagascar,MDG,2005,38.88
+Madagascar,MDG,2010,40.63
+Malawi,MWI,1997,65.76
+Malawi,MWI,2004,39.87
+Malawi,MWI,2010,46.12
+Malaysia,MYS,1984,48.62
+Malaysia,MYS,1987,47.04
+Malaysia,MYS,1989,46.17
+Malaysia,MYS,1992,47.65
+Malaysia,MYS,1995,48.52
+Malaysia,MYS,1997,49.15
+Malaysia,MYS,2004,46.05
+Malaysia,MYS,2007,46.0
+Malaysia,MYS,2009,46.26
+Maldives,MDV,1998,62.68
+Maldives,MDV,2004,37.37
+Maldives,MDV,2009,36.78
+Mali,MLI,1994,50.44
+Mali,MLI,2001,39.87
+Mali,MLI,2006,38.93
+Mali,MLI,2009,33.04
+Mauritania,MRT,1987,43.94
+Mauritania,MRT,1993,50.05
+Mauritania,MRT,1995,37.75
+Mauritania,MRT,2000,39.03
+Mauritania,MRT,2004,40.17
+Mauritania,MRT,2008,37.48
+Mauritius,MUS,2006,35.65
+Mauritius,MUS,2012,35.84
+Mexico,MEX,1984,48.95
+Mexico,MEX,1989,54.34
+Mexico,MEX,1992,50.95
+Mexico,MEX,1994,51.7
+Mexico,MEX,1996,48.47
+Mexico,MEX,1998,48.97
+Mexico,MEX,2000,51.67
+Mexico,MEX,2002,49.54
+Mexico,MEX,2004,46.03
+Mexico,MEX,2005,51.11
+Mexico,MEX,2006,48.01
+Mexico,MEX,2008,48.23
+Mexico,MEX,2010,48.13
+Mexico,MEX,2012,48.07
+"Micronesia, Fed. Sts.",FSM,2000,61.18
+Moldova,MDA,1988,24.14
+Moldova,MDA,1992,34.32
+Moldova,MDA,1997,36.94
+Moldova,MDA,1998,39.52
+Moldova,MDA,1999,42.62
+Moldova,MDA,2000,36.43
+Moldova,MDA,2001,38.16
+Moldova,MDA,2002,35.76
+Moldova,MDA,2003,35.26
+Moldova,MDA,2004,35.35
+Moldova,MDA,2005,36.28
+Moldova,MDA,2006,35.4
+Moldova,MDA,2007,34.42
+Moldova,MDA,2008,34.69
+Moldova,MDA,2009,32.91
+Moldova,MDA,2010,32.05
+Moldova,MDA,2011,30.63
+Moldova,MDA,2012,29.16
+Moldova,MDA,2013,28.53
+Mongolia,MNG,1995,33.2
+Mongolia,MNG,1998,30.27
+Mongolia,MNG,2002,32.89
+Mongolia,MNG,2007,35.82
+Mongolia,MNG,2010,33.08
+Mongolia,MNG,2011,33.88
+Mongolia,MNG,2012,33.75
+Montenegro,MNE,2005,30.14
+Montenegro,MNE,2006,29.39
+Montenegro,MNE,2007,30.82
+Montenegro,MNE,2008,30.01
+Montenegro,MNE,2009,30.27
+Montenegro,MNE,2010,28.6
+Montenegro,MNE,2011,30.63
+Montenegro,MNE,2012,32.16
+Montenegro,MNE,2013,33.19
+Morocco,MAR,1984,39.19
+Morocco,MAR,1990,39.2
+Morocco,MAR,1998,39.46
+Morocco,MAR,2000,40.64
+Morocco,MAR,2007,40.72
+Mozambique,MOZ,1996,44.41
+Mozambique,MOZ,2002,47.04
+Mozambique,MOZ,2008,45.58
+Namibia,NAM,2003,63.32
+Namibia,NAM,2009,60.97
+Nepal,NPL,1984,30.06
+Nepal,NPL,1995,35.21
+Nepal,NPL,2003,43.26
+Nepal,NPL,2010,32.75
+Netherlands,NLD,2004,30.74
+Netherlands,NLD,2005,29.86
+Netherlands,NLD,2006,30.76
+Netherlands,NLD,2007,30.35
+Netherlands,NLD,2008,29.93
+Netherlands,NLD,2009,28.38
+Netherlands,NLD,2010,28.73
+Netherlands,NLD,2011,28.17
+Netherlands,NLD,2012,27.99
+Nicaragua,NIC,1993,50.36
+Nicaragua,NIC,1998,45.16
+Nicaragua,NIC,2001,43.08
+Nicaragua,NIC,2005,40.49
+Nicaragua,NIC,2009,45.73
+Niger,NER,1992,36.1
+Niger,NER,1994,41.53
+Niger,NER,2005,44.43
+Niger,NER,2007,37.3
+Niger,NER,2011,31.45
+Nigeria,NGA,1985,38.68
+Nigeria,NGA,1992,44.98
+Nigeria,NGA,1996,51.92
+Nigeria,NGA,2003,40.06
+Nigeria,NGA,2009,42.97
+Norway,NOR,2004,31.72
+Norway,NOR,2005,32.27
+Norway,NOR,2006,27.29
+Norway,NOR,2007,28.07
+Norway,NOR,2008,27.14
+Norway,NOR,2009,26.39
+Norway,NOR,2010,25.86
+Norway,NOR,2011,25.54
+Norway,NOR,2012,25.9
+Pakistan,PAK,1987,33.32
+Pakistan,PAK,1990,33.25
+Pakistan,PAK,1996,28.67
+Pakistan,PAK,1998,33.12
+Pakistan,PAK,2001,30.5
+Pakistan,PAK,2004,32.33
+Pakistan,PAK,2005,32.69
+Pakistan,PAK,2007,31.42
+Pakistan,PAK,2010,29.59
+Panama,PAN,1989,58.91
+Panama,PAN,1991,58.19
+Panama,PAN,1995,57.81
+Panama,PAN,1997,58.23
+Panama,PAN,1998,57.48
+Panama,PAN,1999,56.46
+Panama,PAN,2000,57.66
+Panama,PAN,2001,57.3
+Panama,PAN,2002,56.59
+Panama,PAN,2003,56.37
+Panama,PAN,2004,55.06
+Panama,PAN,2005,53.99
+Panama,PAN,2006,55.06
+Panama,PAN,2007,52.97
+Panama,PAN,2008,52.63
+Panama,PAN,2009,52.03
+Panama,PAN,2010,51.91
+Panama,PAN,2011,51.83
+Panama,PAN,2012,51.9
+Panama,PAN,2013,51.67
+Papua New Guinea,PNG,1996,55.43
+Papua New Guinea,PNG,2009,43.88
+Paraguay,PRY,1990,40.84
+Paraguay,PRY,1995,58.16
+Paraguay,PRY,1997,54.89
+Paraguay,PRY,1999,54.58
+Paraguay,PRY,2001,54.83
+Paraguay,PRY,2002,57.34
+Paraguay,PRY,2003,55.55
+Paraguay,PRY,2004,52.59
+Paraguay,PRY,2005,51.37
+Paraguay,PRY,2006,53.63
+Paraguay,PRY,2007,52.09
+Paraguay,PRY,2008,51.04
+Paraguay,PRY,2009,49.67
+Paraguay,PRY,2010,51.83
+Paraguay,PRY,2011,52.6
+Paraguay,PRY,2012,48.17
+Paraguay,PRY,2013,48.3
+Peru,PER,1985,99.91
+Peru,PER,1994,44.02
+Peru,PER,1997,53.72
+Peru,PER,1998,56.14
+Peru,PER,1999,56.34
+Peru,PER,2000,50.77
+Peru,PER,2001,51.83
+Peru,PER,2002,54.04
+Peru,PER,2003,53.71
+Peru,PER,2004,51.2
+Peru,PER,2005,51.84
+Peru,PER,2006,51.67
+Peru,PER,2007,51.35
+Peru,PER,2008,48.55
+Peru,PER,2009,47.96
+Peru,PER,2010,46.21
+Peru,PER,2011,45.48
+Peru,PER,2012,45.11
+Peru,PER,2013,44.73
+Philippines,PHL,1985,41.04
+Philippines,PHL,1988,40.75
+Philippines,PHL,1991,43.82
+Philippines,PHL,1994,38.52
+Philippines,PHL,1997,45.96
+Philippines,PHL,2000,46.17
+Philippines,PHL,2003,44.04
+Philippines,PHL,2006,44.2
+Philippines,PHL,2009,42.91
+Philippines,PHL,2012,43.04
+Poland,POL,1985,25.16
+Poland,POL,1987,25.53
+Poland,POL,1989,26.89
+Poland,POL,1992,26.7
+Poland,POL,1996,32.66
+Poland,POL,1998,32.32
+Poland,POL,1999,32.59
+Poland,POL,2000,33.0
+Poland,POL,2001,32.85
+Poland,POL,2002,34.05
+Poland,POL,2003,34.91
+Poland,POL,2004,35.43
+Poland,POL,2005,35.86
+Poland,POL,2006,33.71
+Poland,POL,2007,33.51
+Poland,POL,2008,33.72
+Poland,POL,2009,33.58
+Poland,POL,2010,33.22
+Poland,POL,2011,32.78
+Poland,POL,2012,32.39
+Portugal,PRT,2004,38.9
+Portugal,PRT,2005,38.47
+Portugal,PRT,2006,38.06
+Portugal,PRT,2007,36.75
+Portugal,PRT,2008,36.63
+Portugal,PRT,2009,34.91
+Portugal,PRT,2010,35.84
+Portugal,PRT,2011,36.34
+Portugal,PRT,2012,36.04
+Romania,ROU,1989,23.31
+Romania,ROU,1992,25.46
+Romania,ROU,1994,28.2
+Romania,ROU,1998,31.08
+Romania,ROU,1999,29.42
+Romania,ROU,2000,29.32
+Romania,ROU,2001,29.43
+Romania,ROU,2002,30.23
+Romania,ROU,2003,29.91
+Romania,ROU,2004,30.04
+Romania,ROU,2005,29.82
+Romania,ROU,2006,39.18
+Romania,ROU,2007,37.61
+Romania,ROU,2008,29.4
+Romania,ROU,2009,28.19
+Romania,ROU,2010,28.16
+Romania,ROU,2011,27.21
+Romania,ROU,2012,27.33
+Russian Federation,RUS,1988,23.8
+Russian Federation,RUS,1993,48.38
+Russian Federation,RUS,1996,46.1
+Russian Federation,RUS,1997,38.41
+Russian Federation,RUS,1998,38.14
+Russian Federation,RUS,1999,37.44
+Russian Federation,RUS,2000,37.09
+Russian Federation,RUS,2001,39.6
+Russian Federation,RUS,2002,37.28
+Russian Federation,RUS,2003,40.8
+Russian Federation,RUS,2004,40.92
+Russian Federation,RUS,2005,41.37
+Russian Federation,RUS,2006,41.54
+Russian Federation,RUS,2007,42.33
+Russian Federation,RUS,2008,41.42
+Russian Federation,RUS,2009,39.69
+Russian Federation,RUS,2010,40.94
+Russian Federation,RUS,2011,41.04
+Russian Federation,RUS,2012,41.59
+Rwanda,RWA,1984,28.9
+Rwanda,RWA,2000,48.55
+Rwanda,RWA,2005,52.04
+Rwanda,RWA,2010,51.34
+Samoa,WSM,2008,42.69
+Sao Tome and Principe,STP,2000,32.13
+Sao Tome and Principe,STP,2010,30.82
+Senegal,SEN,1991,54.14
+Senegal,SEN,1994,41.44
+Senegal,SEN,2001,41.23
+Senegal,SEN,2005,39.22
+Senegal,SEN,2011,40.28
+Serbia,SRB,2002,32.74
+Serbia,SRB,2003,32.83
+Serbia,SRB,2004,32.98
+Serbia,SRB,2005,33.43
+Serbia,SRB,2006,29.67
+Serbia,SRB,2007,29.43
+Serbia,SRB,2008,28.18
+Serbia,SRB,2009,28.67
+Serbia,SRB,2010,29.65
+Seychelles,SYC,1999,42.78
+Seychelles,SYC,2006,42.77
+Sierra Leone,SLE,2003,40.17
+Sierra Leone,SLE,2011,33.99
+Slovak Republic,SVK,1988,19.54
+Slovak Republic,SVK,1992,19.49
+Slovak Republic,SVK,1996,25.81
+Slovak Republic,SVK,2004,28.94
+Slovak Republic,SVK,2005,29.83
+Slovak Republic,SVK,2006,27.71
+Slovak Republic,SVK,2007,28.0
+Slovak Republic,SVK,2008,26.87
+Slovak Republic,SVK,2009,26.02
+Slovak Republic,SVK,2010,27.32
+Slovak Republic,SVK,2011,26.58
+Slovak Republic,SVK,2012,26.12
+Slovenia,SVN,1987,23.6
+Slovenia,SVN,1993,29.18
+Slovenia,SVN,1998,28.41
+Slovenia,SVN,2002,29.12
+Slovenia,SVN,2003,30.87
+Slovenia,SVN,2004,31.15
+Slovenia,SVN,2005,24.63
+Slovenia,SVN,2006,24.48
+Slovenia,SVN,2007,24.37
+Slovenia,SVN,2008,23.72
+Slovenia,SVN,2009,24.83
+Slovenia,SVN,2010,24.94
+Slovenia,SVN,2011,24.87
+Slovenia,SVN,2012,25.59
+Solomon Islands,SLB,2005,46.1
+South Africa,ZAF,1993,59.33
+South Africa,ZAF,1995,62.97
+South Africa,ZAF,2000,57.77
+South Africa,ZAF,2006,64.79
+South Africa,ZAF,2008,63.01
+South Africa,ZAF,2011,63.38
+Spain,ESP,2004,33.38
+Spain,ESP,2005,32.5
+Spain,ESP,2006,32.67
+Spain,ESP,2007,33.86
+Spain,ESP,2008,34.8
+Spain,ESP,2009,35.39
+Spain,ESP,2010,35.79
+Spain,ESP,2011,36.1
+Spain,ESP,2012,35.89
+Sri Lanka,LKA,1985,32.47
+Sri Lanka,LKA,1990,32.45
+Sri Lanka,LKA,1995,35.4
+Sri Lanka,LKA,2002,40.72
+Sri Lanka,LKA,2006,39.97
+Sri Lanka,LKA,2009,36.2
+Sri Lanka,LKA,2012,38.58
+St. Lucia,LCA,1995,42.58
+Sudan,SDN,2009,35.39
+Suriname,SUR,1999,57.61
+Swaziland,SWZ,1994,60.45
+Swaziland,SWZ,2000,53.11
+Swaziland,SWZ,2009,51.45
+Sweden,SWE,2004,26.43
+Sweden,SWE,2005,27.1
+Sweden,SWE,2006,26.47
+Sweden,SWE,2007,26.92
+Sweden,SWE,2008,27.13
+Sweden,SWE,2009,26.61
+Sweden,SWE,2010,26.81
+Sweden,SWE,2011,27.24
+Sweden,SWE,2012,27.32
+Switzerland,CHE,2007,34.47
+Switzerland,CHE,2008,33.96
+Switzerland,CHE,2009,32.96
+Switzerland,CHE,2010,32.72
+Switzerland,CHE,2011,31.83
+Switzerland,CHE,2012,31.64
+Syrian Arab Republic,SYR,2004,35.77
+Tajikistan,TJK,1999,29.54
+Tajikistan,TJK,2003,32.72
+Tajikistan,TJK,2004,33.6
+Tajikistan,TJK,2007,32.19
+Tajikistan,TJK,2009,30.77
+Tanzania,TZA,1991,35.29
+Tanzania,TZA,2000,37.3
+Tanzania,TZA,2007,40.28
+Tanzania,TZA,2011,37.78
+Thailand,THA,1981,45.22
+Thailand,THA,1988,43.84
+Thailand,THA,1990,45.26
+Thailand,THA,1992,47.86
+Thailand,THA,1994,43.47
+Thailand,THA,1996,42.9
+Thailand,THA,1998,41.46
+Thailand,THA,1999,43.09
+Thailand,THA,2000,42.83
+Thailand,THA,2002,41.94
+Thailand,THA,2004,42.54
+Thailand,THA,2006,41.82
+Thailand,THA,2007,39.76
+Thailand,THA,2008,40.29
+Thailand,THA,2009,39.75
+Thailand,THA,2010,39.4
+Thailand,THA,2011,37.46
+Thailand,THA,2012,39.26
+Timor-Leste,TLS,2001,37.56
+Timor-Leste,TLS,2007,31.56
+Togo,TGO,2006,42.21
+Togo,TGO,2011,46.02
+Tonga,TON,2009,38.1
+Trinidad and Tobago,TTO,1988,42.6
+Trinidad and Tobago,TTO,1992,40.27
+Tunisia,TUN,1985,43.43
+Tunisia,TUN,1990,40.24
+Tunisia,TUN,1995,41.66
+Tunisia,TUN,2000,40.81
+Tunisia,TUN,2005,37.73
+Tunisia,TUN,2010,35.81
+Turkey,TUR,1987,43.48
+Turkey,TUR,1994,41.32
+Turkey,TUR,2002,41.4
+Turkey,TUR,2003,42.18
+Turkey,TUR,2004,41.29
+Turkey,TUR,2005,41.72
+Turkey,TUR,2006,39.65
+Turkey,TUR,2007,38.44
+Turkey,TUR,2008,38.28
+Turkey,TUR,2009,38.97
+Turkey,TUR,2010,38.78
+Turkey,TUR,2011,40.04
+Turkey,TUR,2012,40.17
+Turkmenistan,TKM,1988,26.39
+Turkmenistan,TKM,1993,35.38
+Turkmenistan,TKM,1998,40.77
+Uganda,UGA,1989,44.36
+Uganda,UGA,1992,41.43
+Uganda,UGA,1996,39.04
+Uganda,UGA,1999,43.0
+Uganda,UGA,2002,45.17
+Uganda,UGA,2005,42.94
+Uganda,UGA,2009,44.2
+Uganda,UGA,2012,42.37
+Ukraine,UKR,1988,23.31
+Ukraine,UKR,1992,29.71
+Ukraine,UKR,1995,39.29
+Ukraine,UKR,1996,35.16
+Ukraine,UKR,1999,28.96
+Ukraine,UKR,2002,29.05
+Ukraine,UKR,2003,28.66
+Ukraine,UKR,2004,28.93
+Ukraine,UKR,2005,29.02
+Ukraine,UKR,2006,29.79
+Ukraine,UKR,2007,28.57
+Ukraine,UKR,2008,26.64
+Ukraine,UKR,2009,25.32
+Ukraine,UKR,2010,24.82
+Ukraine,UKR,2011,24.55
+Ukraine,UKR,2012,24.74
+Ukraine,UKR,2013,24.55
+United Kingdom,GBR,2004,36.22
+United Kingdom,GBR,2005,34.56
+United Kingdom,GBR,2006,34.84
+United Kingdom,GBR,2007,35.93
+United Kingdom,GBR,2008,34.37
+United Kingdom,GBR,2009,34.67
+United Kingdom,GBR,2010,34.81
+United Kingdom,GBR,2011,33.71
+United Kingdom,GBR,2012,32.57
+United States,USA,1986,37.73
+United States,USA,1991,38.36
+United States,USA,1994,40.35
+United States,USA,1997,40.86
+United States,USA,2000,40.46
+United States,USA,2004,40.62
+United States,USA,2007,41.75
+United States,USA,2010,40.46
+United States,USA,2013,41.06
+Uruguay,URY,1981,43.65
+Uruguay,URY,1989,42.37
+Uruguay,URY,1992,40.2
+Uruguay,URY,1995,42.11
+Uruguay,URY,1996,42.66
+Uruguay,URY,1997,42.73
+Uruguay,URY,1998,43.81
+Uruguay,URY,2000,44.39
+Uruguay,URY,2001,46.17
+Uruguay,URY,2002,46.65
+Uruguay,URY,2003,46.22
+Uruguay,URY,2004,47.14
+Uruguay,URY,2005,45.87
+Uruguay,URY,2006,47.2
+Uruguay,URY,2007,47.63
+Uruguay,URY,2008,46.27
+Uruguay,URY,2009,46.28
+Uruguay,URY,2010,45.32
+Uruguay,URY,2011,43.37
+Uruguay,URY,2012,41.32
+Uruguay,URY,2013,41.87
+Uzbekistan,UZB,1988,24.95
+Uzbekistan,UZB,1998,44.67
+Uzbekistan,UZB,2000,36.1
+Uzbekistan,UZB,2002,33.04
+Uzbekistan,UZB,2003,35.27
+Vanuatu,VUT,2010,37.18
+"Venezuela, RB",VEN,1981,55.61
+"Venezuela, RB",VEN,1987,53.45
+"Venezuela, RB",VEN,1989,45.3
+"Venezuela, RB",VEN,1992,42.51
+"Venezuela, RB",VEN,1995,47.82
+"Venezuela, RB",VEN,1998,49.8
+"Venezuela, RB",VEN,1999,48.32
+"Venezuela, RB",VEN,2001,48.22
+"Venezuela, RB",VEN,2002,50.56
+"Venezuela, RB",VEN,2003,50.37
+"Venezuela, RB",VEN,2004,49.82
+"Venezuela, RB",VEN,2005,52.36
+"Venezuela, RB",VEN,2006,46.94
+Vietnam,VNM,1992,35.65
+Vietnam,VNM,1998,35.44
+Vietnam,VNM,2002,37.32
+Vietnam,VNM,2004,37.17
+Vietnam,VNM,2006,37.44
+Vietnam,VNM,2008,38.15
+Vietnam,VNM,2010,42.68
+Vietnam,VNM,2012,38.7
+West Bank and Gaza,PSE,2004,33.97
+West Bank and Gaza,PSE,2005,34.72
+West Bank and Gaza,PSE,2006,33.96
+West Bank and Gaza,PSE,2007,35.61
+West Bank and Gaza,PSE,2009,34.46
+"Yemen, Rep.",YEM,2005,35.89
+Zambia,ZMB,1991,60.51
+Zambia,ZMB,1993,52.61
+Zambia,ZMB,1996,48.33
+Zambia,ZMB,1998,49.13
+Zambia,ZMB,2002,42.06
+Zambia,ZMB,2004,54.29
+Zambia,ZMB,2006,54.62
+Zambia,ZMB,2010,55.62
