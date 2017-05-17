@@ -1,42 +1,43 @@
 {
+  "description": "The repository of the data package of the GINI Index",
+  "homepage": "https://github.com/gsilvapt/gini-index",
+  "license": "ODC-PDDL-1.0",
+  "name": "gini-index",
+  "repository": "git://github.com/gsilvapt/gini-index.git",
   "resources": [
     {
-      "name": "gini-index",
-      "path": "data/gini-index.csv",
+      "bytes": 30723,
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 30723,
+      "name": "gini-index",
+      "path": "data/gini-index.csv",
       "schema": {
         "fields": [
           {
+            "description": "",
             "name": "Country Name",
-            "type": "string",
-            "description": ""
+            "type": "string"
           },
           {
+            "description": "",
             "name": "Country Code",
-            "type": "string",
-            "description": ""
+            "type": "string"
           },
           {
+            "description": "",
+            "format": "any",
             "name": "Year",
-            "type": "date",
-            "description": ""
+            "type": "date"
           },
           {
+            "description": "",
             "name": "Value",
-            "type": "number",
-            "description": ""
+            "type": "number"
           }
         ]
       }
     }
   ],
-  "name": "gini-index",
   "title": "Historic values of the GINI Index",
-  "description": "The repository of the data package of the GINI Index",
-  "homepage": "https://github.com/gsilvapt/gini-index",
-  "version": "0.1.0",
-  "license": "ODC-PDDL-1.0",
-  "repository": "git://github.com/gsilvapt/gini-index.git"
+  "version": "0.1.0"
 }
