@@ -25,9 +25,8 @@
           },
           {
             "description": "",
-            "format": "any",
             "name": "Year",
-            "type": "date"
+            "type": "year"
           },
           {
             "description": "",
