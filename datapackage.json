@@ -52,8 +52,8 @@
   ],
   "views": [
     {
-      "name": "values-of-the-gini-index-by-countries-2015",
-      "title": "Values of the GINI Index by countries 2015",
+      "name": "gini-index-by-country-2015",
+      "title": "GINI Index by country 2015",
       "resources": [
         {
           "name": "gini-index",
@@ -61,6 +61,29 @@
             {
               "type": "filter",
               "expression": "parseInt(data['Year']) === 2015"
+            }
+          ]
+        }
+      ],
+      "specType": "simple",
+      "spec": {
+        "type": "bar",
+        "group": "Country Code",
+        "series": [
+          "Value"
+        ]
+      }
+    },
+    {
+      "name": "gini-index-by-country-2014",
+      "title": "GINI Index by country 2014",
+      "resources": [
+        {
+          "name": "gini-index",
+          "transform": [
+            {
+              "type": "filter",
+              "expression": "parseInt(data['Year']) === 2014"
             }
           ]
         }
