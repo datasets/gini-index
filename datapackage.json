@@ -1,9 +1,22 @@
 {
   "description": "The repository of the data package of the GINI Index",
   "homepage": "https://github.com/gsilvapt/gini-index",
-  "license": "ODC-PDDL-1.0",
+  "licenses": [
+    {
+      "name": "odc-pddl",
+      "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)",
+      "path": "http://opendatacommons.org/licenses/pddl/"
+    }
+  ],
+  "sources":[
+    {
+      "title": "the World Bank",
+      "path": "http://data.worldbank.org/indicator/SI.POV.GINI"
+    }
+  ],
   "name": "gini-index",
-  "repository": "git://github.com/gsilvapt/gini-index.git",
+  "title": "Historic values of the GINI Index",
+  "version": "0.1.0",
   "resources": [
     {
       "bytes": 30723,
@@ -14,22 +27,22 @@
       "schema": {
         "fields": [
           {
-            "description": "",
+            "description": "Country name",
             "name": "Country Name",
             "type": "string"
           },
           {
-            "description": "",
+            "description": "Country code",
             "name": "Country Code",
             "type": "string"
           },
           {
-            "description": "",
+            "description": "Date in the form of %Y",
             "name": "Year",
             "type": "year"
           },
           {
-            "description": "",
+            "description": "Value of the GINI Index",
             "name": "Value",
             "type": "number"
           }
@@ -37,6 +50,29 @@
       }
     }
   ],
-  "title": "Historic values of the GINI Index",
-  "version": "0.1.0"
+  "views": [
+    {
+      "name": "values-of-the-gini-index-by-countries-2015",
+      "title": "Values of the GINI Index by countries 2015",
+      "resources": [
+        {
+          "name": "gini-index",
+          "transform": [
+            {
+              "type": "filter",
+              "expression": "parseInt(data['Year']) === 2015"
+            }
+          ]
+        }
+      ],
+      "specType": "simple",
+      "spec": {
+        "type": "bar",
+        "group": "Country Code",
+        "series": [
+          "Value"
+        ]
+      }
+    }
+  ]
 }
