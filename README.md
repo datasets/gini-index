@@ -6,7 +6,7 @@ The data that is contained in the `gini-index.csv` file, under `/data` was
 retrieved from [the World Bank](http://data.worldbank.org/indicator/SI.POV.GINI).
 
 
-# License
+## License
 
 All data is licensed under the Open Data Commons Public Domain Dedication and License. All code is licensed under the MIT/BSD license.
 
