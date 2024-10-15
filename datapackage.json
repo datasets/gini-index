@@ -8,7 +8,7 @@
       "path": "http://opendatacommons.org/licenses/pddl/"
     }
   ],
-  "sources":[
+  "sources": [
     {
       "title": "the World Bank",
       "path": "http://data.worldbank.org/indicator/SI.POV.GINI"
@@ -97,5 +97,6 @@
         ]
       }
     }
-  ]
+  ],
+  "collection": "economic-data"
 }
