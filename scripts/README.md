@@ -11,7 +11,7 @@ Afterwards, it will delete rows with blank inputs.
 Run the requirements through `pip` in order to install all required packages to 
 run the script.
 
-`pip install -r /path/to/requirements.txt`
+`pip install -r scripts/requirements.txt`
 
 ## Contributing
 
