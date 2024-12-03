@@ -23,7 +23,7 @@ Or, alternatively just by running:
 
 ## Automation
 
-Up-to-date (auto-updates every year) gdp dataset could be found on the datahub.io:
+Up-to-date (auto-updates each 2 month) gini-index dataset could be found on the datahub.io:
 https://datahub.io/core/gini-index
 
 ## Licence
