@@ -9,14 +9,17 @@ retrieved from [the World Bank](http://data.worldbank.org/indicator/SI.POV.GINI)
 
 ## Preparation
 
-Run the requirements through `pip` in order to install all required packages to 
-run the script.
+Run the requirements through `pip` in order to install all required packages to run the script.
 
 `pip install -r scripts/requirements.txt`
 
-Process is recorded and automated in python script:
+The process is recorded and automated in a Python script:
 
 `scripts/process.py`
+
+Or, alternatively just by running:
+
+`make`
 
 ## Automation
 
