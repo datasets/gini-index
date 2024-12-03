@@ -1,3 +1,2 @@
-process.py
-pandas
-numpy
+pandas==2.2.3
+requests==2.32.3

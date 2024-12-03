@@ -7,8 +7,26 @@ The repository of the data package of the GINI Index.
 The data that is contained in the `gini-index.csv` file, under `/data` was
 retrieved from [the World Bank](http://data.worldbank.org/indicator/SI.POV.GINI).
 
+## Preparation
 
-## License
+Run the requirements through `pip` in order to install all required packages to run the script.
+
+`pip install -r scripts/requirements.txt`
+
+The process is recorded and automated in a Python script:
+
+`scripts/process.py`
+
+Or, alternatively just by running:
+
+`make`
+
+## Automation
+
+Up-to-date (auto-updates every year) gdp dataset could be found on the datahub.io:
+https://datahub.io/core/gini-index
+
+## Licence
 
 All data is licensed under the Open Data Commons Public Domain Dedication and License. All code is licensed under the MIT/BSD license.
 
