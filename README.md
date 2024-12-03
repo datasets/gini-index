@@ -14,6 +14,10 @@ run the script.
 
 `pip install -r scripts/requirements.txt`
 
+Process is recorded and automated in python script:
+
+`scripts/process.py`
+
 ## Automation
 
 Up-to-date (auto-updates every year) gdp dataset could be found on the datahub.io:
