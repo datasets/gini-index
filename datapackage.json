@@ -23,19 +23,88 @@
       "format": "csv",
       "mediatype": "text/csv",
       "name": "gini-index",
-      "path": "data/gini-index.csv"
+      "path": "data/gini-index.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "description": "Country name"
+          },
+          {
+            "name": "Country Code",
+            "description": "Country code"
+          },
+          {
+            "name": "Year",
+            "description": "Date in the form of %Y"
+          },
+          {
+            "name": "Value",
+            "description": "Value of the GINI Index"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
     },
     {
       "format": "csv",
       "mediatype": "text/csv",
       "name": "gini-index-2015",
-      "path": "data/gini-index-2015.csv"
+      "path": "data/gini-index-2015.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "description": "Country name"
+          },
+          {
+            "name": "Country Code",
+            "description": "Country code"
+          },
+          {
+            "name": "Year",
+            "description": "Date in the form of %Y"
+          },
+          {
+            "name": "Value",
+            "description": "Value of the GINI Index"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
     },
     {
       "format": "csv",
       "mediatype": "text/csv",
       "name": "gini-index-2014",
-      "path": "data/gini-index-2014.csv"
+      "path": "data/gini-index-2014.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "description": "Country name"
+          },
+          {
+            "name": "Country Code",
+            "description": "Country code"
+          },
+          {
+            "name": "Year",
+            "description": "Date in the form of %Y"
+          },
+          {
+            "name": "Value",
+            "description": "Value of the GINI Index"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
     }
   ],
   "views": [
