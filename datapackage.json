@@ -29,12 +29,12 @@
           {
             "description": "Country name",
             "name": "Country Name",
-            "type": "string"
+            "type": "any"
           },
           {
             "description": "Country code",
             "name": "Country Code",
-            "type": "string"
+            "type": "any"
           },
           {
             "description": "Date in the form of %Y",
@@ -59,12 +59,12 @@
           {
             "description": "Country name",
             "name": "Country Name",
-            "type": "string"
+            "type": "any"
           },
           {
             "description": "Country code",
             "name": "Country Code",
-            "type": "string"
+            "type": "any"
           },
           {
             "description": "Date in the form of %Y",
@@ -89,12 +89,12 @@
           {
             "description": "Country name",
             "name": "Country Name",
-            "type": "string"
+            "type": "any"
           },
           {
             "description": "Country code",
             "name": "Country Code",
-            "type": "string"
+            "type": "any"
           },
           {
             "description": "Date in the form of %Y",
