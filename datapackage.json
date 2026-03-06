@@ -23,91 +23,19 @@
       "format": "csv",
       "mediatype": "text/csv",
       "name": "gini-index",
-      "path": "data/gini-index.csv",
-      "schema": {
-        "fields": [
-          {
-            "description": "Country name",
-            "name": "Country Name",
-            "type": "any"
-          },
-          {
-            "description": "Country code",
-            "name": "Country Code",
-            "type": "any"
-          },
-          {
-            "description": "Date in the form of %Y",
-            "name": "Year",
-            "type": "year"
-          },
-          {
-            "description": "Value of the GINI Index",
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      }
+      "path": "data/gini-index.csv"
     },
     {
       "format": "csv",
       "mediatype": "text/csv",
       "name": "gini-index-2015",
-      "path": "data/gini-index-2015.csv",
-      "schema": {
-        "fields": [
-          {
-            "description": "Country name",
-            "name": "Country Name",
-            "type": "any"
-          },
-          {
-            "description": "Country code",
-            "name": "Country Code",
-            "type": "any"
-          },
-          {
-            "description": "Date in the form of %Y",
-            "name": "Year",
-            "type": "year"
-          },
-          {
-            "description": "Value of the GINI Index",
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      }
+      "path": "data/gini-index-2015.csv"
     },
     {
       "format": "csv",
       "mediatype": "text/csv",
       "name": "gini-index-2014",
-      "path": "data/gini-index-2014.csv",
-      "schema": {
-        "fields": [
-          {
-            "description": "Country name",
-            "name": "Country Name",
-            "type": "any"
-          },
-          {
-            "description": "Country code",
-            "name": "Country Code",
-            "type": "any"
-          },
-          {
-            "description": "Date in the form of %Y",
-            "name": "Year",
-            "type": "year"
-          },
-          {
-            "description": "Value of the GINI Index",
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      }
+      "path": "data/gini-index-2014.csv"
     }
   ],
   "views": [
