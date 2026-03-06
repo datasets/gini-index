@@ -50,8 +50,8 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "description": "Date in the form of %Y",
+            "name": "Country Code",
+            "description": "Country code",
             "type": "year"
           },
           {
@@ -73,8 +73,8 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "description": "Date in the form of %Y",
+            "name": "Country Code",
+            "description": "Country code",
             "type": "year"
           },
           {
