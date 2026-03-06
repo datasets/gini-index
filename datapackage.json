@@ -50,9 +50,9 @@
       "schema": {
         "fields": [
           {
-            "name": "Country Code",
-            "description": "Country code",
-            "type": "year"
+            "name": "Country Index",
+            "description": "Sequential country index for chart grouping",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -73,9 +73,9 @@
       "schema": {
         "fields": [
           {
-            "name": "Country Code",
-            "description": "Country code",
-            "type": "year"
+            "name": "Country Index",
+            "description": "Sequential country index for chart grouping",
+            "type": "number"
           },
           {
             "name": "Value",
@@ -92,14 +92,14 @@
   "views": [
     {
       "name": "gini-index-by-country-2015",
-      "title": "GINI Index by country 2015",
+      "title": "GINI Index by country 2015 (indexed)",
       "resources": [
         "gini-index-2015"
       ],
       "specType": "simple",
       "spec": {
         "type": "bar",
-        "group": "Country Code",
+        "group": "Country Index",
         "series": [
           "Value"
         ]
@@ -107,14 +107,14 @@
     },
     {
       "name": "gini-index-by-country-2014",
-      "title": "GINI Index by country 2014",
+      "title": "GINI Index by country 2014 (indexed)",
       "resources": [
         "gini-index-2014"
       ],
       "specType": "simple",
       "spec": {
         "type": "bar",
-        "group": "Country Code",
+        "group": "Country Index",
         "series": [
           "Value"
         ]
