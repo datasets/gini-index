@@ -1,85 +1,85 @@
-Country Index,Country Name,Country Code,Year,Value
-1,Albania,ALB,2014,34.6
-2,Argentina,ARG,2014,41.8
-3,Armenia,ARM,2014,31.5
-4,Australia,AUS,2014,34.4
-5,Austria,AUT,2014,30.5
-6,Belgium,BEL,2014,28.1
-7,Burkina Faso,BFA,2014,35.3
-8,Bulgaria,BGR,2014,37.4
-9,Belarus,BLR,2014,27.2
-10,Bolivia,BOL,2014,47.8
-11,Brazil,BRA,2014,52
-12,Canada,CAN,2014,33.2
-13,Switzerland,CHE,2014,32.5
-14,China,CHN,2014,39.2
-15,Cameroon,CMR,2014,46.6
-16,Colombia,COL,2014,52.5
-17,Comoros,COM,2014,45.3
-18,Costa Rica,CRI,2014,48.6
-19,Cyprus,CYP,2014,35.6
-20,Czechia,CZE,2014,25.9
-21,Germany,DEU,2014,30.8
-22,Denmark,DNK,2014,28.4
-23,Dominican Republic,DOM,2014,44.3
-24,Ecuador,ECU,2014,45
-25,Spain,ESP,2014,36.1
-26,Estonia,EST,2014,34.6
-27,Finland,FIN,2014,26.8
-28,France,FRA,2014,32.3
-29,United Kingdom,GBR,2014,33.1
-30,Georgia,GEO,2014,37.6
-31,Greece,GRC,2014,35.8
-32,Guatemala,GTM,2014,48.3
-33,Honduras,HND,2014,49.9
-34,Croatia,HRV,2014,32.1
-35,Hungary,HUN,2014,30.9
-36,Indonesia,IDN,2014,38.8
-37,Ireland,IRL,2014,31.9
-38,"Iran, Islamic Rep.",IRN,2014,34.8
-39,Iceland,ISL,2014,27.8
-40,Israel,ISR,2014,39.8
-41,Italy,ITA,2014,34.7
-42,Japan,JPN,2014,31.3
-43,Kazakhstan,KAZ,2014,27
-44,Kyrgyz Republic,KGZ,2014,26.8
-45,"Korea, Rep.",KOR,2014,31.2
-46,Liberia,LBR,2014,33.2
-47,Lithuania,LTU,2014,37.7
-48,Luxembourg,LUX,2014,31.2
-49,Latvia,LVA,2014,35.1
-50,Moldova,MDA,2014,26.8
-51,Mexico,MEX,2014,48.9
-52,North Macedonia,MKD,2014,35.2
-53,Malta,MLT,2014,29
-54,Montenegro,MNE,2014,38.8
-55,Mongolia,MNG,2014,32
-56,Mozambique,MOZ,2014,54
-57,Mauritania,MRT,2014,32.6
-58,Niger,NER,2014,34.3
-59,Nicaragua,NIC,2014,46.2
-60,Netherlands,NLD,2014,28.6
-61,Norway,NOR,2014,26.8
-62,Panama,PAN,2014,50.5
-63,Peru,PER,2014,43.1
-64,Poland,POL,2014,32.8
-65,Portugal,PRT,2014,35.6
-66,Paraguay,PRY,2014,50.7
-67,Romania,ROU,2014,36
-68,Russian Federation,RUS,2014,36.9
-69,Sudan,SDN,2014,34.2
-70,El Salvador,SLV,2014,41.6
-71,Serbia,SRB,2014,40.4
-72,Slovak Republic,SVK,2014,26.1
-73,Slovenia,SVN,2014,25.7
-74,Sweden,SWE,2014,28.4
-75,Thailand,THA,2014,37
-76,Timor-Leste,TLS,2014,28.7
-77,Turkiye,TUR,2014,41.2
-78,Ukraine,UKR,2014,24
-79,Uruguay,URY,2014,40.1
-80,United States,USA,2014,41.7
-81,Viet Nam,VNM,2014,34.8
-82,Kosovo,XKX,2014,27.3
-83,"Yemen, Rep.",YEM,2014,36.7
-84,South Africa,ZAF,2014,63
+Country Index,Value
+1,34.6
+2,41.8
+3,31.5
+4,34.4
+5,30.5
+6,28.1
+7,35.3
+8,37.4
+9,27.2
+10,47.8
+11,52
+12,33.2
+13,32.5
+14,39.2
+15,46.6
+16,52.5
+17,45.3
+18,48.6
+19,35.6
+20,25.9
+21,30.8
+22,28.4
+23,44.3
+24,45
+25,36.1
+26,34.6
+27,26.8
+28,32.3
+29,33.1
+30,37.6
+31,35.8
+32,48.3
+33,49.9
+34,32.1
+35,30.9
+36,38.8
+37,31.9
+38,34.8
+39,27.8
+40,39.8
+41,34.7
+42,31.3
+43,27
+44,26.8
+45,31.2
+46,33.2
+47,37.7
+48,31.2
+49,35.1
+50,26.8
+51,48.9
+52,35.2
+53,29
+54,38.8
+55,32
+56,54
+57,32.6
+58,34.3
+59,46.2
+60,28.6
+61,26.8
+62,50.5
+63,43.1
+64,32.8
+65,35.6
+66,50.7
+67,36
+68,36.9
+69,34.2
+70,41.6
+71,40.4
+72,26.1
+73,25.7
+74,28.4
+75,37
+76,28.7
+77,41.2
+78,24
+79,40.1
+80,41.7
+81,34.8
+82,27.3
+83,36.7
+84,63
