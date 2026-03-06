@@ -48,6 +48,66 @@
           }
         ]
       }
+    },
+    {
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "gini-index-2015",
+      "path": "data/gini-index-2015.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "Country name",
+            "name": "Country Name",
+            "type": "string"
+          },
+          {
+            "description": "Country code",
+            "name": "Country Code",
+            "type": "string"
+          },
+          {
+            "description": "Date in the form of %Y",
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "description": "Value of the GINI Index",
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "gini-index-2014",
+      "path": "data/gini-index-2014.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "Country name",
+            "name": "Country Name",
+            "type": "string"
+          },
+          {
+            "description": "Country code",
+            "name": "Country Code",
+            "type": "string"
+          },
+          {
+            "description": "Date in the form of %Y",
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "description": "Value of the GINI Index",
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
     }
   ],
   "views": [
@@ -55,15 +115,7 @@
       "name": "gini-index-by-country-2015",
       "title": "GINI Index by country 2015",
       "resources": [
-        {
-          "name": "gini-index",
-          "transform": [
-            {
-              "type": "filter",
-              "expression": "parseInt(data['Year']) === 2015"
-            }
-          ]
-        }
+        "gini-index-2015"
       ],
       "specType": "simple",
       "spec": {
@@ -78,15 +130,7 @@
       "name": "gini-index-by-country-2014",
       "title": "GINI Index by country 2014",
       "resources": [
-        {
-          "name": "gini-index",
-          "transform": [
-            {
-              "type": "filter",
-              "expression": "parseInt(data['Year']) === 2014"
-            }
-          ]
-        }
+        "gini-index-2014"
       ],
       "specType": "simple",
       "spec": {
