@@ -27,20 +27,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Country Name",
-            "description": "Country name"
-          },
-          {
-            "name": "Country Code",
-            "description": "Country code"
-          },
-          {
             "name": "Year",
-            "description": "Date in the form of %Y"
+            "description": "Date in the form of %Y",
+            "type": "year"
           },
           {
             "name": "Value",
-            "description": "Value of the GINI Index"
+            "description": "Value of the GINI Index",
+            "type": "number"
           }
         ],
         "missingValues": [
@@ -56,20 +50,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Country Name",
-            "description": "Country name"
-          },
-          {
-            "name": "Country Code",
-            "description": "Country code"
-          },
-          {
             "name": "Year",
-            "description": "Date in the form of %Y"
+            "description": "Date in the form of %Y",
+            "type": "year"
           },
           {
             "name": "Value",
-            "description": "Value of the GINI Index"
+            "description": "Value of the GINI Index",
+            "type": "number"
           }
         ],
         "missingValues": [
@@ -85,20 +73,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Country Name",
-            "description": "Country name"
-          },
-          {
-            "name": "Country Code",
-            "description": "Country code"
-          },
-          {
             "name": "Year",
-            "description": "Date in the form of %Y"
+            "description": "Date in the form of %Y",
+            "type": "year"
           },
           {
             "name": "Value",
-            "description": "Value of the GINI Index"
+            "description": "Value of the GINI Index",
+            "type": "number"
           }
         ],
         "missingValues": [
